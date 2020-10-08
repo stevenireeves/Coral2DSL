@@ -1,0 +1,1347 @@
+[2020-07-24 18:22:10 17633] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-24 18:25:14 17764] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-24 18:25:56 17895] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-24 18:26:22 18026] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-24 18:28:44 18172] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-24 19:35:07 18312] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-24 19:36:36 18451] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-27 15:34:32 18590] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-27 16:09:55 18735] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 14:40:34 18887] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 14:45:48 19059] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/workspace/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 21:05:15 541] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 21:10:46 541] Shape x_train: (2700, 60483)
+[2020-07-28 21:10:46 541] Shape x_val:   (300, 60483)
+[2020-07-28 21:10:46 541] Shape x_test:  (1000, 60483)
+[2020-07-28 21:10:47 541] Range x_train: [0, 1]
+[2020-07-28 21:10:47 541] Range x_val:   [0, 1]
+[2020-07-28 21:10:47 541] Range x_test:  [0, 1]
+[2020-07-28 21:10:47 541] Class labels
+[2020-07-28 21:10:47 541]   0: cancer_type:Brain Lower Grade Glioma
+[2020-07-28 21:10:47 541]   1: cancer_type:Breast Invasive Carcinoma
+[2020-07-28 21:10:47 541]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-07-28 21:10:47 541]   3: cancer_type:Lung Adenocarcinoma
+[2020-07-28 21:10:47 541]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-07-28 21:10:47 541]   5: cancer_type:Others
+[2020-07-28 21:10:47 541]   6: cancer_type:Prostate Adenocarcinoma
+[2020-07-28 21:10:47 541]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-07-28 21:10:47 541]   8: cancer_type:Thyroid Carcinoma
+[2020-07-28 21:10:47 541]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-07-28 22:25:31 1300] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 22:29:59 1300] Shape x_train: (2700, 60483)
+[2020-07-28 22:29:59 1300] Shape x_val:   (300, 60483)
+[2020-07-28 22:29:59 1300] Shape x_test:  (1000, 60483)
+[2020-07-28 22:29:59 1300] Range x_train: [0, 1]
+[2020-07-28 22:29:59 1300] Range x_val:   [0, 1]
+[2020-07-28 22:29:59 1300] Range x_test:  [0, 1]
+[2020-07-28 22:29:59 1300] Class labels
+[2020-07-28 22:29:59 1300]   0: cancer_type:Brain Lower Grade Glioma
+[2020-07-28 22:29:59 1300]   1: cancer_type:Breast Invasive Carcinoma
+[2020-07-28 22:29:59 1300]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-07-28 22:29:59 1300]   3: cancer_type:Lung Adenocarcinoma
+[2020-07-28 22:29:59 1300]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-07-28 22:29:59 1300]   5: cancer_type:Others
+[2020-07-28 22:29:59 1300]   6: cancer_type:Prostate Adenocarcinoma
+[2020-07-28 22:29:59 1300]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-07-28 22:29:59 1300]   8: cancer_type:Thyroid Carcinoma
+[2020-07-28 22:29:59 1300]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-07-28 22:39:33 1510] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 22:43:55 1510] Shape x_train: (2700, 60483)
+[2020-07-28 22:43:55 1510] Shape x_val:   (300, 60483)
+[2020-07-28 22:43:55 1510] Shape x_test:  (1000, 60483)
+[2020-07-28 22:43:56 1510] Range x_train: [0, 1]
+[2020-07-28 22:43:56 1510] Range x_val:   [0, 1]
+[2020-07-28 22:43:56 1510] Range x_test:  [0, 1]
+[2020-07-28 22:43:56 1510] Class labels
+[2020-07-28 22:43:56 1510]   0: cancer_type:Brain Lower Grade Glioma
+[2020-07-28 22:43:56 1510]   1: cancer_type:Breast Invasive Carcinoma
+[2020-07-28 22:43:56 1510]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-07-28 22:43:56 1510]   3: cancer_type:Lung Adenocarcinoma
+[2020-07-28 22:43:56 1510]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-07-28 22:43:56 1510]   5: cancer_type:Others
+[2020-07-28 22:43:56 1510]   6: cancer_type:Prostate Adenocarcinoma
+[2020-07-28 22:43:56 1510]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-07-28 22:43:56 1510]   8: cancer_type:Thyroid Carcinoma
+[2020-07-28 22:43:56 1510]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-07-28 22:45:59 1720] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 22:50:20 1720] Shape x_train: (2700, 60483)
+[2020-07-28 22:50:20 1720] Shape x_val:   (300, 60483)
+[2020-07-28 22:50:20 1720] Shape x_test:  (1000, 60483)
+[2020-07-28 22:50:21 1720] Range x_train: [0, 1]
+[2020-07-28 22:50:21 1720] Range x_val:   [0, 1]
+[2020-07-28 22:50:21 1720] Range x_test:  [0, 1]
+[2020-07-28 22:50:21 1720] Class labels
+[2020-07-28 22:50:21 1720]   0: cancer_type:Brain Lower Grade Glioma
+[2020-07-28 22:50:21 1720]   1: cancer_type:Breast Invasive Carcinoma
+[2020-07-28 22:50:21 1720]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-07-28 22:50:21 1720]   3: cancer_type:Lung Adenocarcinoma
+[2020-07-28 22:50:21 1720]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-07-28 22:50:21 1720]   5: cancer_type:Others
+[2020-07-28 22:50:21 1720]   6: cancer_type:Prostate Adenocarcinoma
+[2020-07-28 22:50:21 1720]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-07-28 22:50:21 1720]   8: cancer_type:Thyroid Carcinoma
+[2020-07-28 22:50:21 1720]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-07-28 23:40:58 2202] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-28 23:45:21 2202] Shape x_train: (2700, 60483)
+[2020-07-28 23:45:21 2202] Shape x_val:   (300, 60483)
+[2020-07-28 23:45:21 2202] Shape x_test:  (1000, 60483)
+[2020-07-28 23:45:21 2202] Range x_train: [0, 1]
+[2020-07-28 23:45:21 2202] Range x_val:   [0, 1]
+[2020-07-28 23:45:21 2202] Range x_test:  [0, 1]
+[2020-07-28 23:45:21 2202] Class labels
+[2020-07-28 23:45:21 2202]   0: cancer_type:Brain Lower Grade Glioma
+[2020-07-28 23:45:21 2202]   1: cancer_type:Breast Invasive Carcinoma
+[2020-07-28 23:45:21 2202]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-07-28 23:45:21 2202]   3: cancer_type:Lung Adenocarcinoma
+[2020-07-28 23:45:21 2202]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-07-28 23:45:21 2202]   5: cancer_type:Others
+[2020-07-28 23:45:21 2202]   6: cancer_type:Prostate Adenocarcinoma
+[2020-07-28 23:45:21 2202]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-07-28 23:45:21 2202]   8: cancer_type:Thyroid Carcinoma
+[2020-07-28 23:45:21 2202]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-07-28 23:45:23 2202] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-07-28 23:45:29 2202] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-07-28 23:45:32 2202] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-07-28 23:45:34 2202] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458202, xent: 0.457749
+[2020-07-28 23:45:37 2202] [Epoch: 3] corr: 0.790473, loss: 0.037916, val_corr: 0.794613, val_loss: 0.036979, val_xent: 0.454043, xent: 0.456573
+[2020-07-28 23:45:39 2202] [Epoch: 4] corr: 0.800522, loss: 0.036202, val_corr: 0.803688, val_loss: 0.035502, val_xent: 0.450017, xent: 0.451852
+[2020-07-28 23:45:42 2202] [Epoch: 5] corr: 0.805053, loss: 0.035437, val_corr: 0.805098, val_loss: 0.035278, val_xent: 0.449361, xent: 0.449563
+[2020-07-28 23:45:44 2202] [Epoch: 6] corr: 0.806144, loss: 0.035246, val_corr: 0.805896, val_loss: 0.035168, val_xent: 0.449133, xent: 0.448945
+[2020-07-28 23:45:47 2202] [Epoch: 7] corr: 0.806620, loss: 0.035171, val_corr: 0.805849, val_loss: 0.035160, val_xent: 0.448875, xent: 0.448666
+[2020-07-28 23:45:49 2202] [Epoch: 8] corr: 0.807133, loss: 0.035094, val_corr: 0.806572, val_loss: 0.035057, val_xent: 0.448515, xent: 0.448415
+[2020-07-28 23:45:52 2202] [Epoch: 9] corr: 0.807781, loss: 0.034987, val_corr: 0.806920, val_loss: 0.035003, val_xent: 0.448545, xent: 0.448098
+[2020-07-28 23:45:54 2202] [Epoch: 10] corr: 0.808696, loss: 0.034836, val_corr: 0.807639, val_loss: 0.034877, val_xent: 0.448109, xent: 0.447658
+[2020-07-28 23:45:57 2202] [Epoch: 11] corr: 0.809473, loss: 0.034716, val_corr: 0.808017, val_loss: 0.034824, val_xent: 0.447828, xent: 0.447342
+[2020-07-28 23:45:59 2202] [Epoch: 12] corr: 0.810695, loss: 0.034515, val_corr: 0.808727, val_loss: 0.034689, val_xent: 0.447515, xent: 0.446795
+[2020-07-28 23:46:01 2202] [Epoch: 13] corr: 0.811310, loss: 0.034412, val_corr: 0.810728, val_loss: 0.034373, val_xent: 0.446736, xent: 0.446488
+[2020-07-28 23:46:04 2202] [Epoch: 14] corr: 0.812548, loss: 0.034216, val_corr: 0.811297, val_loss: 0.034272, val_xent: 0.446326, xent: 0.445978
+[2020-07-28 23:46:06 2202] [Epoch: 15] corr: 0.813203, loss: 0.034109, val_corr: 0.811946, val_loss: 0.034185, val_xent: 0.446348, xent: 0.445720
+[2020-07-28 23:46:09 2202] [Epoch: 16] corr: 0.813219, loss: 0.034115, val_corr: 0.809246, val_loss: 0.034653, val_xent: 0.447314, xent: 0.445748
+[2020-07-28 23:46:11 2202] [Epoch: 17] corr: 0.814265, loss: 0.033953, val_corr: 0.813384, val_loss: 0.033963, val_xent: 0.445521, xent: 0.445288
+[2020-07-28 23:46:13 2202] [Epoch: 18] corr: 0.815005, loss: 0.033823, val_corr: 0.813827, val_loss: 0.033860, val_xent: 0.445182, xent: 0.444924
+[2020-07-28 23:46:16 2202] [Epoch: 19] corr: 0.815483, loss: 0.033750, val_corr: 0.813908, val_loss: 0.033857, val_xent: 0.445413, xent: 0.444747
+[2020-07-28 23:46:18 2202] [Epoch: 20] corr: 0.816613, loss: 0.033539, val_corr: 0.814338, val_loss: 0.033773, val_xent: 0.445076, xent: 0.444130
+[2020-07-28 23:46:21 2202] [Epoch: 21] corr: 0.817116, loss: 0.033459, val_corr: 0.814358, val_loss: 0.033786, val_xent: 0.445003, xent: 0.443917
+[2020-07-28 23:46:23 2202] [Epoch: 22] corr: 0.816028, loss: 0.033657, val_corr: 0.813856, val_loss: 0.033900, val_xent: 0.445825, xent: 0.444465
+[2020-07-28 23:46:26 2202] [Epoch: 23] corr: 0.815897, loss: 0.033697, val_corr: 0.813156, val_loss: 0.034190, val_xent: 0.447254, xent: 0.444607
+[2020-07-28 23:46:28 2202] [Epoch: 24] corr: 0.816824, loss: 0.033551, val_corr: 0.814719, val_loss: 0.033738, val_xent: 0.444849, xent: 0.444264
+[2020-07-28 23:46:30 2202] [Epoch: 25] corr: 0.817892, loss: 0.033338, val_corr: 0.815416, val_loss: 0.033611, val_xent: 0.444661, xent: 0.443523
+[2020-07-28 23:46:33 2202] [Epoch: 26] corr: 0.818455, loss: 0.033240, val_corr: 0.815686, val_loss: 0.033587, val_xent: 0.444770, xent: 0.443298
+[2020-07-28 23:46:35 2202] [Epoch: 27] corr: 0.818455, loss: 0.033247, val_corr: 0.815297, val_loss: 0.033629, val_xent: 0.444745, xent: 0.443320
+[2020-07-28 23:46:37 2202] [Epoch: 28] corr: 0.818519, loss: 0.033244, val_corr: 0.815461, val_loss: 0.033638, val_xent: 0.445012, xent: 0.443324
+[2020-07-28 23:46:40 2202] [Epoch: 29] corr: 0.818697, loss: 0.033213, val_corr: 0.815709, val_loss: 0.033567, val_xent: 0.444461, xent: 0.443251
+[2020-07-28 23:46:42 2202] [Epoch: 30] corr: 0.819352, loss: 0.033088, val_corr: 0.816274, val_loss: 0.033454, val_xent: 0.444184, xent: 0.442866
+[2020-07-28 23:46:45 2202] [Epoch: 31] corr: 0.819674, loss: 0.033042, val_corr: 0.816223, val_loss: 0.033484, val_xent: 0.444444, xent: 0.442781
+[2020-07-28 23:46:47 2202] [Epoch: 32] corr: 0.820092, loss: 0.032975, val_corr: 0.816310, val_loss: 0.033443, val_xent: 0.444189, xent: 0.442594
+[2020-07-28 23:46:49 2202] [Epoch: 33] corr: 0.820443, loss: 0.032917, val_corr: 0.816687, val_loss: 0.033386, val_xent: 0.444060, xent: 0.442425
+[2020-07-28 23:46:52 2202] [Epoch: 34] corr: 0.820554, loss: 0.032904, val_corr: 0.816175, val_loss: 0.033498, val_xent: 0.444589, xent: 0.442414
+[2020-07-28 23:46:54 2202] [Epoch: 35] corr: 0.821116, loss: 0.032802, val_corr: 0.817732, val_loss: 0.033253, val_xent: 0.443979, xent: 0.442166
+[2020-07-28 23:46:57 2202] [Epoch: 36] corr: 0.821853, loss: 0.032683, val_corr: 0.817932, val_loss: 0.033207, val_xent: 0.443636, xent: 0.441886
+[2020-07-28 23:46:59 2202] [Epoch: 37] corr: 0.822322, loss: 0.032615, val_corr: 0.817912, val_loss: 0.033261, val_xent: 0.444089, xent: 0.441732
+[2020-07-28 23:47:01 2202] [Epoch: 38] corr: 0.821126, loss: 0.032879, val_corr: 0.819168, val_loss: 0.033006, val_xent: 0.443393, xent: 0.442650
+[2020-07-28 23:47:04 2202] [Epoch: 39] corr: 0.822991, loss: 0.032489, val_corr: 0.819917, val_loss: 0.032851, val_xent: 0.442733, xent: 0.441408
+[2020-07-28 23:47:06 2202] [Epoch: 40] corr: 0.823374, loss: 0.032423, val_corr: 0.819478, val_loss: 0.032965, val_xent: 0.443133, xent: 0.441205
+[2020-07-28 23:47:09 2202] [Epoch: 41] corr: 0.823564, loss: 0.032396, val_corr: 0.818922, val_loss: 0.033065, val_xent: 0.443350, xent: 0.441171
+[2020-07-28 23:47:11 2202] [Epoch: 42] corr: 0.823782, loss: 0.032357, val_corr: 0.820104, val_loss: 0.032831, val_xent: 0.442688, xent: 0.441072
+[2020-07-28 23:47:13 2202] [Epoch: 43] corr: 0.824565, loss: 0.032229, val_corr: 0.820560, val_loss: 0.032744, val_xent: 0.442461, xent: 0.440717
+[2020-07-28 23:47:16 2202] [Epoch: 44] corr: 0.824709, loss: 0.032200, val_corr: 0.820447, val_loss: 0.032779, val_xent: 0.442460, xent: 0.440644
+[2020-07-28 23:47:18 2202] [Epoch: 45] corr: 0.825150, loss: 0.032138, val_corr: 0.821082, val_loss: 0.032659, val_xent: 0.442216, xent: 0.440473
+[2020-07-28 23:47:21 2202] [Epoch: 46] corr: 0.824636, loss: 0.032254, val_corr: 0.819067, val_loss: 0.033059, val_xent: 0.443522, xent: 0.440849
+[2020-07-28 23:47:23 2202] [Epoch: 47] corr: 0.824205, loss: 0.032299, val_corr: 0.821104, val_loss: 0.032665, val_xent: 0.442264, xent: 0.441003
+[2020-07-28 23:47:25 2202] [Epoch: 48] corr: 0.824813, loss: 0.032187, val_corr: 0.821699, val_loss: 0.032577, val_xent: 0.442049, xent: 0.440662
+[2020-07-28 23:47:28 2202] [Epoch: 49] corr: 0.825706, loss: 0.032039, val_corr: 0.821516, val_loss: 0.032697, val_xent: 0.442598, xent: 0.440238
+[2020-07-28 23:47:30 2202] [Epoch: 50] corr: 0.825682, loss: 0.032062, val_corr: 0.821333, val_loss: 0.032617, val_xent: 0.442151, xent: 0.440375
+[2020-07-28 23:47:32 2202] [Epoch: 51] corr: 0.826402, loss: 0.031920, val_corr: 0.822364, val_loss: 0.032460, val_xent: 0.441874, xent: 0.439958
+[2020-07-28 23:47:35 2202] [Epoch: 52] corr: 0.827017, loss: 0.031813, val_corr: 0.822829, val_loss: 0.032379, val_xent: 0.441631, xent: 0.439682
+[2020-07-28 23:47:37 2202] [Epoch: 53] corr: 0.827469, loss: 0.031735, val_corr: 0.822554, val_loss: 0.032415, val_xent: 0.441733, xent: 0.439528
+[2020-07-28 23:47:40 2202] [Epoch: 54] corr: 0.827814, loss: 0.031687, val_corr: 0.823184, val_loss: 0.032319, val_xent: 0.441500, xent: 0.439425
+[2020-07-28 23:47:42 2202] [Epoch: 55] corr: 0.827682, loss: 0.031713, val_corr: 0.821740, val_loss: 0.032595, val_xent: 0.442223, xent: 0.439527
+[2020-07-28 23:47:44 2202] [Epoch: 56] corr: 0.826950, loss: 0.031850, val_corr: 0.823221, val_loss: 0.032328, val_xent: 0.441594, xent: 0.439917
+[2020-07-28 23:47:47 2202] [Epoch: 57] corr: 0.828116, loss: 0.031642, val_corr: 0.824630, val_loss: 0.032128, val_xent: 0.441186, xent: 0.439308
+[2020-07-28 23:47:49 2202] [Epoch: 58] corr: 0.829476, loss: 0.031417, val_corr: 0.824816, val_loss: 0.032082, val_xent: 0.441036, xent: 0.438736
+[2020-07-28 23:47:51 2202] [Epoch: 59] corr: 0.829747, loss: 0.031373, val_corr: 0.825287, val_loss: 0.031967, val_xent: 0.440662, xent: 0.438658
+[2020-07-28 23:47:54 2202] [Epoch: 60] corr: 0.830855, loss: 0.031179, val_corr: 0.825519, val_loss: 0.031949, val_xent: 0.440712, xent: 0.438083
+[2020-07-28 23:47:56 2202] [Epoch: 61] corr: 0.831219, loss: 0.031122, val_corr: 0.825761, val_loss: 0.031902, val_xent: 0.440487, xent: 0.437953
+[2020-07-28 23:47:59 2202] [Epoch: 62] corr: 0.831308, loss: 0.031106, val_corr: 0.825522, val_loss: 0.031927, val_xent: 0.440570, xent: 0.437904
+[2020-07-28 23:48:01 2202] [Epoch: 63] corr: 0.831974, loss: 0.030986, val_corr: 0.826298, val_loss: 0.031806, val_xent: 0.440269, xent: 0.437572
+[2020-07-28 23:48:03 2202] [Epoch: 64] corr: 0.832142, loss: 0.030965, val_corr: 0.826450, val_loss: 0.031808, val_xent: 0.440237, xent: 0.437535
+[2020-07-28 23:48:05 2202] [Epoch: 65] corr: 0.832377, loss: 0.030925, val_corr: 0.826317, val_loss: 0.031844, val_xent: 0.440271, xent: 0.437395
+[2020-07-28 23:48:08 2202] [Epoch: 66] corr: 0.832781, loss: 0.030854, val_corr: 0.827184, val_loss: 0.031650, val_xent: 0.439762, xent: 0.437197
+[2020-07-28 23:48:10 2202] [Epoch: 67] corr: 0.832771, loss: 0.030851, val_corr: 0.826029, val_loss: 0.031865, val_xent: 0.440451, xent: 0.437172
+[2020-07-28 23:48:12 2202] [Epoch: 68] corr: 0.832445, loss: 0.030910, val_corr: 0.825891, val_loss: 0.031864, val_xent: 0.440425, xent: 0.437333
+[2020-07-28 23:48:15 2202] [Epoch: 69] corr: 0.832834, loss: 0.030855, val_corr: 0.826319, val_loss: 0.031803, val_xent: 0.440137, xent: 0.437235
+[2020-07-28 23:48:17 2202] [Epoch: 70] corr: 0.833217, loss: 0.030785, val_corr: 0.827051, val_loss: 0.031697, val_xent: 0.439900, xent: 0.436999
+[2020-07-28 23:48:20 2202] [Epoch: 71] corr: 0.833332, loss: 0.030762, val_corr: 0.826004, val_loss: 0.031856, val_xent: 0.440357, xent: 0.436910
+[2020-07-28 23:48:22 2202] [Epoch: 72] corr: 0.832430, loss: 0.030921, val_corr: 0.826383, val_loss: 0.031815, val_xent: 0.440174, xent: 0.437380
+[2020-07-28 23:48:25 2202] [Epoch: 73] corr: 0.833652, loss: 0.030704, val_corr: 0.826820, val_loss: 0.031710, val_xent: 0.439926, xent: 0.436761
+[2020-07-28 23:48:27 2202] [Epoch: 74] corr: 0.833752, loss: 0.030695, val_corr: 0.826716, val_loss: 0.031737, val_xent: 0.439989, xent: 0.436718
+[2020-07-28 23:48:29 2202] [Epoch: 75] corr: 0.833604, loss: 0.030729, val_corr: 0.826609, val_loss: 0.031747, val_xent: 0.440105, xent: 0.436828
+[2020-07-28 23:48:32 2202] [Epoch: 76] corr: 0.832368, loss: 0.030956, val_corr: 0.826183, val_loss: 0.031832, val_xent: 0.440225, xent: 0.437542
+[2020-07-28 23:48:34 2202] [Epoch: 77] corr: 0.833114, loss: 0.030803, val_corr: 0.826482, val_loss: 0.031837, val_xent: 0.440234, xent: 0.437014
+[2020-07-28 23:48:36 2202] [Epoch: 78] corr: 0.833930, loss: 0.030671, val_corr: 0.827210, val_loss: 0.031650, val_xent: 0.439793, xent: 0.436648
+[2020-07-28 23:48:39 2202] [Epoch: 79] corr: 0.834223, loss: 0.030613, val_corr: 0.827206, val_loss: 0.031668, val_xent: 0.439721, xent: 0.436469
+[2020-07-28 23:48:41 2202] [Epoch: 80] corr: 0.834517, loss: 0.030561, val_corr: 0.827067, val_loss: 0.031678, val_xent: 0.439865, xent: 0.436317
+[2020-07-28 23:48:43 2202] [Epoch: 81] corr: 0.835111, loss: 0.030458, val_corr: 0.827746, val_loss: 0.031574, val_xent: 0.439584, xent: 0.436039
+[2020-07-28 23:48:46 2202] [Epoch: 82] corr: 0.834857, loss: 0.030503, val_corr: 0.827691, val_loss: 0.031565, val_xent: 0.439548, xent: 0.436133
+[2020-07-28 23:48:48 2202] [Epoch: 83] corr: 0.835106, loss: 0.030463, val_corr: 0.826685, val_loss: 0.031771, val_xent: 0.440044, xent: 0.436070
+[2020-07-28 23:48:51 2202] [Epoch: 84] corr: 0.835316, loss: 0.030429, val_corr: 0.827514, val_loss: 0.031604, val_xent: 0.439595, xent: 0.435963
+[2020-07-28 23:48:53 2202] [Epoch: 85] corr: 0.835645, loss: 0.030369, val_corr: 0.827145, val_loss: 0.031656, val_xent: 0.439778, xent: 0.435766
+[2020-07-28 23:48:56 2202] [Epoch: 86] corr: 0.835526, loss: 0.030391, val_corr: 0.827201, val_loss: 0.031668, val_xent: 0.439839, xent: 0.435839
+[2020-07-28 23:48:58 2202] [Epoch: 87] corr: 0.835561, loss: 0.030391, val_corr: 0.827426, val_loss: 0.031616, val_xent: 0.439642, xent: 0.435845
+[2020-07-28 23:49:00 2202] [Epoch: 88] corr: 0.835250, loss: 0.030438, val_corr: 0.826919, val_loss: 0.031695, val_xent: 0.439879, xent: 0.435954
+[2020-07-28 23:49:03 2202] [Epoch: 89] corr: 0.835523, loss: 0.030395, val_corr: 0.826916, val_loss: 0.031733, val_xent: 0.439956, xent: 0.435838
+[2020-07-28 23:49:05 2202] [Epoch: 90] corr: 0.835616, loss: 0.030384, val_corr: 0.826728, val_loss: 0.031790, val_xent: 0.440080, xent: 0.435815
+[2020-07-28 23:49:07 2202] [Epoch: 91] corr: 0.835716, loss: 0.030363, val_corr: 0.827291, val_loss: 0.031636, val_xent: 0.439727, xent: 0.435733
+[2020-07-28 23:49:09 2202] [Epoch: 92] corr: 0.835912, loss: 0.030325, val_corr: 0.826021, val_loss: 0.031915, val_xent: 0.440488, xent: 0.435633
+[2020-07-28 23:49:12 2202] [Epoch: 93] corr: 0.835744, loss: 0.030365, val_corr: 0.827273, val_loss: 0.031682, val_xent: 0.439893, xent: 0.435728
+[2020-07-28 23:49:14 2202] [Epoch: 94] corr: 0.835971, loss: 0.030314, val_corr: 0.827122, val_loss: 0.031675, val_xent: 0.439800, xent: 0.435618
+[2020-07-28 23:49:16 2202] [Epoch: 95] corr: 0.835241, loss: 0.030444, val_corr: 0.825467, val_loss: 0.031999, val_xent: 0.440708, xent: 0.435931
+[2020-07-28 23:49:19 2202] [Epoch: 96] corr: 0.835451, loss: 0.030409, val_corr: 0.826632, val_loss: 0.031754, val_xent: 0.440062, xent: 0.435856
+[2020-07-28 23:49:21 2202] [Epoch: 97] corr: 0.835930, loss: 0.030323, val_corr: 0.826094, val_loss: 0.031842, val_xent: 0.440379, xent: 0.435590
+[2020-07-28 23:49:23 2202] [Epoch: 98] corr: 0.835748, loss: 0.030369, val_corr: 0.826784, val_loss: 0.031735, val_xent: 0.440066, xent: 0.435794
+[2020-07-28 23:49:26 2202] [Epoch: 99] corr: 0.836254, loss: 0.030267, val_corr: 0.826922, val_loss: 0.031708, val_xent: 0.439861, xent: 0.435461
+[2020-07-28 23:49:29 2202] 
+Evaluation on test data: {'mse': 0.031944513, 'r2_score': 0.19363623108279554, 'correlation': 0.8267109156514396}
+[2020-07-29 17:32:28 206] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-29 17:32:47 342] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-07-29 17:37:50 342] Shape x_train: (2700, 60483)
+[2020-07-29 17:37:50 342] Shape x_val:   (300, 60483)
+[2020-07-29 17:37:50 342] Shape x_test:  (1000, 60483)
+[2020-07-29 17:37:50 342] Range x_train: [0, 1]
+[2020-07-29 17:37:50 342] Range x_val:   [0, 1]
+[2020-07-29 17:37:50 342] Range x_test:  [0, 1]
+[2020-07-29 17:37:50 342] Class labels
+[2020-07-29 17:37:50 342]   0: cancer_type:Brain Lower Grade Glioma
+[2020-07-29 17:37:50 342]   1: cancer_type:Breast Invasive Carcinoma
+[2020-07-29 17:37:50 342]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-07-29 17:37:50 342]   3: cancer_type:Lung Adenocarcinoma
+[2020-07-29 17:37:50 342]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-07-29 17:37:50 342]   5: cancer_type:Others
+[2020-07-29 17:37:50 342]   6: cancer_type:Prostate Adenocarcinoma
+[2020-07-29 17:37:50 342]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-07-29 17:37:50 342]   8: cancer_type:Thyroid Carcinoma
+[2020-07-29 17:37:50 342]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-07-29 17:37:51 342] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-07-29 17:37:58 342] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-07-29 17:38:01 342] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-07-29 17:38:03 342] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458203, xent: 0.457749
+[2020-07-29 17:38:06 342] [Epoch: 3] corr: 0.790435, loss: 0.037920, val_corr: 0.793944, val_loss: 0.037100, val_xent: 0.454363, xent: 0.456573
+[2020-07-29 17:38:09 342] [Epoch: 4] corr: 0.800456, loss: 0.036212, val_corr: 0.803737, val_loss: 0.035495, val_xent: 0.449986, xent: 0.451871
+[2020-07-29 17:38:12 342] [Epoch: 5] corr: 0.805087, loss: 0.035429, val_corr: 0.805178, val_loss: 0.035266, val_xent: 0.449371, xent: 0.449535
+[2020-07-29 17:38:15 342] [Epoch: 6] corr: 0.806142, loss: 0.035246, val_corr: 0.805909, val_loss: 0.035159, val_xent: 0.449061, xent: 0.448947
+[2020-07-29 17:38:18 342] [Epoch: 7] corr: 0.806567, loss: 0.035179, val_corr: 0.805828, val_loss: 0.035164, val_xent: 0.448904, xent: 0.448695
+[2020-07-29 17:38:20 342] [Epoch: 8] corr: 0.807078, loss: 0.035103, val_corr: 0.806542, val_loss: 0.035059, val_xent: 0.448496, xent: 0.448439
+[2020-07-29 17:38:23 342] [Epoch: 9] corr: 0.807820, loss: 0.034981, val_corr: 0.806998, val_loss: 0.034982, val_xent: 0.448445, xent: 0.448087
+[2020-07-29 17:38:25 342] [Epoch: 10] corr: 0.808606, loss: 0.034853, val_corr: 0.807396, val_loss: 0.034926, val_xent: 0.448292, xent: 0.447707
+[2020-07-29 17:38:28 342] [Epoch: 11] corr: 0.809826, loss: 0.034658, val_corr: 0.808594, val_loss: 0.034729, val_xent: 0.447722, xent: 0.447183
+[2020-07-29 17:38:30 342] [Epoch: 12] corr: 0.810314, loss: 0.034580, val_corr: 0.808071, val_loss: 0.034795, val_xent: 0.447698, xent: 0.446971
+[2020-07-29 17:38:33 342] [Epoch: 13] corr: 0.809691, loss: 0.034703, val_corr: 0.809747, val_loss: 0.034535, val_xent: 0.446997, xent: 0.447321
+[2020-07-29 17:38:35 342] [Epoch: 14] corr: 0.812123, loss: 0.034283, val_corr: 0.811002, val_loss: 0.034330, val_xent: 0.446631, xent: 0.446130
+[2020-07-29 17:38:38 342] [Epoch: 15] corr: 0.813441, loss: 0.034062, val_corr: 0.811981, val_loss: 0.034162, val_xent: 0.446117, xent: 0.445566
+[2020-07-29 17:38:40 342] [Epoch: 16] corr: 0.814144, loss: 0.033954, val_corr: 0.812988, val_loss: 0.034004, val_xent: 0.445650, xent: 0.445279
+[2020-07-29 17:38:43 342] [Epoch: 17] corr: 0.814722, loss: 0.033861, val_corr: 0.813321, val_loss: 0.033957, val_xent: 0.445632, xent: 0.445012
+[2020-07-29 17:38:45 342] [Epoch: 18] corr: 0.814487, loss: 0.033910, val_corr: 0.812969, val_loss: 0.033996, val_xent: 0.445579, xent: 0.445182
+[2020-07-29 17:38:48 342] [Epoch: 19] corr: 0.814815, loss: 0.033858, val_corr: 0.812394, val_loss: 0.034172, val_xent: 0.446184, xent: 0.445033
+[2020-07-29 17:38:50 342] [Epoch: 20] corr: 0.815728, loss: 0.033705, val_corr: 0.813249, val_loss: 0.033996, val_xent: 0.445949, xent: 0.444584
+[2020-07-29 17:38:52 342] [Epoch: 21] corr: 0.816438, loss: 0.033583, val_corr: 0.814583, val_loss: 0.033744, val_xent: 0.444935, xent: 0.444241
+[2020-07-29 17:38:55 342] [Epoch: 22] corr: 0.816810, loss: 0.033515, val_corr: 0.814562, val_loss: 0.033806, val_xent: 0.445205, xent: 0.444049
+[2020-07-29 17:38:57 342] [Epoch: 23] corr: 0.817009, loss: 0.033484, val_corr: 0.814528, val_loss: 0.033743, val_xent: 0.444901, xent: 0.443976
+[2020-07-29 17:39:00 342] [Epoch: 24] corr: 0.817299, loss: 0.033442, val_corr: 0.814559, val_loss: 0.033744, val_xent: 0.444873, xent: 0.443845
+[2020-07-29 17:39:02 342] [Epoch: 25] corr: 0.817783, loss: 0.033353, val_corr: 0.814806, val_loss: 0.033751, val_xent: 0.445313, xent: 0.443576
+[2020-07-29 17:39:05 342] [Epoch: 26] corr: 0.818085, loss: 0.033304, val_corr: 0.815395, val_loss: 0.033642, val_xent: 0.444935, xent: 0.443447
+[2020-07-29 17:39:07 342] [Epoch: 27] corr: 0.818662, loss: 0.033216, val_corr: 0.815803, val_loss: 0.033589, val_xent: 0.444889, xent: 0.443244
+[2020-07-29 17:39:09 342] [Epoch: 28] corr: 0.818617, loss: 0.033224, val_corr: 0.815512, val_loss: 0.033576, val_xent: 0.444434, xent: 0.443275
+[2020-07-29 17:39:12 342] [Epoch: 29] corr: 0.818757, loss: 0.033203, val_corr: 0.815579, val_loss: 0.033600, val_xent: 0.444485, xent: 0.443232
+[2020-07-29 17:39:14 342] [Epoch: 30] corr: 0.818226, loss: 0.033314, val_corr: 0.815583, val_loss: 0.033570, val_xent: 0.444364, xent: 0.443606
+[2020-07-29 17:39:17 342] [Epoch: 31] corr: 0.819254, loss: 0.033111, val_corr: 0.815945, val_loss: 0.033527, val_xent: 0.444300, xent: 0.442918
+[2020-07-29 17:39:19 342] [Epoch: 32] corr: 0.819522, loss: 0.033077, val_corr: 0.816314, val_loss: 0.033447, val_xent: 0.444169, xent: 0.442859
+[2020-07-29 17:39:22 342] [Epoch: 33] corr: 0.820026, loss: 0.032983, val_corr: 0.817187, val_loss: 0.033301, val_xent: 0.443812, xent: 0.442573
+[2020-07-29 17:39:24 342] [Epoch: 34] corr: 0.820762, loss: 0.032864, val_corr: 0.817544, val_loss: 0.033269, val_xent: 0.443938, xent: 0.442321
+[2020-07-29 17:39:26 342] [Epoch: 35] corr: 0.821338, loss: 0.032772, val_corr: 0.818551, val_loss: 0.033088, val_xent: 0.443455, xent: 0.442132
+[2020-07-29 17:39:29 342] [Epoch: 36] corr: 0.822171, loss: 0.032629, val_corr: 0.819174, val_loss: 0.032982, val_xent: 0.443107, xent: 0.441774
+[2020-07-29 17:39:31 342] [Epoch: 37] corr: 0.822802, loss: 0.032521, val_corr: 0.819151, val_loss: 0.033104, val_xent: 0.443331, xent: 0.441482
+[2020-07-29 17:39:33 342] [Epoch: 38] corr: 0.822510, loss: 0.032597, val_corr: 0.819959, val_loss: 0.032850, val_xent: 0.442777, xent: 0.441749
+[2020-07-29 17:39:36 342] [Epoch: 39] corr: 0.823142, loss: 0.032484, val_corr: 0.819955, val_loss: 0.032851, val_xent: 0.442800, xent: 0.441435
+[2020-07-29 17:39:38 342] [Epoch: 40] corr: 0.823045, loss: 0.032526, val_corr: 0.819840, val_loss: 0.032922, val_xent: 0.443334, xent: 0.441541
+[2020-07-29 17:39:40 342] [Epoch: 41] corr: 0.823765, loss: 0.032363, val_corr: 0.820848, val_loss: 0.032721, val_xent: 0.442351, xent: 0.441095
+[2020-07-29 17:39:43 342] [Epoch: 42] corr: 0.824317, loss: 0.032264, val_corr: 0.820730, val_loss: 0.032722, val_xent: 0.442412, xent: 0.440778
+[2020-07-29 17:39:45 342] [Epoch: 43] corr: 0.824542, loss: 0.032238, val_corr: 0.819454, val_loss: 0.033024, val_xent: 0.443359, xent: 0.440737
+[2020-07-29 17:39:48 342] [Epoch: 44] corr: 0.824036, loss: 0.032354, val_corr: 0.820622, val_loss: 0.032752, val_xent: 0.442671, xent: 0.441137
+[2020-07-29 17:39:50 342] [Epoch: 45] corr: 0.824932, loss: 0.032169, val_corr: 0.821431, val_loss: 0.032602, val_xent: 0.442155, xent: 0.440588
+[2020-07-29 17:39:52 342] [Epoch: 46] corr: 0.825623, loss: 0.032045, val_corr: 0.821717, val_loss: 0.032558, val_xent: 0.442026, xent: 0.440253
+[2020-07-29 17:39:55 342] [Epoch: 47] corr: 0.825613, loss: 0.032064, val_corr: 0.821751, val_loss: 0.032598, val_xent: 0.442485, xent: 0.440324
+[2020-07-29 17:39:57 342] [Epoch: 48] corr: 0.826214, loss: 0.031954, val_corr: 0.822355, val_loss: 0.032466, val_xent: 0.441929, xent: 0.440103
+[2020-07-29 17:40:00 342] [Epoch: 49] corr: 0.826758, loss: 0.031863, val_corr: 0.823240, val_loss: 0.032307, val_xent: 0.441501, xent: 0.439865
+[2020-07-29 17:40:02 342] [Epoch: 50] corr: 0.825352, loss: 0.032116, val_corr: 0.823013, val_loss: 0.032352, val_xent: 0.441718, xent: 0.440692
+[2020-07-29 17:40:04 342] [Epoch: 51] corr: 0.826362, loss: 0.031937, val_corr: 0.823048, val_loss: 0.032447, val_xent: 0.442300, xent: 0.440120
+[2020-07-29 17:40:07 342] [Epoch: 52] corr: 0.827720, loss: 0.031705, val_corr: 0.825050, val_loss: 0.032013, val_xent: 0.440822, xent: 0.439477
+[2020-07-29 17:40:09 342] [Epoch: 53] corr: 0.827813, loss: 0.031697, val_corr: 0.824728, val_loss: 0.032062, val_xent: 0.440819, xent: 0.439499
+[2020-07-29 17:40:11 342] [Epoch: 54] corr: 0.827844, loss: 0.031689, val_corr: 0.825540, val_loss: 0.031930, val_xent: 0.440493, xent: 0.439442
+[2020-07-29 17:40:14 342] [Epoch: 55] corr: 0.828448, loss: 0.031586, val_corr: 0.825241, val_loss: 0.031985, val_xent: 0.440669, xent: 0.439177
+[2020-07-29 17:40:16 342] [Epoch: 56] corr: 0.829119, loss: 0.031474, val_corr: 0.826291, val_loss: 0.031797, val_xent: 0.440109, xent: 0.438908
+[2020-07-29 17:40:18 342] [Epoch: 57] corr: 0.829394, loss: 0.031422, val_corr: 0.826375, val_loss: 0.031797, val_xent: 0.440138, xent: 0.438747
+[2020-07-29 17:40:21 342] [Epoch: 58] corr: 0.830315, loss: 0.031267, val_corr: 0.826624, val_loss: 0.031763, val_xent: 0.440261, xent: 0.438319
+[2020-07-29 17:40:23 342] [Epoch: 59] corr: 0.830542, loss: 0.031226, val_corr: 0.826564, val_loss: 0.031771, val_xent: 0.440163, xent: 0.438212
+[2020-07-29 17:40:25 342] [Epoch: 60] corr: 0.830686, loss: 0.031225, val_corr: 0.826618, val_loss: 0.031750, val_xent: 0.440026, xent: 0.438239
+[2020-07-29 17:40:28 342] [Epoch: 61] corr: 0.830988, loss: 0.031163, val_corr: 0.827085, val_loss: 0.031677, val_xent: 0.439874, xent: 0.438067
+[2020-07-29 17:40:30 342] [Epoch: 62] corr: 0.831406, loss: 0.031091, val_corr: 0.826392, val_loss: 0.031789, val_xent: 0.440280, xent: 0.437835
+[2020-07-29 17:40:32 342] [Epoch: 63] corr: 0.831340, loss: 0.031099, val_corr: 0.826769, val_loss: 0.031733, val_xent: 0.440114, xent: 0.437857
+[2020-07-29 17:40:35 342] [Epoch: 64] corr: 0.831796, loss: 0.031018, val_corr: 0.826975, val_loss: 0.031691, val_xent: 0.439949, xent: 0.437634
+[2020-07-29 17:40:37 342] [Epoch: 65] corr: 0.832105, loss: 0.030966, val_corr: 0.827336, val_loss: 0.031647, val_xent: 0.439795, xent: 0.437513
+[2020-07-29 17:40:39 342] [Epoch: 66] corr: 0.832408, loss: 0.030915, val_corr: 0.827717, val_loss: 0.031568, val_xent: 0.439627, xent: 0.437363
+[2020-07-29 17:40:42 342] [Epoch: 67] corr: 0.832625, loss: 0.030875, val_corr: 0.827164, val_loss: 0.031667, val_xent: 0.439855, xent: 0.437245
+[2020-07-29 17:40:44 342] [Epoch: 68] corr: 0.832401, loss: 0.030926, val_corr: 0.826679, val_loss: 0.031747, val_xent: 0.440111, xent: 0.437402
+[2020-07-29 17:40:46 342] [Epoch: 69] corr: 0.832358, loss: 0.030938, val_corr: 0.825564, val_loss: 0.031954, val_xent: 0.440676, xent: 0.437444
+[2020-07-29 17:40:49 342] [Epoch: 70] corr: 0.832328, loss: 0.030945, val_corr: 0.827225, val_loss: 0.031664, val_xent: 0.439932, xent: 0.437491
+[2020-07-29 17:40:51 342] [Epoch: 71] corr: 0.832833, loss: 0.030849, val_corr: 0.827154, val_loss: 0.031657, val_xent: 0.439828, xent: 0.437176
+[2020-07-29 17:40:53 342] [Epoch: 72] corr: 0.833234, loss: 0.030774, val_corr: 0.827691, val_loss: 0.031566, val_xent: 0.439688, xent: 0.436955
+[2020-07-29 17:40:56 342] [Epoch: 73] corr: 0.833427, loss: 0.030738, val_corr: 0.827755, val_loss: 0.031571, val_xent: 0.439574, xent: 0.436858
+[2020-07-29 17:40:58 342] [Epoch: 74] corr: 0.833419, loss: 0.030748, val_corr: 0.826884, val_loss: 0.031708, val_xent: 0.439977, xent: 0.436876
+[2020-07-29 17:41:00 342] [Epoch: 75] corr: 0.832373, loss: 0.030947, val_corr: 0.827223, val_loss: 0.031654, val_xent: 0.439946, xent: 0.437476
+[2020-07-29 17:41:03 342] [Epoch: 76] corr: 0.832973, loss: 0.030834, val_corr: 0.827346, val_loss: 0.031633, val_xent: 0.439675, xent: 0.437141
+[2020-07-29 17:41:05 342] [Epoch: 77] corr: 0.833111, loss: 0.030812, val_corr: 0.827923, val_loss: 0.031550, val_xent: 0.439535, xent: 0.437065
+[2020-07-29 17:41:07 342] [Epoch: 78] corr: 0.832887, loss: 0.030843, val_corr: 0.827233, val_loss: 0.031676, val_xent: 0.439979, xent: 0.437160
+[2020-07-29 17:41:10 342] [Epoch: 79] corr: 0.832747, loss: 0.030866, val_corr: 0.827435, val_loss: 0.031618, val_xent: 0.439680, xent: 0.437209
+[2020-07-29 17:41:12 342] [Epoch: 80] corr: 0.833521, loss: 0.030738, val_corr: 0.828010, val_loss: 0.031541, val_xent: 0.439453, xent: 0.436874
+[2020-07-29 17:41:14 342] [Epoch: 81] corr: 0.834298, loss: 0.030596, val_corr: 0.827900, val_loss: 0.031555, val_xent: 0.439553, xent: 0.436456
+[2020-07-29 17:41:17 342] [Epoch: 82] corr: 0.834379, loss: 0.030583, val_corr: 0.827846, val_loss: 0.031548, val_xent: 0.439569, xent: 0.436415
+[2020-07-29 17:41:19 342] [Epoch: 83] corr: 0.834748, loss: 0.030520, val_corr: 0.827646, val_loss: 0.031603, val_xent: 0.439611, xent: 0.436256
+[2020-07-29 17:41:22 342] [Epoch: 84] corr: 0.834684, loss: 0.030537, val_corr: 0.827826, val_loss: 0.031565, val_xent: 0.439637, xent: 0.436300
+[2020-07-29 17:41:24 342] [Epoch: 85] corr: 0.834656, loss: 0.030539, val_corr: 0.827745, val_loss: 0.031569, val_xent: 0.439554, xent: 0.436298
+[2020-07-29 17:41:26 342] [Epoch: 86] corr: 0.834949, loss: 0.030488, val_corr: 0.827809, val_loss: 0.031559, val_xent: 0.439576, xent: 0.436160
+[2020-07-29 17:41:29 342] [Epoch: 87] corr: 0.834902, loss: 0.030498, val_corr: 0.827841, val_loss: 0.031543, val_xent: 0.439548, xent: 0.436200
+[2020-07-29 17:41:31 342] [Epoch: 88] corr: 0.834961, loss: 0.030486, val_corr: 0.827696, val_loss: 0.031568, val_xent: 0.439543, xent: 0.436165
+[2020-07-29 17:41:33 342] [Epoch: 89] corr: 0.835016, loss: 0.030477, val_corr: 0.827895, val_loss: 0.031554, val_xent: 0.439532, xent: 0.436147
+[2020-07-29 17:41:36 342] [Epoch: 90] corr: 0.835144, loss: 0.030454, val_corr: 0.828469, val_loss: 0.031439, val_xent: 0.439251, xent: 0.436074
+[2020-07-29 17:41:38 342] [Epoch: 91] corr: 0.835450, loss: 0.030398, val_corr: 0.827878, val_loss: 0.031536, val_xent: 0.439553, xent: 0.435911
+[2020-07-29 17:41:41 342] [Epoch: 92] corr: 0.835525, loss: 0.030390, val_corr: 0.828089, val_loss: 0.031548, val_xent: 0.439462, xent: 0.435909
+[2020-07-29 17:41:43 342] [Epoch: 93] corr: 0.835502, loss: 0.030395, val_corr: 0.827410, val_loss: 0.031629, val_xent: 0.439706, xent: 0.435899
+[2020-07-29 17:41:45 342] [Epoch: 94] corr: 0.835694, loss: 0.030359, val_corr: 0.827458, val_loss: 0.031619, val_xent: 0.439744, xent: 0.435819
+[2020-07-29 17:41:48 342] [Epoch: 95] corr: 0.835560, loss: 0.030390, val_corr: 0.827503, val_loss: 0.031691, val_xent: 0.439802, xent: 0.435905
+[2020-07-29 17:41:50 342] [Epoch: 96] corr: 0.835525, loss: 0.030406, val_corr: 0.827069, val_loss: 0.031680, val_xent: 0.439964, xent: 0.436000
+[2020-07-29 17:41:52 342] [Epoch: 97] corr: 0.835810, loss: 0.030344, val_corr: 0.827613, val_loss: 0.031603, val_xent: 0.439884, xent: 0.435769
+[2020-07-29 17:41:55 342] [Epoch: 98] corr: 0.836062, loss: 0.030305, val_corr: 0.827935, val_loss: 0.031544, val_xent: 0.439527, xent: 0.435658
+[2020-07-29 17:41:57 342] [Epoch: 99] corr: 0.835950, loss: 0.030318, val_corr: 0.827975, val_loss: 0.031542, val_xent: 0.439541, xent: 0.435701
+[2020-07-29 17:42:01 342] 
+Evaluation on test data: {'mse': 0.031903807, 'r2_score': 0.19378925164836203, 'correlation': 0.8269965128074103}
+[2020-08-26 18:46:18 627] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-26 18:48:53 930] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-26 18:53:21 930] Shape x_train: (2700, 60483)
+[2020-08-26 18:53:21 930] Shape x_val:   (300, 60483)
+[2020-08-26 18:53:21 930] Shape x_test:  (1000, 60483)
+[2020-08-26 18:53:21 930] Range x_train: [0, 1]
+[2020-08-26 18:53:21 930] Range x_val:   [0, 1]
+[2020-08-26 18:53:21 930] Range x_test:  [0, 1]
+[2020-08-26 18:53:21 930] Class labels
+[2020-08-26 18:53:21 930]   0: cancer_type:Brain Lower Grade Glioma
+[2020-08-26 18:53:21 930]   1: cancer_type:Breast Invasive Carcinoma
+[2020-08-26 18:53:21 930]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-08-26 18:53:21 930]   3: cancer_type:Lung Adenocarcinoma
+[2020-08-26 18:53:21 930]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-08-26 18:53:21 930]   5: cancer_type:Others
+[2020-08-26 18:53:21 930]   6: cancer_type:Prostate Adenocarcinoma
+[2020-08-26 18:53:21 930]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-08-26 18:53:21 930]   8: cancer_type:Thyroid Carcinoma
+[2020-08-26 18:53:21 930]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-08-26 18:59:30 1180] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-26 19:03:58 1180] Shape x_train: (2700, 60483)
+[2020-08-26 19:03:58 1180] Shape x_val:   (300, 60483)
+[2020-08-26 19:03:58 1180] Shape x_test:  (1000, 60483)
+[2020-08-26 19:03:58 1180] Range x_train: [0, 1]
+[2020-08-26 19:03:58 1180] Range x_val:   [0, 1]
+[2020-08-26 19:03:58 1180] Range x_test:  [0, 1]
+[2020-08-26 19:03:58 1180] Class labels
+[2020-08-26 19:03:58 1180]   0: cancer_type:Brain Lower Grade Glioma
+[2020-08-26 19:03:58 1180]   1: cancer_type:Breast Invasive Carcinoma
+[2020-08-26 19:03:58 1180]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-08-26 19:03:58 1180]   3: cancer_type:Lung Adenocarcinoma
+[2020-08-26 19:03:58 1180]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-08-26 19:03:58 1180]   5: cancer_type:Others
+[2020-08-26 19:03:58 1180]   6: cancer_type:Prostate Adenocarcinoma
+[2020-08-26 19:03:58 1180]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-08-26 19:03:58 1180]   8: cancer_type:Thyroid Carcinoma
+[2020-08-26 19:03:58 1180]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-08-27 23:29:38 544] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-27 23:34:15 544] Shape x_train: (2700, 60483)
+[2020-08-27 23:34:15 544] Shape x_val:   (300, 60483)
+[2020-08-27 23:34:15 544] Shape x_test:  (1000, 60483)
+[2020-08-27 23:34:16 544] Range x_train: [0, 1]
+[2020-08-27 23:34:16 544] Range x_val:   [0, 1]
+[2020-08-27 23:34:16 544] Range x_test:  [0, 1]
+[2020-08-27 23:34:16 544] Class labels
+[2020-08-27 23:34:16 544]   0: cancer_type:Brain Lower Grade Glioma
+[2020-08-27 23:34:16 544]   1: cancer_type:Breast Invasive Carcinoma
+[2020-08-27 23:34:16 544]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-08-27 23:34:16 544]   3: cancer_type:Lung Adenocarcinoma
+[2020-08-27 23:34:16 544]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-08-27 23:34:16 544]   5: cancer_type:Others
+[2020-08-27 23:34:16 544]   6: cancer_type:Prostate Adenocarcinoma
+[2020-08-27 23:34:16 544]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-08-27 23:34:16 544]   8: cancer_type:Thyroid Carcinoma
+[2020-08-27 23:34:16 544]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-08-27 23:34:17 544] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-08-27 23:34:24 544] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-08-27 23:34:26 544] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-08-27 23:34:29 544] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458203, xent: 0.457749
+[2020-08-27 23:34:32 544] [Epoch: 3] corr: 0.790435, loss: 0.037920, val_corr: 0.793944, val_loss: 0.037100, val_xent: 0.454362, xent: 0.456573
+[2020-08-27 23:34:35 544] [Epoch: 4] corr: 0.800456, loss: 0.036212, val_corr: 0.803737, val_loss: 0.035495, val_xent: 0.449986, xent: 0.451871
+[2020-08-27 23:34:38 544] [Epoch: 5] corr: 0.805087, loss: 0.035429, val_corr: 0.805179, val_loss: 0.035266, val_xent: 0.449370, xent: 0.449535
+[2020-08-27 23:34:40 544] [Epoch: 6] corr: 0.806143, loss: 0.035245, val_corr: 0.805912, val_loss: 0.035160, val_xent: 0.449067, xent: 0.448946
+[2020-08-27 23:34:43 544] [Epoch: 7] corr: 0.806576, loss: 0.035178, val_corr: 0.805851, val_loss: 0.035160, val_xent: 0.448889, xent: 0.448691
+[2020-08-27 23:34:45 544] [Epoch: 8] corr: 0.807109, loss: 0.035097, val_corr: 0.806543, val_loss: 0.035061, val_xent: 0.448512, xent: 0.448425
+[2020-08-27 23:34:47 544] [Epoch: 9] corr: 0.807839, loss: 0.034977, val_corr: 0.806834, val_loss: 0.035018, val_xent: 0.448600, xent: 0.448075
+[2020-08-27 23:34:50 544] [Epoch: 10] corr: 0.808689, loss: 0.034838, val_corr: 0.807501, val_loss: 0.034910, val_xent: 0.448259, xent: 0.447675
+[2020-08-27 23:34:52 544] [Epoch: 11] corr: 0.808941, loss: 0.034805, val_corr: 0.807640, val_loss: 0.034895, val_xent: 0.448095, xent: 0.447581
+[2020-08-27 23:34:54 544] [Epoch: 12] corr: 0.810632, loss: 0.034524, val_corr: 0.809789, val_loss: 0.034525, val_xent: 0.447014, xent: 0.446816
+[2020-08-27 23:34:57 544] [Epoch: 13] corr: 0.811683, loss: 0.034347, val_corr: 0.809824, val_loss: 0.034528, val_xent: 0.447086, xent: 0.446308
+[2020-08-27 23:34:59 544] [Epoch: 14] corr: 0.811788, loss: 0.034341, val_corr: 0.810523, val_loss: 0.034481, val_xent: 0.447477, xent: 0.446295
+[2020-08-27 23:35:02 544] [Epoch: 15] corr: 0.811017, loss: 0.034497, val_corr: 0.810778, val_loss: 0.034366, val_xent: 0.446622, xent: 0.446844
+[2020-08-27 23:35:04 544] [Epoch: 16] corr: 0.813966, loss: 0.033973, val_corr: 0.813083, val_loss: 0.033994, val_xent: 0.445630, xent: 0.445300
+[2020-08-27 23:35:06 544] [Epoch: 17] corr: 0.814909, loss: 0.033828, val_corr: 0.813729, val_loss: 0.033884, val_xent: 0.445431, xent: 0.444925
+[2020-08-27 23:35:09 544] [Epoch: 18] corr: 0.815264, loss: 0.033784, val_corr: 0.813527, val_loss: 0.033906, val_xent: 0.445347, xent: 0.444887
+[2020-08-27 23:35:11 544] [Epoch: 19] corr: 0.815292, loss: 0.033797, val_corr: 0.812905, val_loss: 0.034092, val_xent: 0.446013, xent: 0.444918
+[2020-08-27 23:35:13 544] [Epoch: 20] corr: 0.815745, loss: 0.033713, val_corr: 0.812897, val_loss: 0.034093, val_xent: 0.445985, xent: 0.444649
+[2020-08-27 23:35:16 544] [Epoch: 21] corr: 0.816647, loss: 0.033558, val_corr: 0.815067, val_loss: 0.033653, val_xent: 0.444703, xent: 0.444225
+[2020-08-27 23:35:18 544] [Epoch: 22] corr: 0.816684, loss: 0.033542, val_corr: 0.814049, val_loss: 0.033852, val_xent: 0.445180, xent: 0.444134
+[2020-08-27 23:35:20 544] [Epoch: 23] corr: 0.817036, loss: 0.033480, val_corr: 0.815214, val_loss: 0.033642, val_xent: 0.444749, xent: 0.443932
+[2020-08-27 23:35:23 544] [Epoch: 24] corr: 0.817820, loss: 0.033350, val_corr: 0.815445, val_loss: 0.033598, val_xent: 0.444613, xent: 0.443589
+[2020-08-27 23:35:25 544] [Epoch: 25] corr: 0.818370, loss: 0.033252, val_corr: 0.815510, val_loss: 0.033586, val_xent: 0.444582, xent: 0.443325
+[2020-08-27 23:35:28 544] [Epoch: 26] corr: 0.818566, loss: 0.033222, val_corr: 0.815361, val_loss: 0.033607, val_xent: 0.444493, xent: 0.443239
+[2020-08-27 23:35:30 544] [Epoch: 27] corr: 0.818763, loss: 0.033200, val_corr: 0.815265, val_loss: 0.033629, val_xent: 0.444760, xent: 0.443190
+[2020-08-27 23:35:32 544] [Epoch: 28] corr: 0.818647, loss: 0.033213, val_corr: 0.815578, val_loss: 0.033568, val_xent: 0.444509, xent: 0.443216
+[2020-08-27 23:35:35 544] [Epoch: 29] corr: 0.818790, loss: 0.033200, val_corr: 0.815406, val_loss: 0.033612, val_xent: 0.444541, xent: 0.443227
+[2020-08-27 23:35:37 544] [Epoch: 30] corr: 0.817934, loss: 0.033355, val_corr: 0.815770, val_loss: 0.033535, val_xent: 0.444363, xent: 0.443707
+[2020-08-27 23:35:39 544] [Epoch: 31] corr: 0.819296, loss: 0.033106, val_corr: 0.815761, val_loss: 0.033572, val_xent: 0.444684, xent: 0.442908
+[2020-08-27 23:35:42 544] [Epoch: 32] corr: 0.819702, loss: 0.033039, val_corr: 0.816363, val_loss: 0.033440, val_xent: 0.444164, xent: 0.442736
+[2020-08-27 23:35:44 544] [Epoch: 33] corr: 0.820050, loss: 0.032978, val_corr: 0.816473, val_loss: 0.033419, val_xent: 0.444115, xent: 0.442575
+[2020-08-27 23:35:46 544] [Epoch: 34] corr: 0.820526, loss: 0.032896, val_corr: 0.817253, val_loss: 0.033296, val_xent: 0.443805, xent: 0.442382
+[2020-08-27 23:35:49 544] [Epoch: 35] corr: 0.821088, loss: 0.032804, val_corr: 0.818108, val_loss: 0.033154, val_xent: 0.443545, xent: 0.442155
+[2020-08-27 23:35:51 544] [Epoch: 36] corr: 0.821713, loss: 0.032709, val_corr: 0.818548, val_loss: 0.033077, val_xent: 0.443319, xent: 0.441963
+[2020-08-27 23:35:53 544] [Epoch: 37] corr: 0.822126, loss: 0.032661, val_corr: 0.818567, val_loss: 0.033149, val_xent: 0.443869, xent: 0.441864
+[2020-08-27 23:35:56 544] [Epoch: 38] corr: 0.822512, loss: 0.032570, val_corr: 0.820111, val_loss: 0.032822, val_xent: 0.442665, xent: 0.441658
+[2020-08-27 23:35:58 544] [Epoch: 39] corr: 0.823438, loss: 0.032413, val_corr: 0.820000, val_loss: 0.032846, val_xent: 0.442770, xent: 0.441175
+[2020-08-27 23:36:00 544] [Epoch: 40] corr: 0.823352, loss: 0.032434, val_corr: 0.820385, val_loss: 0.032778, val_xent: 0.442538, xent: 0.441284
+[2020-08-27 23:36:03 544] [Epoch: 41] corr: 0.824060, loss: 0.032306, val_corr: 0.820854, val_loss: 0.032696, val_xent: 0.442326, xent: 0.440884
+[2020-08-27 23:36:05 544] [Epoch: 42] corr: 0.823801, loss: 0.032396, val_corr: 0.819916, val_loss: 0.032880, val_xent: 0.442858, xent: 0.441201
+[2020-08-27 23:36:08 544] [Epoch: 43] corr: 0.824335, loss: 0.032284, val_corr: 0.820769, val_loss: 0.032709, val_xent: 0.442331, xent: 0.440880
+[2020-08-27 23:36:10 544] [Epoch: 44] corr: 0.824532, loss: 0.032236, val_corr: 0.820758, val_loss: 0.032726, val_xent: 0.442391, xent: 0.440737
+[2020-08-27 23:36:12 544] [Epoch: 45] corr: 0.825127, loss: 0.032140, val_corr: 0.820935, val_loss: 0.032686, val_xent: 0.442361, xent: 0.440479
+[2020-08-27 23:36:15 544] [Epoch: 46] corr: 0.825289, loss: 0.032132, val_corr: 0.819692, val_loss: 0.033003, val_xent: 0.443497, xent: 0.440473
+[2020-08-27 23:36:17 544] [Epoch: 47] corr: 0.825313, loss: 0.032125, val_corr: 0.821407, val_loss: 0.032608, val_xent: 0.442153, xent: 0.440490
+[2020-08-27 23:36:19 544] [Epoch: 48] corr: 0.825032, loss: 0.032164, val_corr: 0.821410, val_loss: 0.032605, val_xent: 0.442125, xent: 0.440613
+[2020-08-27 23:36:22 544] [Epoch: 49] corr: 0.826011, loss: 0.031981, val_corr: 0.821990, val_loss: 0.032533, val_xent: 0.441929, xent: 0.440049
+[2020-08-27 23:36:24 544] [Epoch: 50] corr: 0.826500, loss: 0.031908, val_corr: 0.822015, val_loss: 0.032514, val_xent: 0.441934, xent: 0.439894
+[2020-08-27 23:36:26 544] [Epoch: 51] corr: 0.826694, loss: 0.031871, val_corr: 0.822351, val_loss: 0.032467, val_xent: 0.441739, xent: 0.439778
+[2020-08-27 23:36:29 544] [Epoch: 52] corr: 0.827008, loss: 0.031817, val_corr: 0.822749, val_loss: 0.032402, val_xent: 0.441660, xent: 0.439658
+[2020-08-27 23:36:31 544] [Epoch: 53] corr: 0.827538, loss: 0.031725, val_corr: 0.822688, val_loss: 0.032446, val_xent: 0.442002, xent: 0.439443
+[2020-08-27 23:36:33 544] [Epoch: 54] corr: 0.828380, loss: 0.031601, val_corr: 0.823692, val_loss: 0.032233, val_xent: 0.441345, xent: 0.439184
+[2020-08-27 23:36:36 544] [Epoch: 55] corr: 0.828921, loss: 0.031505, val_corr: 0.822778, val_loss: 0.032439, val_xent: 0.441896, xent: 0.438953
+[2020-08-27 23:36:38 544] [Epoch: 56] corr: 0.828656, loss: 0.031556, val_corr: 0.823160, val_loss: 0.032380, val_xent: 0.441824, xent: 0.439135
+[2020-08-27 23:36:40 544] [Epoch: 57] corr: 0.829336, loss: 0.031452, val_corr: 0.824857, val_loss: 0.032058, val_xent: 0.440791, xent: 0.438870
+[2020-08-27 23:36:43 544] [Epoch: 58] corr: 0.828791, loss: 0.031530, val_corr: 0.824501, val_loss: 0.032096, val_xent: 0.440912, xent: 0.439006
+[2020-08-27 23:36:45 544] [Epoch: 59] corr: 0.829557, loss: 0.031403, val_corr: 0.825224, val_loss: 0.031975, val_xent: 0.440585, xent: 0.438688
+[2020-08-27 23:36:47 544] [Epoch: 60] corr: 0.830357, loss: 0.031261, val_corr: 0.825300, val_loss: 0.031967, val_xent: 0.440621, xent: 0.438257
+[2020-08-27 23:36:50 544] [Epoch: 61] corr: 0.829879, loss: 0.031357, val_corr: 0.824556, val_loss: 0.032108, val_xent: 0.441031, xent: 0.438526
+[2020-08-27 23:36:52 544] [Epoch: 62] corr: 0.829878, loss: 0.031361, val_corr: 0.825279, val_loss: 0.031987, val_xent: 0.440595, xent: 0.438500
+[2020-08-27 23:36:54 544] [Epoch: 63] corr: 0.831097, loss: 0.031131, val_corr: 0.826194, val_loss: 0.031816, val_xent: 0.440194, xent: 0.437881
+[2020-08-27 23:36:57 544] [Epoch: 64] corr: 0.831575, loss: 0.031053, val_corr: 0.826210, val_loss: 0.031837, val_xent: 0.440272, xent: 0.437654
+[2020-08-27 23:36:59 544] [Epoch: 65] corr: 0.831502, loss: 0.031078, val_corr: 0.825310, val_loss: 0.031966, val_xent: 0.440586, xent: 0.437756
+[2020-08-27 23:37:01 544] [Epoch: 66] corr: 0.831705, loss: 0.031036, val_corr: 0.825931, val_loss: 0.031867, val_xent: 0.440389, xent: 0.437620
+[2020-08-27 23:37:03 544] [Epoch: 67] corr: 0.831968, loss: 0.030989, val_corr: 0.825787, val_loss: 0.031891, val_xent: 0.440493, xent: 0.437490
+[2020-08-27 23:37:06 544] [Epoch: 68] corr: 0.831937, loss: 0.031005, val_corr: 0.825863, val_loss: 0.031899, val_xent: 0.440621, xent: 0.437574
+[2020-08-27 23:37:08 544] [Epoch: 69] corr: 0.832194, loss: 0.030961, val_corr: 0.825619, val_loss: 0.031952, val_xent: 0.440431, xent: 0.437433
+[2020-08-27 23:37:11 544] [Epoch: 70] corr: 0.832882, loss: 0.030838, val_corr: 0.826292, val_loss: 0.031818, val_xent: 0.440158, xent: 0.437057
+[2020-08-27 23:37:13 544] [Epoch: 71] corr: 0.833453, loss: 0.030740, val_corr: 0.826639, val_loss: 0.031746, val_xent: 0.440035, xent: 0.436802
+[2020-08-27 23:37:15 544] [Epoch: 72] corr: 0.833419, loss: 0.030747, val_corr: 0.826317, val_loss: 0.031793, val_xent: 0.440180, xent: 0.436823
+[2020-08-27 23:37:18 544] [Epoch: 73] corr: 0.833391, loss: 0.030756, val_corr: 0.826578, val_loss: 0.031764, val_xent: 0.440036, xent: 0.436847
+[2020-08-27 23:37:20 544] [Epoch: 74] corr: 0.833179, loss: 0.030789, val_corr: 0.825922, val_loss: 0.031877, val_xent: 0.440360, xent: 0.436911
+[2020-08-27 23:37:22 544] [Epoch: 75] corr: 0.833130, loss: 0.030803, val_corr: 0.826800, val_loss: 0.031718, val_xent: 0.439916, xent: 0.436969
+[2020-08-27 23:37:25 544] [Epoch: 76] corr: 0.833474, loss: 0.030744, val_corr: 0.826469, val_loss: 0.031831, val_xent: 0.440135, xent: 0.436803
+[2020-08-27 23:37:27 544] [Epoch: 77] corr: 0.833580, loss: 0.030724, val_corr: 0.825802, val_loss: 0.031896, val_xent: 0.440365, xent: 0.436743
+[2020-08-27 23:37:29 544] [Epoch: 78] corr: 0.833902, loss: 0.030668, val_corr: 0.826801, val_loss: 0.031726, val_xent: 0.439973, xent: 0.436567
+[2020-08-27 23:37:31 544] [Epoch: 79] corr: 0.834186, loss: 0.030622, val_corr: 0.827101, val_loss: 0.031685, val_xent: 0.439714, xent: 0.436467
+[2020-08-27 23:37:34 544] [Epoch: 80] corr: 0.834554, loss: 0.030552, val_corr: 0.827216, val_loss: 0.031672, val_xent: 0.439869, xent: 0.436259
+[2020-08-27 23:37:36 544] [Epoch: 81] corr: 0.834766, loss: 0.030520, val_corr: 0.826349, val_loss: 0.031814, val_xent: 0.440264, xent: 0.436164
+[2020-08-27 23:37:38 544] [Epoch: 82] corr: 0.834730, loss: 0.030528, val_corr: 0.826601, val_loss: 0.031770, val_xent: 0.440111, xent: 0.436174
+[2020-08-27 23:37:41 544] [Epoch: 83] corr: 0.834977, loss: 0.030484, val_corr: 0.826544, val_loss: 0.031785, val_xent: 0.440043, xent: 0.436069
+[2020-08-27 23:37:43 544] [Epoch: 84] corr: 0.834778, loss: 0.030517, val_corr: 0.827230, val_loss: 0.031645, val_xent: 0.439703, xent: 0.436128
+[2020-08-27 23:37:46 544] [Epoch: 85] corr: 0.835124, loss: 0.030459, val_corr: 0.826276, val_loss: 0.031799, val_xent: 0.440180, xent: 0.435969
+[2020-08-27 23:37:48 544] [Epoch: 86] corr: 0.835170, loss: 0.030453, val_corr: 0.826043, val_loss: 0.031858, val_xent: 0.440316, xent: 0.435958
+[2020-08-27 23:37:50 544] [Epoch: 87] corr: 0.835288, loss: 0.030430, val_corr: 0.826499, val_loss: 0.031802, val_xent: 0.440045, xent: 0.435884
+[2020-08-27 23:37:53 544] [Epoch: 88] corr: 0.835313, loss: 0.030429, val_corr: 0.825914, val_loss: 0.031892, val_xent: 0.440370, xent: 0.435894
+[2020-08-27 23:37:55 544] [Epoch: 89] corr: 0.835332, loss: 0.030426, val_corr: 0.826971, val_loss: 0.031717, val_xent: 0.439946, xent: 0.435889
+[2020-08-27 23:37:57 544] [Epoch: 90] corr: 0.835387, loss: 0.030414, val_corr: 0.827630, val_loss: 0.031583, val_xent: 0.439522, xent: 0.435858
+[2020-08-27 23:38:00 544] [Epoch: 91] corr: 0.835631, loss: 0.030375, val_corr: 0.826391, val_loss: 0.031790, val_xent: 0.440096, xent: 0.435754
+[2020-08-27 23:38:02 544] [Epoch: 92] corr: 0.835905, loss: 0.030324, val_corr: 0.827478, val_loss: 0.031632, val_xent: 0.439744, xent: 0.435607
+[2020-08-27 23:38:05 544] [Epoch: 93] corr: 0.835651, loss: 0.030372, val_corr: 0.826171, val_loss: 0.031849, val_xent: 0.440301, xent: 0.435716
+[2020-08-27 23:38:07 544] [Epoch: 94] corr: 0.835892, loss: 0.030330, val_corr: 0.826187, val_loss: 0.031839, val_xent: 0.440275, xent: 0.435608
+[2020-08-27 23:38:09 544] [Epoch: 95] corr: 0.836171, loss: 0.030284, val_corr: 0.825649, val_loss: 0.031959, val_xent: 0.440594, xent: 0.435475
+[2020-08-27 23:38:12 544] [Epoch: 96] corr: 0.836177, loss: 0.030290, val_corr: 0.826657, val_loss: 0.031761, val_xent: 0.440022, xent: 0.435514
+[2020-08-27 23:38:14 544] [Epoch: 97] corr: 0.836359, loss: 0.030253, val_corr: 0.826389, val_loss: 0.031820, val_xent: 0.440305, xent: 0.435391
+[2020-08-27 23:38:16 544] [Epoch: 98] corr: 0.836514, loss: 0.030227, val_corr: 0.827472, val_loss: 0.031616, val_xent: 0.439643, xent: 0.435329
+[2020-08-27 23:38:18 544] [Epoch: 99] corr: 0.836800, loss: 0.030172, val_corr: 0.826806, val_loss: 0.031732, val_xent: 0.439884, xent: 0.435154
+[2020-08-27 23:38:22 544] 
+Evaluation on test data: {'mse': 0.032042604, 'r2_score': 0.18856157757333786, 'correlation': 0.8261540823396593}
+[2020-08-27 23:45:54 1173] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-27 23:50:38 1173] Shape x_train: (2700, 60483)
+[2020-08-27 23:50:38 1173] Shape x_val:   (300, 60483)
+[2020-08-27 23:50:38 1173] Shape x_test:  (1000, 60483)
+[2020-08-27 23:50:38 1173] Range x_train: [0, 1]
+[2020-08-27 23:50:38 1173] Range x_val:   [0, 1]
+[2020-08-27 23:50:38 1173] Range x_test:  [0, 1]
+[2020-08-27 23:50:38 1173] Class labels
+[2020-08-27 23:50:38 1173]   0: cancer_type:Brain Lower Grade Glioma
+[2020-08-27 23:50:38 1173]   1: cancer_type:Breast Invasive Carcinoma
+[2020-08-27 23:50:38 1173]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-08-27 23:50:38 1173]   3: cancer_type:Lung Adenocarcinoma
+[2020-08-27 23:50:38 1173]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-08-27 23:50:38 1173]   5: cancer_type:Others
+[2020-08-27 23:50:38 1173]   6: cancer_type:Prostate Adenocarcinoma
+[2020-08-27 23:50:38 1173]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-08-27 23:50:38 1173]   8: cancer_type:Thyroid Carcinoma
+[2020-08-27 23:50:38 1173]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-08-27 23:50:39 1173] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-08-27 23:50:46 1173] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-08-27 23:50:49 1173] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-08-27 23:50:52 1173] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458203, xent: 0.457749
+[2020-08-27 23:50:54 1173] [Epoch: 3] corr: 0.790435, loss: 0.037920, val_corr: 0.793944, val_loss: 0.037100, val_xent: 0.454362, xent: 0.456573
+[2020-08-27 23:50:57 1173] [Epoch: 4] corr: 0.800456, loss: 0.036212, val_corr: 0.803737, val_loss: 0.035495, val_xent: 0.449986, xent: 0.451871
+[2020-08-27 23:50:59 1173] [Epoch: 5] corr: 0.805087, loss: 0.035429, val_corr: 0.805179, val_loss: 0.035266, val_xent: 0.449370, xent: 0.449535
+[2020-08-27 23:51:02 1173] [Epoch: 6] corr: 0.806144, loss: 0.035245, val_corr: 0.805912, val_loss: 0.035159, val_xent: 0.449065, xent: 0.448946
+[2020-08-27 23:51:04 1173] [Epoch: 7] corr: 0.806570, loss: 0.035179, val_corr: 0.805822, val_loss: 0.035165, val_xent: 0.448901, xent: 0.448693
+[2020-08-27 23:51:07 1173] [Epoch: 8] corr: 0.807090, loss: 0.035100, val_corr: 0.806560, val_loss: 0.035057, val_xent: 0.448494, xent: 0.448434
+[2020-08-27 23:51:09 1173] [Epoch: 9] corr: 0.807847, loss: 0.034975, val_corr: 0.806909, val_loss: 0.035005, val_xent: 0.448561, xent: 0.448070
+[2020-08-27 23:51:11 1173] [Epoch: 10] corr: 0.808666, loss: 0.034843, val_corr: 0.807393, val_loss: 0.034922, val_xent: 0.448265, xent: 0.447688
+[2020-08-27 23:51:14 1173] [Epoch: 11] corr: 0.809492, loss: 0.034711, val_corr: 0.808546, val_loss: 0.034732, val_xent: 0.447614, xent: 0.447321
+[2020-08-27 23:51:16 1173] [Epoch: 12] corr: 0.810538, loss: 0.034545, val_corr: 0.809733, val_loss: 0.034572, val_xent: 0.447402, xent: 0.446882
+[2020-08-27 23:51:19 1173] [Epoch: 13] corr: 0.811613, loss: 0.034370, val_corr: 0.810152, val_loss: 0.034468, val_xent: 0.446945, xent: 0.446397
+[2020-08-27 23:51:21 1173] [Epoch: 14] corr: 0.812249, loss: 0.034263, val_corr: 0.810669, val_loss: 0.034372, val_xent: 0.446625, xent: 0.446088
+[2020-08-27 23:51:24 1173] [Epoch: 15] corr: 0.813242, loss: 0.034099, val_corr: 0.812180, val_loss: 0.034138, val_xent: 0.445937, xent: 0.445673
+[2020-08-27 23:51:26 1173] [Epoch: 16] corr: 0.814232, loss: 0.033938, val_corr: 0.813315, val_loss: 0.033946, val_xent: 0.445511, xent: 0.445233
+[2020-08-27 23:51:28 1173] [Epoch: 17] corr: 0.814405, loss: 0.033912, val_corr: 0.813139, val_loss: 0.034010, val_xent: 0.445941, xent: 0.445149
+[2020-08-27 23:51:31 1173] [Epoch: 18] corr: 0.814472, loss: 0.033909, val_corr: 0.813260, val_loss: 0.033961, val_xent: 0.445437, xent: 0.445176
+[2020-08-27 23:51:33 1173] [Epoch: 19] corr: 0.815629, loss: 0.033716, val_corr: 0.812865, val_loss: 0.034013, val_xent: 0.445782, xent: 0.444627
+[2020-08-27 23:51:35 1173] [Epoch: 20] corr: 0.815718, loss: 0.033706, val_corr: 0.813355, val_loss: 0.033954, val_xent: 0.445451, xent: 0.444608
+[2020-08-27 23:51:38 1173] [Epoch: 21] corr: 0.816381, loss: 0.033587, val_corr: 0.814079, val_loss: 0.033815, val_xent: 0.444995, xent: 0.444253
+[2020-08-27 23:51:40 1173] [Epoch: 22] corr: 0.816770, loss: 0.033520, val_corr: 0.813967, val_loss: 0.033866, val_xent: 0.445396, xent: 0.444034
+[2020-08-27 23:51:43 1173] [Epoch: 23] corr: 0.816971, loss: 0.033498, val_corr: 0.814602, val_loss: 0.033736, val_xent: 0.444960, xent: 0.444019
+[2020-08-27 23:51:45 1173] [Epoch: 24] corr: 0.817654, loss: 0.033386, val_corr: 0.814895, val_loss: 0.033713, val_xent: 0.444804, xent: 0.443709
+[2020-08-27 23:51:48 1173] [Epoch: 25] corr: 0.817385, loss: 0.033441, val_corr: 0.814646, val_loss: 0.033760, val_xent: 0.445220, xent: 0.443850
+[2020-08-27 23:51:50 1173] [Epoch: 26] corr: 0.818105, loss: 0.033297, val_corr: 0.815496, val_loss: 0.033596, val_xent: 0.444677, xent: 0.443426
+[2020-08-27 23:51:52 1173] [Epoch: 27] corr: 0.818770, loss: 0.033188, val_corr: 0.815747, val_loss: 0.033537, val_xent: 0.444368, xent: 0.443138
+[2020-08-27 23:51:55 1173] [Epoch: 28] corr: 0.819000, loss: 0.033151, val_corr: 0.815548, val_loss: 0.033573, val_xent: 0.444497, xent: 0.443035
+[2020-08-27 23:51:57 1173] [Epoch: 29] corr: 0.818919, loss: 0.033182, val_corr: 0.814961, val_loss: 0.033700, val_xent: 0.444773, xent: 0.443183
+[2020-08-27 23:52:00 1173] [Epoch: 30] corr: 0.818769, loss: 0.033208, val_corr: 0.815873, val_loss: 0.033525, val_xent: 0.444339, xent: 0.443227
+[2020-08-27 23:52:02 1173] [Epoch: 31] corr: 0.819584, loss: 0.033055, val_corr: 0.815760, val_loss: 0.033578, val_xent: 0.444619, xent: 0.442754
+[2020-08-27 23:52:04 1173] [Epoch: 32] corr: 0.819889, loss: 0.033012, val_corr: 0.816497, val_loss: 0.033435, val_xent: 0.444245, xent: 0.442664
+[2020-08-27 23:52:07 1173] [Epoch: 33] corr: 0.820518, loss: 0.032906, val_corr: 0.817166, val_loss: 0.033314, val_xent: 0.443913, xent: 0.442370
+[2020-08-27 23:52:09 1173] [Epoch: 34] corr: 0.820520, loss: 0.032910, val_corr: 0.817505, val_loss: 0.033255, val_xent: 0.443792, xent: 0.442484
+[2020-08-27 23:52:12 1173] [Epoch: 35] corr: 0.821075, loss: 0.032823, val_corr: 0.818371, val_loss: 0.033116, val_xent: 0.443349, xent: 0.442279
+[2020-08-27 23:52:14 1173] [Epoch: 36] corr: 0.822000, loss: 0.032663, val_corr: 0.818513, val_loss: 0.033102, val_xent: 0.443453, xent: 0.441878
+[2020-08-27 23:52:16 1173] [Epoch: 37] corr: 0.822395, loss: 0.032618, val_corr: 0.819614, val_loss: 0.032906, val_xent: 0.442867, xent: 0.441778
+[2020-08-27 23:52:19 1173] [Epoch: 38] corr: 0.823058, loss: 0.032494, val_corr: 0.820043, val_loss: 0.032861, val_xent: 0.442858, xent: 0.441432
+[2020-08-27 23:52:21 1173] [Epoch: 39] corr: 0.823643, loss: 0.032384, val_corr: 0.820273, val_loss: 0.032811, val_xent: 0.442627, xent: 0.441118
+[2020-08-27 23:52:23 1173] [Epoch: 40] corr: 0.823094, loss: 0.032530, val_corr: 0.820071, val_loss: 0.032838, val_xent: 0.442788, xent: 0.441581
+[2020-08-27 23:52:26 1173] [Epoch: 41] corr: 0.823893, loss: 0.032344, val_corr: 0.820492, val_loss: 0.032805, val_xent: 0.442747, xent: 0.441070
+[2020-08-27 23:52:28 1173] [Epoch: 42] corr: 0.824735, loss: 0.032208, val_corr: 0.820982, val_loss: 0.032690, val_xent: 0.442430, xent: 0.440698
+[2020-08-27 23:52:31 1173] [Epoch: 43] corr: 0.825153, loss: 0.032126, val_corr: 0.821025, val_loss: 0.032669, val_xent: 0.442439, xent: 0.440478
+[2020-08-27 23:52:33 1173] [Epoch: 44] corr: 0.825501, loss: 0.032082, val_corr: 0.821653, val_loss: 0.032610, val_xent: 0.442427, xent: 0.440449
+[2020-08-27 23:52:35 1173] [Epoch: 45] corr: 0.826553, loss: 0.031901, val_corr: 0.822774, val_loss: 0.032387, val_xent: 0.441662, xent: 0.439974
+[2020-08-27 23:52:38 1173] [Epoch: 46] corr: 0.827038, loss: 0.031828, val_corr: 0.823514, val_loss: 0.032266, val_xent: 0.441417, xent: 0.439807
+[2020-08-27 23:52:40 1173] [Epoch: 47] corr: 0.827590, loss: 0.031738, val_corr: 0.823799, val_loss: 0.032210, val_xent: 0.441347, xent: 0.439588
+[2020-08-27 23:52:43 1173] [Epoch: 48] corr: 0.827647, loss: 0.031738, val_corr: 0.822480, val_loss: 0.032446, val_xent: 0.441987, xent: 0.439606
+[2020-08-27 23:52:45 1173] [Epoch: 49] corr: 0.828108, loss: 0.031640, val_corr: 0.823776, val_loss: 0.032254, val_xent: 0.441586, xent: 0.439297
+[2020-08-27 23:52:47 1173] [Epoch: 50] corr: 0.828589, loss: 0.031568, val_corr: 0.823368, val_loss: 0.032313, val_xent: 0.441521, xent: 0.439161
+[2020-08-27 23:52:50 1173] [Epoch: 51] corr: 0.828984, loss: 0.031500, val_corr: 0.825129, val_loss: 0.032019, val_xent: 0.440730, xent: 0.438937
+[2020-08-27 23:52:52 1173] [Epoch: 52] corr: 0.829003, loss: 0.031491, val_corr: 0.825174, val_loss: 0.031998, val_xent: 0.440762, xent: 0.438919
+[2020-08-27 23:52:55 1173] [Epoch: 53] corr: 0.829472, loss: 0.031409, val_corr: 0.824773, val_loss: 0.032100, val_xent: 0.440900, xent: 0.438657
+[2020-08-27 23:52:57 1173] [Epoch: 54] corr: 0.829746, loss: 0.031372, val_corr: 0.824850, val_loss: 0.032042, val_xent: 0.440753, xent: 0.438561
+[2020-08-27 23:52:59 1173] [Epoch: 55] corr: 0.830065, loss: 0.031314, val_corr: 0.825134, val_loss: 0.032005, val_xent: 0.440786, xent: 0.438423
+[2020-08-27 23:53:02 1173] [Epoch: 56] corr: 0.829216, loss: 0.031475, val_corr: 0.824984, val_loss: 0.032064, val_xent: 0.440974, xent: 0.438900
+[2020-08-27 23:53:04 1173] [Epoch: 57] corr: 0.829782, loss: 0.031369, val_corr: 0.825449, val_loss: 0.031941, val_xent: 0.440593, xent: 0.438553
+[2020-08-27 23:53:06 1173] [Epoch: 58] corr: 0.830610, loss: 0.031216, val_corr: 0.825466, val_loss: 0.031940, val_xent: 0.440556, xent: 0.438117
+[2020-08-27 23:53:09 1173] [Epoch: 59] corr: 0.830812, loss: 0.031179, val_corr: 0.826207, val_loss: 0.031821, val_xent: 0.440191, xent: 0.438023
+[2020-08-27 23:53:11 1173] [Epoch: 60] corr: 0.830976, loss: 0.031163, val_corr: 0.826032, val_loss: 0.031847, val_xent: 0.440287, xent: 0.437985
+[2020-08-27 23:53:14 1173] [Epoch: 61] corr: 0.830962, loss: 0.031177, val_corr: 0.825952, val_loss: 0.031877, val_xent: 0.440391, xent: 0.438004
+[2020-08-27 23:53:16 1173] [Epoch: 62] corr: 0.830928, loss: 0.031172, val_corr: 0.825577, val_loss: 0.031956, val_xent: 0.440469, xent: 0.437997
+[2020-08-27 23:53:18 1173] [Epoch: 63] corr: 0.831630, loss: 0.031056, val_corr: 0.827295, val_loss: 0.031649, val_xent: 0.439733, xent: 0.437656
+[2020-08-27 23:53:21 1173] [Epoch: 64] corr: 0.831664, loss: 0.031040, val_corr: 0.825287, val_loss: 0.032027, val_xent: 0.440695, xent: 0.437608
+[2020-08-27 23:53:23 1173] [Epoch: 65] corr: 0.831212, loss: 0.031128, val_corr: 0.827147, val_loss: 0.031707, val_xent: 0.439873, xent: 0.437890
+[2020-08-27 23:53:26 1173] [Epoch: 66] corr: 0.831781, loss: 0.031030, val_corr: 0.826385, val_loss: 0.031808, val_xent: 0.440322, xent: 0.437596
+[2020-08-27 23:53:28 1173] [Epoch: 67] corr: 0.831979, loss: 0.030998, val_corr: 0.826203, val_loss: 0.031824, val_xent: 0.440191, xent: 0.437537
+[2020-08-27 23:53:31 1173] [Epoch: 68] corr: 0.832551, loss: 0.030895, val_corr: 0.826540, val_loss: 0.031769, val_xent: 0.440156, xent: 0.437217
+[2020-08-27 23:53:33 1173] [Epoch: 69] corr: 0.832914, loss: 0.030830, val_corr: 0.826875, val_loss: 0.031716, val_xent: 0.439894, xent: 0.437068
+[2020-08-27 23:53:35 1173] [Epoch: 70] corr: 0.832930, loss: 0.030830, val_corr: 0.826737, val_loss: 0.031764, val_xent: 0.440206, xent: 0.437052
+[2020-08-27 23:53:38 1173] [Epoch: 71] corr: 0.832942, loss: 0.030827, val_corr: 0.827029, val_loss: 0.031682, val_xent: 0.439878, xent: 0.437052
+[2020-08-27 23:53:40 1173] [Epoch: 72] corr: 0.833249, loss: 0.030772, val_corr: 0.827342, val_loss: 0.031628, val_xent: 0.439678, xent: 0.436877
+[2020-08-27 23:53:42 1173] [Epoch: 73] corr: 0.833274, loss: 0.030766, val_corr: 0.826795, val_loss: 0.031727, val_xent: 0.439934, xent: 0.436876
+[2020-08-27 23:53:45 1173] [Epoch: 74] corr: 0.833606, loss: 0.030715, val_corr: 0.827012, val_loss: 0.031690, val_xent: 0.439922, xent: 0.436725
+[2020-08-27 23:53:47 1173] [Epoch: 75] corr: 0.833618, loss: 0.030719, val_corr: 0.827574, val_loss: 0.031615, val_xent: 0.439741, xent: 0.436753
+[2020-08-27 23:53:50 1173] [Epoch: 76] corr: 0.833344, loss: 0.030762, val_corr: 0.826536, val_loss: 0.031768, val_xent: 0.440021, xent: 0.436894
+[2020-08-27 23:53:52 1173] [Epoch: 77] corr: 0.833495, loss: 0.030747, val_corr: 0.826304, val_loss: 0.031849, val_xent: 0.440134, xent: 0.436878
+[2020-08-27 23:53:54 1173] [Epoch: 78] corr: 0.833822, loss: 0.030684, val_corr: 0.827123, val_loss: 0.031690, val_xent: 0.439979, xent: 0.436648
+[2020-08-27 23:53:57 1173] [Epoch: 79] corr: 0.833963, loss: 0.030655, val_corr: 0.827265, val_loss: 0.031658, val_xent: 0.439736, xent: 0.436547
+[2020-08-27 23:54:00 1173] [Epoch: 80] corr: 0.834374, loss: 0.030580, val_corr: 0.827230, val_loss: 0.031681, val_xent: 0.439926, xent: 0.436356
+[2020-08-27 23:54:03 1173] [Epoch: 81] corr: 0.834328, loss: 0.030600, val_corr: 0.827129, val_loss: 0.031662, val_xent: 0.439767, xent: 0.436412
+[2020-08-27 23:54:06 1173] [Epoch: 82] corr: 0.834356, loss: 0.030594, val_corr: 0.827184, val_loss: 0.031650, val_xent: 0.439832, xent: 0.436401
+[2020-08-27 23:54:09 1173] [Epoch: 83] corr: 0.834575, loss: 0.030549, val_corr: 0.827094, val_loss: 0.031690, val_xent: 0.439834, xent: 0.436294
+[2020-08-27 23:54:13 1173] [Epoch: 84] corr: 0.834900, loss: 0.030494, val_corr: 0.827244, val_loss: 0.031668, val_xent: 0.439752, xent: 0.436101
+[2020-08-27 23:54:16 1173] [Epoch: 85] corr: 0.835085, loss: 0.030461, val_corr: 0.827547, val_loss: 0.031601, val_xent: 0.439718, xent: 0.436013
+[2020-08-27 23:54:19 1173] [Epoch: 86] corr: 0.834969, loss: 0.030487, val_corr: 0.826411, val_loss: 0.031781, val_xent: 0.440087, xent: 0.436096
+[2020-08-27 23:54:22 1173] [Epoch: 87] corr: 0.834971, loss: 0.030485, val_corr: 0.825690, val_loss: 0.031928, val_xent: 0.440465, xent: 0.436086
+[2020-08-27 23:54:25 1173] [Epoch: 88] corr: 0.833317, loss: 0.030762, val_corr: 0.826835, val_loss: 0.031740, val_xent: 0.440189, xent: 0.436855
+[2020-08-27 23:54:28 1173] [Epoch: 89] corr: 0.834075, loss: 0.030650, val_corr: 0.827043, val_loss: 0.031694, val_xent: 0.439813, xent: 0.436551
+[2020-08-27 23:54:31 1173] [Epoch: 90] corr: 0.834451, loss: 0.030576, val_corr: 0.827506, val_loss: 0.031598, val_xent: 0.439653, xent: 0.436318
+[2020-08-27 23:54:34 1173] [Epoch: 91] corr: 0.834831, loss: 0.030506, val_corr: 0.827420, val_loss: 0.031613, val_xent: 0.439710, xent: 0.436121
+[2020-08-27 23:54:37 1173] [Epoch: 92] corr: 0.835023, loss: 0.030479, val_corr: 0.827802, val_loss: 0.031578, val_xent: 0.439649, xent: 0.436078
+[2020-08-28 00:07:07 1753] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-28 00:17:52 1753] Shape x_train: (2700, 60483)
+[2020-08-28 00:17:52 1753] Shape x_val:   (300, 60483)
+[2020-08-28 00:17:52 1753] Shape x_test:  (1000, 60483)
+[2020-08-28 00:17:52 1753] Range x_train: [0, 1]
+[2020-08-28 00:17:52 1753] Range x_val:   [0, 1]
+[2020-08-28 00:17:52 1753] Range x_test:  [0, 1]
+[2020-08-28 00:17:52 1753] Class labels
+[2020-08-28 00:17:52 1753]   0: cancer_type:Brain Lower Grade Glioma
+[2020-08-28 00:17:52 1753]   1: cancer_type:Breast Invasive Carcinoma
+[2020-08-28 00:17:52 1753]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-08-28 00:17:52 1753]   3: cancer_type:Lung Adenocarcinoma
+[2020-08-28 00:17:52 1753]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-08-28 00:17:52 1753]   5: cancer_type:Others
+[2020-08-28 00:17:52 1753]   6: cancer_type:Prostate Adenocarcinoma
+[2020-08-28 00:17:52 1753]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-08-28 00:17:52 1753]   8: cancer_type:Thyroid Carcinoma
+[2020-08-28 00:17:52 1753]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-08-28 00:17:55 1753] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-08-28 00:19:23 2052] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-08-28 00:29:46 2052] Shape x_train: (2700, 60483)
+[2020-08-28 00:29:46 2052] Shape x_val:   (300, 60483)
+[2020-08-28 00:29:46 2052] Shape x_test:  (1000, 60483)
+[2020-08-28 00:29:46 2052] Range x_train: [0, 1]
+[2020-08-28 00:29:46 2052] Range x_val:   [0, 1]
+[2020-08-28 00:29:46 2052] Range x_test:  [0, 1]
+[2020-08-28 00:29:46 2052] Class labels
+[2020-08-28 00:29:46 2052]   0: cancer_type:Brain Lower Grade Glioma
+[2020-08-28 00:29:46 2052]   1: cancer_type:Breast Invasive Carcinoma
+[2020-08-28 00:29:46 2052]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-08-28 00:29:46 2052]   3: cancer_type:Lung Adenocarcinoma
+[2020-08-28 00:29:46 2052]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-08-28 00:29:46 2052]   5: cancer_type:Others
+[2020-08-28 00:29:46 2052]   6: cancer_type:Prostate Adenocarcinoma
+[2020-08-28 00:29:46 2052]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-08-28 00:29:46 2052]   8: cancer_type:Thyroid Carcinoma
+[2020-08-28 00:29:46 2052]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-08-28 00:29:49 2052] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-08-28 00:30:03 2052] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-08-28 00:30:08 2052] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-08-28 00:30:14 2052] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458203, xent: 0.457749
+[2020-08-28 00:30:20 2052] [Epoch: 3] corr: 0.790435, loss: 0.037920, val_corr: 0.793944, val_loss: 0.037100, val_xent: 0.454362, xent: 0.456573
+[2020-08-28 00:30:26 2052] [Epoch: 4] corr: 0.800456, loss: 0.036212, val_corr: 0.803737, val_loss: 0.035495, val_xent: 0.449985, xent: 0.451871
+[2020-08-28 00:30:32 2052] [Epoch: 5] corr: 0.805090, loss: 0.035429, val_corr: 0.805184, val_loss: 0.035265, val_xent: 0.449367, xent: 0.449533
+[2020-08-28 00:30:37 2052] [Epoch: 6] corr: 0.806151, loss: 0.035244, val_corr: 0.805930, val_loss: 0.035158, val_xent: 0.449077, xent: 0.448945
+[2020-08-28 00:30:41 2052] [Epoch: 7] corr: 0.806554, loss: 0.035182, val_corr: 0.805701, val_loss: 0.035185, val_xent: 0.448944, xent: 0.448698
+[2020-08-28 00:30:47 2052] [Epoch: 8] corr: 0.807076, loss: 0.035102, val_corr: 0.806551, val_loss: 0.035061, val_xent: 0.448511, xent: 0.448438
+[2020-08-28 00:30:52 2052] [Epoch: 9] corr: 0.807788, loss: 0.034985, val_corr: 0.807029, val_loss: 0.034975, val_xent: 0.448381, xent: 0.448100
+[2020-08-28 00:30:56 2052] [Epoch: 10] corr: 0.808701, loss: 0.034836, val_corr: 0.807716, val_loss: 0.034860, val_xent: 0.448026, xent: 0.447667
+[2020-08-28 00:31:00 2052] [Epoch: 11] corr: 0.809780, loss: 0.034664, val_corr: 0.808822, val_loss: 0.034678, val_xent: 0.447451, xent: 0.447197
+[2020-08-28 00:31:05 2052] [Epoch: 12] corr: 0.810764, loss: 0.034502, val_corr: 0.805206, val_loss: 0.035264, val_xent: 0.448941, xent: 0.446766
+[2020-08-28 00:31:10 2052] [Epoch: 13] corr: 0.809502, loss: 0.034728, val_corr: 0.809258, val_loss: 0.034622, val_xent: 0.447340, xent: 0.447408
+[2020-08-28 00:31:14 2052] [Epoch: 14] corr: 0.811539, loss: 0.034386, val_corr: 0.810697, val_loss: 0.034380, val_xent: 0.446802, xent: 0.446403
+[2020-08-28 00:31:18 2052] [Epoch: 15] corr: 0.813129, loss: 0.034113, val_corr: 0.812420, val_loss: 0.034096, val_xent: 0.445958, xent: 0.445695
+[2020-08-28 00:31:22 2052] [Epoch: 16] corr: 0.814372, loss: 0.033909, val_corr: 0.813179, val_loss: 0.033978, val_xent: 0.445701, xent: 0.445143
+[2020-08-28 00:31:27 2052] [Epoch: 17] corr: 0.814976, loss: 0.033817, val_corr: 0.813619, val_loss: 0.033890, val_xent: 0.445353, xent: 0.444909
+[2020-08-28 00:31:31 2052] [Epoch: 18] corr: 0.815105, loss: 0.033795, val_corr: 0.811016, val_loss: 0.034446, val_xent: 0.446955, xent: 0.444853
+[2020-08-28 00:31:35 2052] [Epoch: 19] corr: 0.813944, loss: 0.034094, val_corr: 0.813364, val_loss: 0.033932, val_xent: 0.445414, xent: 0.445946
+[2020-08-28 00:31:39 2052] [Epoch: 20] corr: 0.815759, loss: 0.033705, val_corr: 0.813298, val_loss: 0.033981, val_xent: 0.445779, xent: 0.444568
+[2020-08-28 00:31:43 2052] [Epoch: 21] corr: 0.816410, loss: 0.033586, val_corr: 0.811815, val_loss: 0.034246, val_xent: 0.446115, xent: 0.444248
+[2020-08-28 00:31:48 2052] [Epoch: 22] corr: 0.816752, loss: 0.033536, val_corr: 0.814727, val_loss: 0.033726, val_xent: 0.444946, xent: 0.444131
+[2020-08-28 00:31:52 2052] [Epoch: 23] corr: 0.817516, loss: 0.033391, val_corr: 0.814787, val_loss: 0.033719, val_xent: 0.445053, xent: 0.443690
+[2020-08-28 00:31:56 2052] [Epoch: 24] corr: 0.817599, loss: 0.033394, val_corr: 0.814004, val_loss: 0.033831, val_xent: 0.445140, xent: 0.443755
+[2020-08-28 00:32:00 2052] [Epoch: 25] corr: 0.817934, loss: 0.033340, val_corr: 0.815406, val_loss: 0.033605, val_xent: 0.444696, xent: 0.443599
+[2020-08-28 00:32:04 2052] [Epoch: 26] corr: 0.818504, loss: 0.033228, val_corr: 0.814939, val_loss: 0.033688, val_xent: 0.444764, xent: 0.443257
+[2020-08-28 00:32:08 2052] [Epoch: 27] corr: 0.818777, loss: 0.033184, val_corr: 0.815671, val_loss: 0.033555, val_xent: 0.444537, xent: 0.443139
+[2020-08-28 00:32:11 2052] [Epoch: 28] corr: 0.819013, loss: 0.033149, val_corr: 0.816007, val_loss: 0.033506, val_xent: 0.444455, xent: 0.443055
+[2020-08-28 00:32:13 2052] [Epoch: 29] corr: 0.819382, loss: 0.033081, val_corr: 0.816071, val_loss: 0.033511, val_xent: 0.444566, xent: 0.442854
+[2020-08-28 00:32:16 2052] [Epoch: 30] corr: 0.819103, loss: 0.033150, val_corr: 0.815955, val_loss: 0.033514, val_xent: 0.444341, xent: 0.443102
+[2020-08-28 00:32:18 2052] [Epoch: 31] corr: 0.819379, loss: 0.033095, val_corr: 0.815735, val_loss: 0.033586, val_xent: 0.444518, xent: 0.442917
+[2020-08-28 00:32:20 2052] [Epoch: 32] corr: 0.819664, loss: 0.033047, val_corr: 0.816557, val_loss: 0.033408, val_xent: 0.444154, xent: 0.442788
+[2020-08-28 00:32:23 2052] [Epoch: 33] corr: 0.820285, loss: 0.032941, val_corr: 0.816989, val_loss: 0.033339, val_xent: 0.444029, xent: 0.442482
+[2020-08-28 00:32:25 2052] [Epoch: 34] corr: 0.820848, loss: 0.032845, val_corr: 0.816806, val_loss: 0.033363, val_xent: 0.443973, xent: 0.442234
+[2020-08-28 00:32:28 2052] [Epoch: 35] corr: 0.820781, loss: 0.032879, val_corr: 0.817521, val_loss: 0.033278, val_xent: 0.443873, xent: 0.442434
+[2020-08-28 00:32:30 2052] [Epoch: 36] corr: 0.821378, loss: 0.032764, val_corr: 0.818005, val_loss: 0.033181, val_xent: 0.443573, xent: 0.442094
+[2020-08-28 00:32:32 2052] [Epoch: 37] corr: 0.821918, loss: 0.032680, val_corr: 0.818370, val_loss: 0.033137, val_xent: 0.443536, xent: 0.441877
+[2020-08-28 00:32:35 2052] [Epoch: 38] corr: 0.822063, loss: 0.032664, val_corr: 0.819678, val_loss: 0.032891, val_xent: 0.442864, xent: 0.441928
+[2020-08-28 00:32:37 2052] [Epoch: 39] corr: 0.823214, loss: 0.032456, val_corr: 0.819883, val_loss: 0.032856, val_xent: 0.442782, xent: 0.441313
+[2020-08-28 00:32:40 2052] [Epoch: 40] corr: 0.822975, loss: 0.032535, val_corr: 0.819562, val_loss: 0.032916, val_xent: 0.442967, xent: 0.441562
+[2020-08-28 00:32:43 2052] [Epoch: 41] corr: 0.823401, loss: 0.032423, val_corr: 0.819776, val_loss: 0.032911, val_xent: 0.442917, xent: 0.441248
+[2020-08-28 00:32:45 2052] [Epoch: 42] corr: 0.824045, loss: 0.032315, val_corr: 0.820029, val_loss: 0.032850, val_xent: 0.442733, xent: 0.440922
+[2020-08-28 00:32:47 2052] [Epoch: 43] corr: 0.824443, loss: 0.032248, val_corr: 0.820569, val_loss: 0.032758, val_xent: 0.442638, xent: 0.440756
+[2020-08-28 00:32:50 2052] [Epoch: 44] corr: 0.824460, loss: 0.032259, val_corr: 0.820440, val_loss: 0.032764, val_xent: 0.442541, xent: 0.440793
+[2020-08-28 00:32:52 2052] [Epoch: 45] corr: 0.824986, loss: 0.032165, val_corr: 0.820668, val_loss: 0.032738, val_xent: 0.442561, xent: 0.440533
+[2020-08-28 00:32:55 2052] [Epoch: 46] corr: 0.825501, loss: 0.032072, val_corr: 0.821117, val_loss: 0.032666, val_xent: 0.442360, xent: 0.440309
+[2020-08-28 00:32:57 2052] [Epoch: 47] corr: 0.826051, loss: 0.031973, val_corr: 0.821306, val_loss: 0.032648, val_xent: 0.442456, xent: 0.440061
+[2020-08-28 00:33:00 2052] [Epoch: 48] corr: 0.825921, loss: 0.032025, val_corr: 0.822231, val_loss: 0.032472, val_xent: 0.441878, xent: 0.440308
+[2020-08-28 00:33:02 2052] [Epoch: 49] corr: 0.826368, loss: 0.031932, val_corr: 0.822392, val_loss: 0.032476, val_xent: 0.441965, xent: 0.440045
+[2020-08-28 00:33:04 2052] [Epoch: 50] corr: 0.827159, loss: 0.031812, val_corr: 0.821685, val_loss: 0.032602, val_xent: 0.442424, xent: 0.439793
+[2020-08-28 00:33:07 2052] [Epoch: 51] corr: 0.827283, loss: 0.031788, val_corr: 0.822585, val_loss: 0.032451, val_xent: 0.442112, xent: 0.439677
+[2020-08-28 00:33:09 2052] [Epoch: 52] corr: 0.827516, loss: 0.031760, val_corr: 0.823257, val_loss: 0.032338, val_xent: 0.441573, xent: 0.439677
+[2020-08-28 00:33:12 2052] [Epoch: 53] corr: 0.828128, loss: 0.031638, val_corr: 0.823586, val_loss: 0.032253, val_xent: 0.441273, xent: 0.439269
+[2020-08-28 00:33:14 2052] [Epoch: 54] corr: 0.825645, loss: 0.032107, val_corr: 0.822506, val_loss: 0.032425, val_xent: 0.442006, xent: 0.440726
+[2020-08-28 00:33:17 2052] [Epoch: 55] corr: 0.827443, loss: 0.031765, val_corr: 0.824139, val_loss: 0.032158, val_xent: 0.441179, xent: 0.439660
+[2020-08-28 00:33:19 2052] [Epoch: 56] corr: 0.829046, loss: 0.031497, val_corr: 0.824458, val_loss: 0.032113, val_xent: 0.441100, xent: 0.438951
+[2020-08-28 00:33:22 2052] [Epoch: 57] corr: 0.830072, loss: 0.031302, val_corr: 0.825007, val_loss: 0.032025, val_xent: 0.440779, xent: 0.438350
+[2020-08-28 00:33:24 2052] [Epoch: 58] corr: 0.830421, loss: 0.031247, val_corr: 0.824878, val_loss: 0.032103, val_xent: 0.441224, xent: 0.438197
+[2020-08-28 00:33:26 2052] [Epoch: 59] corr: 0.830196, loss: 0.031291, val_corr: 0.825460, val_loss: 0.031958, val_xent: 0.440536, xent: 0.438357
+[2020-08-28 00:33:29 2052] [Epoch: 60] corr: 0.830839, loss: 0.031180, val_corr: 0.825410, val_loss: 0.031956, val_xent: 0.440650, xent: 0.438002
+[2020-08-28 00:33:31 2052] [Epoch: 61] corr: 0.831029, loss: 0.031155, val_corr: 0.825336, val_loss: 0.032014, val_xent: 0.440724, xent: 0.437985
+[2020-08-28 00:33:33 2052] [Epoch: 62] corr: 0.831396, loss: 0.031085, val_corr: 0.825591, val_loss: 0.031932, val_xent: 0.440560, xent: 0.437764
+[2020-08-28 00:33:36 2052] [Epoch: 63] corr: 0.831740, loss: 0.031027, val_corr: 0.826288, val_loss: 0.031828, val_xent: 0.440382, xent: 0.437593
+[2020-08-28 00:33:38 2052] [Epoch: 64] corr: 0.831469, loss: 0.031072, val_corr: 0.825756, val_loss: 0.031939, val_xent: 0.440494, xent: 0.437752
+[2020-08-28 00:33:41 2052] [Epoch: 65] corr: 0.831367, loss: 0.031114, val_corr: 0.825994, val_loss: 0.031882, val_xent: 0.440429, xent: 0.437907
+[2020-08-28 00:33:43 2052] [Epoch: 66] corr: 0.831465, loss: 0.031083, val_corr: 0.826287, val_loss: 0.031802, val_xent: 0.440172, xent: 0.437779
+[2020-08-28 00:33:46 2052] [Epoch: 67] corr: 0.831710, loss: 0.031032, val_corr: 0.826346, val_loss: 0.031797, val_xent: 0.440257, xent: 0.437617
+[2020-08-28 00:33:48 2052] [Epoch: 68] corr: 0.832151, loss: 0.030961, val_corr: 0.826194, val_loss: 0.031823, val_xent: 0.440350, xent: 0.437419
+[2020-08-28 00:33:51 2052] [Epoch: 69] corr: 0.832431, loss: 0.030924, val_corr: 0.825803, val_loss: 0.031908, val_xent: 0.440440, xent: 0.437361
+[2020-08-28 00:33:53 2052] [Epoch: 70] corr: 0.832814, loss: 0.030848, val_corr: 0.826906, val_loss: 0.031732, val_xent: 0.439926, xent: 0.437108
+[2020-08-28 00:33:55 2052] [Epoch: 71] corr: 0.832939, loss: 0.030830, val_corr: 0.827115, val_loss: 0.031681, val_xent: 0.439917, xent: 0.437064
+[2020-08-28 00:33:58 2052] [Epoch: 72] corr: 0.833151, loss: 0.030789, val_corr: 0.826891, val_loss: 0.031704, val_xent: 0.439990, xent: 0.436926
+[2020-08-28 00:34:00 2052] [Epoch: 73] corr: 0.833479, loss: 0.030732, val_corr: 0.827015, val_loss: 0.031680, val_xent: 0.439838, xent: 0.436796
+[2020-08-28 00:34:03 2052] [Epoch: 74] corr: 0.833586, loss: 0.030717, val_corr: 0.826545, val_loss: 0.031756, val_xent: 0.440011, xent: 0.436739
+[2020-08-28 00:34:05 2052] [Epoch: 75] corr: 0.833165, loss: 0.030802, val_corr: 0.826315, val_loss: 0.031794, val_xent: 0.440159, xent: 0.436996
+[2020-08-28 00:34:08 2052] [Epoch: 76] corr: 0.833540, loss: 0.030731, val_corr: 0.826497, val_loss: 0.031790, val_xent: 0.440109, xent: 0.436794
+[2020-08-28 00:34:10 2052] [Epoch: 77] corr: 0.833619, loss: 0.030718, val_corr: 0.825623, val_loss: 0.031920, val_xent: 0.440466, xent: 0.436725
+[2020-08-28 00:34:12 2052] [Epoch: 78] corr: 0.834073, loss: 0.030633, val_corr: 0.826622, val_loss: 0.031752, val_xent: 0.439989, xent: 0.436502
+[2020-09-24 20:21:09 409] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-09-24 20:26:12 409] Shape x_train: (2700, 60483)
+[2020-09-24 20:26:12 409] Shape x_val:   (300, 60483)
+[2020-09-24 20:26:12 409] Shape x_test:  (1000, 60483)
+[2020-09-24 20:26:12 409] Range x_train: [0, 1]
+[2020-09-24 20:26:12 409] Range x_val:   [0, 1]
+[2020-09-24 20:26:12 409] Range x_test:  [0, 1]
+[2020-09-24 20:26:12 409] Class labels
+[2020-09-24 20:26:12 409]   0: cancer_type:Brain Lower Grade Glioma
+[2020-09-24 20:26:12 409]   1: cancer_type:Breast Invasive Carcinoma
+[2020-09-24 20:26:12 409]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-09-24 20:26:12 409]   3: cancer_type:Lung Adenocarcinoma
+[2020-09-24 20:26:12 409]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-09-24 20:26:12 409]   5: cancer_type:Others
+[2020-09-24 20:26:12 409]   6: cancer_type:Prostate Adenocarcinoma
+[2020-09-24 20:26:12 409]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-09-24 20:26:12 409]   8: cancer_type:Thyroid Carcinoma
+[2020-09-24 20:26:12 409]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-09-24 20:26:14 409] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-09-24 20:26:20 409] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-09-24 20:26:23 409] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-09-24 20:26:25 409] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458202, xent: 0.457749
+[2020-09-24 20:26:27 409] [Epoch: 3] corr: 0.790473, loss: 0.037916, val_corr: 0.794613, val_loss: 0.036979, val_xent: 0.454043, xent: 0.456573
+[2020-09-24 20:26:30 409] [Epoch: 4] corr: 0.800522, loss: 0.036202, val_corr: 0.803686, val_loss: 0.035502, val_xent: 0.450019, xent: 0.451853
+[2020-09-24 20:26:32 409] [Epoch: 5] corr: 0.805049, loss: 0.035437, val_corr: 0.805042, val_loss: 0.035290, val_xent: 0.449407, xent: 0.449563
+[2020-09-24 20:26:35 409] [Epoch: 6] corr: 0.806129, loss: 0.035248, val_corr: 0.805921, val_loss: 0.035162, val_xent: 0.449091, xent: 0.448951
+[2020-09-24 20:26:37 409] [Epoch: 7] corr: 0.806604, loss: 0.035174, val_corr: 0.805626, val_loss: 0.035199, val_xent: 0.448969, xent: 0.448674
+[2020-09-24 20:26:39 409] [Epoch: 8] corr: 0.807111, loss: 0.035097, val_corr: 0.806601, val_loss: 0.035051, val_xent: 0.448479, xent: 0.448422
+[2020-09-24 20:26:41 409] [Epoch: 9] corr: 0.807810, loss: 0.034981, val_corr: 0.807001, val_loss: 0.034990, val_xent: 0.448523, xent: 0.448082
+[2020-09-24 20:26:44 409] [Epoch: 10] corr: 0.808675, loss: 0.034839, val_corr: 0.807653, val_loss: 0.034874, val_xent: 0.448099, xent: 0.447667
+[2020-09-24 20:26:46 409] [Epoch: 11] corr: 0.809631, loss: 0.034689, val_corr: 0.808020, val_loss: 0.034807, val_xent: 0.447842, xent: 0.447261
+[2020-09-24 20:26:49 409] [Epoch: 12] corr: 0.809867, loss: 0.034654, val_corr: 0.807583, val_loss: 0.034924, val_xent: 0.448403, xent: 0.447172
+[2020-09-24 20:26:51 409] [Epoch: 13] corr: 0.811012, loss: 0.034467, val_corr: 0.809114, val_loss: 0.034670, val_xent: 0.447439, xent: 0.446655
+[2020-09-24 20:26:53 409] [Epoch: 14] corr: 0.811699, loss: 0.034360, val_corr: 0.810165, val_loss: 0.034499, val_xent: 0.447265, xent: 0.446351
+[2020-09-24 20:26:56 409] [Epoch: 15] corr: 0.813044, loss: 0.034135, val_corr: 0.812128, val_loss: 0.034139, val_xent: 0.445935, xent: 0.445787
+[2020-09-24 20:26:58 409] [Epoch: 16] corr: 0.814418, loss: 0.033902, val_corr: 0.813022, val_loss: 0.033995, val_xent: 0.445637, xent: 0.445124
+[2020-09-24 20:27:00 409] [Epoch: 17] corr: 0.814741, loss: 0.033855, val_corr: 0.813441, val_loss: 0.033967, val_xent: 0.445875, xent: 0.445003
+[2020-09-24 20:27:02 409] [Epoch: 18] corr: 0.815071, loss: 0.033807, val_corr: 0.812795, val_loss: 0.034028, val_xent: 0.445624, xent: 0.444896
+[2020-09-24 20:27:05 409] [Epoch: 19] corr: 0.815388, loss: 0.033757, val_corr: 0.813677, val_loss: 0.033889, val_xent: 0.445434, xent: 0.444747
+[2020-09-24 20:27:07 409] [Epoch: 20] corr: 0.816206, loss: 0.033617, val_corr: 0.814082, val_loss: 0.033812, val_xent: 0.445122, xent: 0.444350
+[2020-09-24 20:27:09 409] [Epoch: 21] corr: 0.816921, loss: 0.033494, val_corr: 0.813772, val_loss: 0.033870, val_xent: 0.445189, xent: 0.444011
+[2020-09-24 20:27:12 409] [Epoch: 22] corr: 0.816209, loss: 0.033653, val_corr: 0.814695, val_loss: 0.033715, val_xent: 0.444849, xent: 0.444557
+[2020-09-24 20:27:14 409] [Epoch: 23] corr: 0.816998, loss: 0.033501, val_corr: 0.813958, val_loss: 0.033837, val_xent: 0.445051, xent: 0.444030
+[2020-09-24 20:27:16 409] [Epoch: 24] corr: 0.817515, loss: 0.033407, val_corr: 0.814974, val_loss: 0.033670, val_xent: 0.444778, xent: 0.443763
+[2020-09-24 20:27:19 409] [Epoch: 25] corr: 0.817917, loss: 0.033330, val_corr: 0.814268, val_loss: 0.033817, val_xent: 0.445038, xent: 0.443520
+[2020-09-24 20:27:21 409] [Epoch: 26] corr: 0.818024, loss: 0.033328, val_corr: 0.815019, val_loss: 0.033673, val_xent: 0.444790, xent: 0.443568
+[2020-09-24 20:27:23 409] [Epoch: 27] corr: 0.818661, loss: 0.033202, val_corr: 0.815180, val_loss: 0.033654, val_xent: 0.444866, xent: 0.443161
+[2020-09-24 20:27:26 409] [Epoch: 28] corr: 0.818509, loss: 0.033242, val_corr: 0.815524, val_loss: 0.033589, val_xent: 0.444659, xent: 0.443299
+[2020-09-24 20:27:28 409] [Epoch: 29] corr: 0.818769, loss: 0.033191, val_corr: 0.814811, val_loss: 0.033690, val_xent: 0.444729, xent: 0.443174
+[2020-09-24 20:27:30 409] [Epoch: 30] corr: 0.819250, loss: 0.033112, val_corr: 0.815696, val_loss: 0.033594, val_xent: 0.444601, xent: 0.442925
+[2020-09-24 20:27:33 409] [Epoch: 31] corr: 0.819619, loss: 0.033054, val_corr: 0.815661, val_loss: 0.033560, val_xent: 0.444385, xent: 0.442794
+[2020-09-24 20:27:35 409] [Epoch: 32] corr: 0.819853, loss: 0.033017, val_corr: 0.816297, val_loss: 0.033448, val_xent: 0.444197, xent: 0.442696
+[2020-09-24 20:27:38 409] [Epoch: 33] corr: 0.820147, loss: 0.032967, val_corr: 0.816539, val_loss: 0.033436, val_xent: 0.444202, xent: 0.442577
+[2020-09-24 20:27:40 409] [Epoch: 34] corr: 0.820469, loss: 0.032910, val_corr: 0.817276, val_loss: 0.033293, val_xent: 0.443903, xent: 0.442438
+[2020-09-24 20:27:43 409] [Epoch: 35] corr: 0.821418, loss: 0.032752, val_corr: 0.817869, val_loss: 0.033235, val_xent: 0.443775, xent: 0.442029
+[2020-09-24 20:27:45 409] [Epoch: 36] corr: 0.821757, loss: 0.032711, val_corr: 0.818634, val_loss: 0.033065, val_xent: 0.443419, xent: 0.442017
+[2020-09-24 20:27:47 409] [Epoch: 37] corr: 0.822070, loss: 0.032663, val_corr: 0.818736, val_loss: 0.033079, val_xent: 0.443482, xent: 0.441927
+[2020-09-24 20:27:50 409] [Epoch: 38] corr: 0.822262, loss: 0.032627, val_corr: 0.819491, val_loss: 0.032928, val_xent: 0.442929, xent: 0.441831
+[2020-09-24 20:27:52 409] [Epoch: 39] corr: 0.823052, loss: 0.032481, val_corr: 0.819531, val_loss: 0.032935, val_xent: 0.442968, xent: 0.441389
+[2020-09-24 20:27:54 409] [Epoch: 40] corr: 0.822381, loss: 0.032646, val_corr: 0.820105, val_loss: 0.032827, val_xent: 0.442808, xent: 0.441923
+[2020-09-24 20:27:57 409] [Epoch: 41] corr: 0.823841, loss: 0.032346, val_corr: 0.820117, val_loss: 0.032838, val_xent: 0.442742, xent: 0.441050
+[2020-09-24 20:27:59 409] [Epoch: 42] corr: 0.824274, loss: 0.032274, val_corr: 0.820797, val_loss: 0.032713, val_xent: 0.442471, xent: 0.440874
+[2020-09-24 20:28:02 409] [Epoch: 43] corr: 0.825138, loss: 0.032126, val_corr: 0.821363, val_loss: 0.032612, val_xent: 0.442233, xent: 0.440489
+[2020-09-24 20:28:05 409] [Epoch: 44] corr: 0.825693, loss: 0.032041, val_corr: 0.821551, val_loss: 0.032634, val_xent: 0.442216, xent: 0.440307
+[2020-09-24 20:28:07 409] [Epoch: 45] corr: 0.826083, loss: 0.031984, val_corr: 0.822154, val_loss: 0.032508, val_xent: 0.441904, xent: 0.440234
+[2020-09-24 20:28:10 409] [Epoch: 46] corr: 0.825943, loss: 0.032009, val_corr: 0.822594, val_loss: 0.032414, val_xent: 0.441770, xent: 0.440300
+[2020-09-24 20:28:12 409] [Epoch: 47] corr: 0.826460, loss: 0.031919, val_corr: 0.822630, val_loss: 0.032437, val_xent: 0.441867, xent: 0.440046
+[2020-09-24 20:28:15 409] [Epoch: 48] corr: 0.826357, loss: 0.031974, val_corr: 0.823544, val_loss: 0.032324, val_xent: 0.441429, xent: 0.440254
+[2020-09-24 20:28:17 409] [Epoch: 49] corr: 0.827827, loss: 0.031685, val_corr: 0.823856, val_loss: 0.032247, val_xent: 0.441415, xent: 0.439372
+[2020-09-24 20:28:20 409] [Epoch: 50] corr: 0.827104, loss: 0.031810, val_corr: 0.824392, val_loss: 0.032117, val_xent: 0.440998, xent: 0.439825
+[2020-09-24 20:28:22 409] [Epoch: 51] corr: 0.827967, loss: 0.031665, val_corr: 0.824637, val_loss: 0.032083, val_xent: 0.440911, xent: 0.439396
+[2020-09-24 20:28:25 409] [Epoch: 52] corr: 0.827965, loss: 0.031670, val_corr: 0.825514, val_loss: 0.031933, val_xent: 0.440532, xent: 0.439461
+[2020-09-24 20:28:27 409] [Epoch: 53] corr: 0.828658, loss: 0.031543, val_corr: 0.825457, val_loss: 0.031939, val_xent: 0.440543, xent: 0.439034
+[2020-09-24 20:28:30 409] [Epoch: 54] corr: 0.827658, loss: 0.031742, val_corr: 0.824813, val_loss: 0.032056, val_xent: 0.440929, xent: 0.439714
+[2020-09-24 20:28:32 409] [Epoch: 55] corr: 0.828109, loss: 0.031673, val_corr: 0.824367, val_loss: 0.032123, val_xent: 0.441027, xent: 0.439467
+[2020-09-24 20:28:34 409] [Epoch: 56] corr: 0.829166, loss: 0.031497, val_corr: 0.825960, val_loss: 0.031890, val_xent: 0.440554, xent: 0.439003
+[2020-09-24 20:28:37 409] [Epoch: 57] corr: 0.829699, loss: 0.031391, val_corr: 0.826519, val_loss: 0.031770, val_xent: 0.440110, xent: 0.438685
+[2020-09-24 20:28:39 409] [Epoch: 58] corr: 0.830387, loss: 0.031259, val_corr: 0.826592, val_loss: 0.031751, val_xent: 0.440054, xent: 0.438248
+[2020-09-24 20:28:42 409] [Epoch: 59] corr: 0.830802, loss: 0.031180, val_corr: 0.826695, val_loss: 0.031757, val_xent: 0.440084, xent: 0.438072
+[2020-09-24 20:28:44 409] [Epoch: 60] corr: 0.831242, loss: 0.031106, val_corr: 0.826470, val_loss: 0.031788, val_xent: 0.440219, xent: 0.437844
+[2020-09-24 20:28:47 409] [Epoch: 61] corr: 0.831411, loss: 0.031089, val_corr: 0.825767, val_loss: 0.031919, val_xent: 0.440478, xent: 0.437831
+[2020-09-24 20:28:49 409] [Epoch: 62] corr: 0.831786, loss: 0.031019, val_corr: 0.825944, val_loss: 0.031871, val_xent: 0.440324, xent: 0.437612
+[2020-09-24 20:28:51 409] [Epoch: 63] corr: 0.831675, loss: 0.031040, val_corr: 0.826244, val_loss: 0.031820, val_xent: 0.440351, xent: 0.437681
+[2020-09-24 20:28:54 409] [Epoch: 64] corr: 0.832031, loss: 0.030978, val_corr: 0.826218, val_loss: 0.031858, val_xent: 0.440388, xent: 0.437508
+[2020-09-24 20:28:56 409] [Epoch: 65] corr: 0.832062, loss: 0.030978, val_corr: 0.827320, val_loss: 0.031630, val_xent: 0.439770, xent: 0.437531
+[2020-09-24 20:28:59 409] [Epoch: 66] corr: 0.832381, loss: 0.030921, val_corr: 0.826644, val_loss: 0.031759, val_xent: 0.440047, xent: 0.437342
+[2020-09-24 20:29:01 409] [Epoch: 67] corr: 0.832419, loss: 0.030910, val_corr: 0.826829, val_loss: 0.031715, val_xent: 0.439937, xent: 0.437303
+[2020-09-24 20:29:03 409] [Epoch: 68] corr: 0.832712, loss: 0.030873, val_corr: 0.826558, val_loss: 0.031754, val_xent: 0.440058, xent: 0.437205
+[2020-09-24 20:29:06 409] [Epoch: 69] corr: 0.832906, loss: 0.030842, val_corr: 0.826589, val_loss: 0.031787, val_xent: 0.440059, xent: 0.437159
+[2020-09-24 20:29:08 409] [Epoch: 70] corr: 0.832973, loss: 0.030825, val_corr: 0.826603, val_loss: 0.031763, val_xent: 0.440096, xent: 0.437073
+[2020-09-24 20:29:11 409] [Epoch: 71] corr: 0.833231, loss: 0.030778, val_corr: 0.826887, val_loss: 0.031705, val_xent: 0.439912, xent: 0.436958
+[2020-09-24 20:29:13 409] [Epoch: 72] corr: 0.833431, loss: 0.030741, val_corr: 0.827117, val_loss: 0.031666, val_xent: 0.439855, xent: 0.436838
+[2020-09-24 20:29:16 409] [Epoch: 73] corr: 0.833489, loss: 0.030736, val_corr: 0.827059, val_loss: 0.031672, val_xent: 0.439777, xent: 0.436855
+[2020-09-24 20:29:18 409] [Epoch: 74] corr: 0.833629, loss: 0.030710, val_corr: 0.826518, val_loss: 0.031766, val_xent: 0.440070, xent: 0.436729
+[2020-09-24 20:29:20 409] [Epoch: 75] corr: 0.832744, loss: 0.030869, val_corr: 0.827081, val_loss: 0.031717, val_xent: 0.439929, xent: 0.437210
+[2020-09-24 20:29:23 409] [Epoch: 76] corr: 0.832629, loss: 0.030895, val_corr: 0.827035, val_loss: 0.031739, val_xent: 0.439986, xent: 0.437293
+[2020-09-24 20:29:25 409] [Epoch: 77] corr: 0.833576, loss: 0.030721, val_corr: 0.826899, val_loss: 0.031728, val_xent: 0.439956, xent: 0.436764
+[2020-09-24 20:29:27 409] [Epoch: 78] corr: 0.834062, loss: 0.030639, val_corr: 0.826843, val_loss: 0.031730, val_xent: 0.439947, xent: 0.436535
+[2020-09-24 20:29:30 409] [Epoch: 79] corr: 0.833739, loss: 0.030706, val_corr: 0.827216, val_loss: 0.031681, val_xent: 0.439727, xent: 0.436756
+[2020-09-24 20:29:32 409] [Epoch: 80] corr: 0.834225, loss: 0.030607, val_corr: 0.827186, val_loss: 0.031668, val_xent: 0.439929, xent: 0.436477
+[2020-09-24 20:29:34 409] [Epoch: 81] corr: 0.834115, loss: 0.030631, val_corr: 0.826957, val_loss: 0.031701, val_xent: 0.439825, xent: 0.436540
+[2020-09-24 20:29:37 409] [Epoch: 82] corr: 0.834093, loss: 0.030636, val_corr: 0.827339, val_loss: 0.031635, val_xent: 0.439880, xent: 0.436530
+[2020-09-24 20:29:39 409] [Epoch: 83] corr: 0.834333, loss: 0.030598, val_corr: 0.826782, val_loss: 0.031752, val_xent: 0.440134, xent: 0.436465
+[2020-09-24 20:29:42 409] [Epoch: 84] corr: 0.834368, loss: 0.030594, val_corr: 0.827112, val_loss: 0.031687, val_xent: 0.439910, xent: 0.436419
+[2020-09-24 20:29:44 409] [Epoch: 85] corr: 0.834747, loss: 0.030527, val_corr: 0.828138, val_loss: 0.031510, val_xent: 0.439384, xent: 0.436238
+[2020-09-24 20:29:46 409] [Epoch: 86] corr: 0.835091, loss: 0.030461, val_corr: 0.827522, val_loss: 0.031622, val_xent: 0.439644, xent: 0.436053
+[2020-09-24 20:29:48 409] [Epoch: 87] corr: 0.835180, loss: 0.030450, val_corr: 0.827637, val_loss: 0.031596, val_xent: 0.439549, xent: 0.436051
+[2020-09-24 20:29:51 409] [Epoch: 88] corr: 0.834972, loss: 0.030487, val_corr: 0.826962, val_loss: 0.031690, val_xent: 0.439926, xent: 0.436147
+[2020-09-24 20:29:53 409] [Epoch: 89] corr: 0.835534, loss: 0.030388, val_corr: 0.827385, val_loss: 0.031634, val_xent: 0.439741, xent: 0.435868
+[2020-09-24 20:29:55 409] [Epoch: 90] corr: 0.835871, loss: 0.030327, val_corr: 0.827490, val_loss: 0.031626, val_xent: 0.439723, xent: 0.435693
+[2020-09-24 20:29:57 409] [Epoch: 91] corr: 0.835796, loss: 0.030339, val_corr: 0.827469, val_loss: 0.031608, val_xent: 0.439693, xent: 0.435736
+[2020-09-24 20:30:00 409] [Epoch: 92] corr: 0.835726, loss: 0.030357, val_corr: 0.827822, val_loss: 0.031583, val_xent: 0.439531, xent: 0.435787
+[2020-09-24 20:30:02 409] [Epoch: 93] corr: 0.835808, loss: 0.030340, val_corr: 0.827430, val_loss: 0.031624, val_xent: 0.439719, xent: 0.435727
+[2020-09-24 20:30:05 409] [Epoch: 94] corr: 0.835828, loss: 0.030340, val_corr: 0.827636, val_loss: 0.031600, val_xent: 0.439667, xent: 0.435746
+[2020-09-24 20:30:07 409] [Epoch: 95] corr: 0.835941, loss: 0.030324, val_corr: 0.827039, val_loss: 0.031720, val_xent: 0.439857, xent: 0.435712
+[2020-09-24 20:30:10 409] [Epoch: 96] corr: 0.836072, loss: 0.030302, val_corr: 0.827517, val_loss: 0.031627, val_xent: 0.439682, xent: 0.435634
+[2020-09-24 20:30:12 409] [Epoch: 97] corr: 0.836213, loss: 0.030273, val_corr: 0.828106, val_loss: 0.031502, val_xent: 0.439443, xent: 0.435566
+[2020-09-24 20:30:14 409] [Epoch: 98] corr: 0.836241, loss: 0.030270, val_corr: 0.827454, val_loss: 0.031613, val_xent: 0.439690, xent: 0.435566
+[2020-09-24 20:30:16 409] [Epoch: 99] corr: 0.836312, loss: 0.030256, val_corr: 0.827819, val_loss: 0.031559, val_xent: 0.439511, xent: 0.435511
+[2020-09-24 20:30:21 409] 
+Evaluation on test data: {'mse': 0.031994328, 'r2_score': 0.19331364741009865, 'correlation': 0.826420931503676}
+[2020-09-24 20:40:14 1013] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-09-24 20:45:10 1013] Shape x_train: (2700, 60483)
+[2020-09-24 20:45:10 1013] Shape x_val:   (300, 60483)
+[2020-09-24 20:45:10 1013] Shape x_test:  (1000, 60483)
+[2020-09-24 20:45:10 1013] Range x_train: [0, 1]
+[2020-09-24 20:45:10 1013] Range x_val:   [0, 1]
+[2020-09-24 20:45:10 1013] Range x_test:  [0, 1]
+[2020-09-24 20:45:10 1013] Class labels
+[2020-09-24 20:45:10 1013]   0: cancer_type:Brain Lower Grade Glioma
+[2020-09-24 20:45:10 1013]   1: cancer_type:Breast Invasive Carcinoma
+[2020-09-24 20:45:10 1013]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-09-24 20:45:10 1013]   3: cancer_type:Lung Adenocarcinoma
+[2020-09-24 20:45:10 1013]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-09-24 20:45:10 1013]   5: cancer_type:Others
+[2020-09-24 20:45:10 1013]   6: cancer_type:Prostate Adenocarcinoma
+[2020-09-24 20:45:10 1013]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-09-24 20:45:10 1013]   8: cancer_type:Thyroid Carcinoma
+[2020-09-24 20:45:10 1013]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-09-24 20:50:16 1262] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-09-24 20:55:06 1262] Shape x_train: (2700, 60483)
+[2020-09-24 20:55:06 1262] Shape x_val:   (300, 60483)
+[2020-09-24 20:55:06 1262] Shape x_test:  (1000, 60483)
+[2020-09-24 20:55:06 1262] Range x_train: [0, 1]
+[2020-09-24 20:55:06 1262] Range x_val:   [0, 1]
+[2020-09-24 20:55:06 1262] Range x_test:  [0, 1]
+[2020-09-24 20:55:06 1262] Class labels
+[2020-09-24 20:55:06 1262]   0: cancer_type:Brain Lower Grade Glioma
+[2020-09-24 20:55:06 1262]   1: cancer_type:Breast Invasive Carcinoma
+[2020-09-24 20:55:06 1262]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-09-24 20:55:06 1262]   3: cancer_type:Lung Adenocarcinoma
+[2020-09-24 20:55:06 1262]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-09-24 20:55:06 1262]   5: cancer_type:Others
+[2020-09-24 20:55:06 1262]   6: cancer_type:Prostate Adenocarcinoma
+[2020-09-24 20:55:06 1262]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-09-24 20:55:06 1262]   8: cancer_type:Thyroid Carcinoma
+[2020-09-24 20:55:06 1262]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-09-24 20:55:07 1262] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-09-24 20:55:14 1262] [Epoch: 0] corr: 0.682677, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-09-24 20:55:16 1262] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-09-24 20:55:19 1262] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785265, val_loss: 0.038491, val_xent: 0.458203, xent: 0.457749
+[2020-09-24 20:55:21 1262] [Epoch: 3] corr: 0.790435, loss: 0.037920, val_corr: 0.793944, val_loss: 0.037100, val_xent: 0.454363, xent: 0.456573
+[2020-09-24 20:55:23 1262] [Epoch: 4] corr: 0.800456, loss: 0.036212, val_corr: 0.803737, val_loss: 0.035495, val_xent: 0.449985, xent: 0.451871
+[2020-09-24 20:55:26 1262] [Epoch: 5] corr: 0.805087, loss: 0.035429, val_corr: 0.805177, val_loss: 0.035266, val_xent: 0.449372, xent: 0.449534
+[2020-09-24 20:55:28 1262] [Epoch: 6] corr: 0.806142, loss: 0.035246, val_corr: 0.805900, val_loss: 0.035161, val_xent: 0.449075, xent: 0.448947
+[2020-09-24 20:55:30 1262] [Epoch: 7] corr: 0.806577, loss: 0.035178, val_corr: 0.805949, val_loss: 0.035144, val_xent: 0.448850, xent: 0.448689
+[2020-09-24 20:55:33 1262] [Epoch: 8] corr: 0.807111, loss: 0.035097, val_corr: 0.806538, val_loss: 0.035062, val_xent: 0.448514, xent: 0.448425
+[2020-09-24 20:55:35 1262] [Epoch: 9] corr: 0.807827, loss: 0.034979, val_corr: 0.806791, val_loss: 0.035024, val_xent: 0.448604, xent: 0.448080
+[2020-09-24 20:55:37 1262] [Epoch: 10] corr: 0.808663, loss: 0.034842, val_corr: 0.807493, val_loss: 0.034916, val_xent: 0.448312, xent: 0.447681
+[2020-09-24 20:55:40 1262] [Epoch: 11] corr: 0.809483, loss: 0.034714, val_corr: 0.808222, val_loss: 0.034792, val_xent: 0.447795, xent: 0.447335
+[2020-09-24 20:55:42 1262] [Epoch: 12] corr: 0.810492, loss: 0.034551, val_corr: 0.809744, val_loss: 0.034542, val_xent: 0.447208, xent: 0.446889
+[2020-09-24 20:55:44 1262] [Epoch: 13] corr: 0.811509, loss: 0.034378, val_corr: 0.810467, val_loss: 0.034419, val_xent: 0.446837, xent: 0.446397
+[2020-09-24 20:55:47 1262] [Epoch: 14] corr: 0.812312, loss: 0.034250, val_corr: 0.811068, val_loss: 0.034312, val_xent: 0.446413, xent: 0.446055
+[2020-09-24 20:55:49 1262] [Epoch: 15] corr: 0.813266, loss: 0.034097, val_corr: 0.812195, val_loss: 0.034138, val_xent: 0.446090, xent: 0.445680
+[2020-09-24 20:55:51 1262] [Epoch: 16] corr: 0.814260, loss: 0.033933, val_corr: 0.812951, val_loss: 0.034009, val_xent: 0.445608, xent: 0.445220
+[2020-09-24 20:55:54 1262] [Epoch: 17] corr: 0.815123, loss: 0.033788, val_corr: 0.813226, val_loss: 0.033963, val_xent: 0.445602, xent: 0.444818
+[2020-09-24 20:55:56 1262] [Epoch: 18] corr: 0.814739, loss: 0.033870, val_corr: 0.813118, val_loss: 0.033997, val_xent: 0.445522, xent: 0.445072
+[2020-09-24 20:55:58 1262] [Epoch: 19] corr: 0.814444, loss: 0.033988, val_corr: 0.813236, val_loss: 0.033962, val_xent: 0.445584, xent: 0.445569
+[2020-09-24 20:56:01 1262] [Epoch: 20] corr: 0.816335, loss: 0.033593, val_corr: 0.813773, val_loss: 0.033879, val_xent: 0.445208, xent: 0.444241
+[2020-09-24 20:56:03 1262] [Epoch: 21] corr: 0.816773, loss: 0.033519, val_corr: 0.814765, val_loss: 0.033699, val_xent: 0.444795, xent: 0.444071
+[2020-09-24 20:56:05 1262] [Epoch: 22] corr: 0.816629, loss: 0.033549, val_corr: 0.814665, val_loss: 0.033722, val_xent: 0.444794, xent: 0.444169
+[2020-09-24 20:56:08 1262] [Epoch: 23] corr: 0.817151, loss: 0.033464, val_corr: 0.814471, val_loss: 0.033771, val_xent: 0.445230, xent: 0.443917
+[2020-09-24 20:56:10 1262] [Epoch: 24] corr: 0.817648, loss: 0.033380, val_corr: 0.815135, val_loss: 0.033677, val_xent: 0.444990, xent: 0.443693
+[2020-09-24 20:56:12 1262] [Epoch: 25] corr: 0.817599, loss: 0.033414, val_corr: 0.815043, val_loss: 0.033721, val_xent: 0.445266, xent: 0.443858
+[2020-09-24 20:56:15 1262] [Epoch: 26] corr: 0.818017, loss: 0.033319, val_corr: 0.814859, val_loss: 0.033703, val_xent: 0.444783, xent: 0.443518
+[2020-09-24 20:56:17 1262] [Epoch: 27] corr: 0.818056, loss: 0.033326, val_corr: 0.815431, val_loss: 0.033612, val_xent: 0.444755, xent: 0.443564
+[2020-09-24 20:56:19 1262] [Epoch: 28] corr: 0.818794, loss: 0.033187, val_corr: 0.815431, val_loss: 0.033589, val_xent: 0.444503, xent: 0.443135
+[2020-09-24 20:56:21 1262] [Epoch: 29] corr: 0.818759, loss: 0.033198, val_corr: 0.815372, val_loss: 0.033623, val_xent: 0.444527, xent: 0.443195
+[2020-09-24 20:56:24 1262] [Epoch: 30] corr: 0.819151, loss: 0.033125, val_corr: 0.815886, val_loss: 0.033543, val_xent: 0.444390, xent: 0.442984
+[2020-09-24 20:56:26 1262] [Epoch: 31] corr: 0.819514, loss: 0.033065, val_corr: 0.815938, val_loss: 0.033529, val_xent: 0.444412, xent: 0.442803
+[2020-09-24 20:56:29 1262] [Epoch: 32] corr: 0.819586, loss: 0.033071, val_corr: 0.816027, val_loss: 0.033495, val_xent: 0.444259, xent: 0.442870
+[2020-09-24 20:56:31 1262] [Epoch: 33] corr: 0.819949, loss: 0.033000, val_corr: 0.816653, val_loss: 0.033399, val_xent: 0.444151, xent: 0.442654
+[2020-09-24 20:56:33 1262] [Epoch: 34] corr: 0.820311, loss: 0.032937, val_corr: 0.816991, val_loss: 0.033334, val_xent: 0.443886, xent: 0.442500
+[2020-09-24 20:56:36 1262] [Epoch: 35] corr: 0.821064, loss: 0.032807, val_corr: 0.818057, val_loss: 0.033162, val_xent: 0.443559, xent: 0.442172
+[2020-09-24 20:56:38 1262] [Epoch: 36] corr: 0.821478, loss: 0.032752, val_corr: 0.818596, val_loss: 0.033104, val_xent: 0.443468, xent: 0.442101
+[2020-09-24 20:56:40 1262] [Epoch: 37] corr: 0.821754, loss: 0.032724, val_corr: 0.817521, val_loss: 0.033276, val_xent: 0.444044, xent: 0.442045
+[2020-09-24 20:56:43 1262] [Epoch: 38] corr: 0.821296, loss: 0.032816, val_corr: 0.819108, val_loss: 0.032995, val_xent: 0.443225, xent: 0.442417
+[2020-09-24 20:56:45 1262] [Epoch: 39] corr: 0.823068, loss: 0.032481, val_corr: 0.820038, val_loss: 0.032854, val_xent: 0.442756, xent: 0.441407
+[2020-09-24 20:56:48 1262] [Epoch: 40] corr: 0.823209, loss: 0.032473, val_corr: 0.819502, val_loss: 0.032945, val_xent: 0.443229, xent: 0.441353
+[2020-09-24 20:56:50 1262] [Epoch: 41] corr: 0.823607, loss: 0.032383, val_corr: 0.820409, val_loss: 0.032778, val_xent: 0.442517, xent: 0.441123
+[2020-09-24 20:56:52 1262] [Epoch: 42] corr: 0.823974, loss: 0.032329, val_corr: 0.820111, val_loss: 0.032821, val_xent: 0.442663, xent: 0.440974
+[2020-09-24 20:56:55 1262] [Epoch: 43] corr: 0.824277, loss: 0.032278, val_corr: 0.819652, val_loss: 0.032930, val_xent: 0.443012, xent: 0.440834
+[2020-09-24 20:56:57 1262] [Epoch: 44] corr: 0.824321, loss: 0.032269, val_corr: 0.820661, val_loss: 0.032727, val_xent: 0.442490, xent: 0.440813
+[2020-09-24 20:56:59 1262] [Epoch: 45] corr: 0.824979, loss: 0.032155, val_corr: 0.820669, val_loss: 0.032732, val_xent: 0.442441, xent: 0.440520
+[2020-09-24 20:57:02 1262] [Epoch: 46] corr: 0.824384, loss: 0.032277, val_corr: 0.820711, val_loss: 0.032724, val_xent: 0.442486, xent: 0.440900
+[2020-09-24 20:57:04 1262] [Epoch: 47] corr: 0.825104, loss: 0.032146, val_corr: 0.820978, val_loss: 0.032686, val_xent: 0.442389, xent: 0.440534
+[2020-09-24 20:57:06 1262] [Epoch: 48] corr: 0.825730, loss: 0.032030, val_corr: 0.821534, val_loss: 0.032584, val_xent: 0.442043, xent: 0.440173
+[2020-09-24 20:57:09 1262] [Epoch: 49] corr: 0.826048, loss: 0.031974, val_corr: 0.821789, val_loss: 0.032571, val_xent: 0.441987, xent: 0.440023
+[2020-09-24 20:57:11 1262] [Epoch: 50] corr: 0.826249, loss: 0.031951, val_corr: 0.821624, val_loss: 0.032569, val_xent: 0.442038, xent: 0.439996
+[2020-09-24 20:57:13 1262] [Epoch: 51] corr: 0.826425, loss: 0.031916, val_corr: 0.821820, val_loss: 0.032575, val_xent: 0.441982, xent: 0.439882
+[2020-09-24 20:57:16 1262] [Epoch: 52] corr: 0.826613, loss: 0.031887, val_corr: 0.822014, val_loss: 0.032555, val_xent: 0.441974, xent: 0.439822
+[2020-09-24 20:57:18 1262] [Epoch: 53] corr: 0.827055, loss: 0.031810, val_corr: 0.821648, val_loss: 0.032571, val_xent: 0.442054, xent: 0.439618
+[2020-09-24 20:57:21 1262] [Epoch: 54] corr: 0.826829, loss: 0.031865, val_corr: 0.821863, val_loss: 0.032567, val_xent: 0.442008, xent: 0.439777
+[2020-09-24 20:57:23 1262] [Epoch: 55] corr: 0.826751, loss: 0.031875, val_corr: 0.822289, val_loss: 0.032468, val_xent: 0.441854, xent: 0.439833
+[2020-09-24 20:57:25 1262] [Epoch: 56] corr: 0.827457, loss: 0.031753, val_corr: 0.822783, val_loss: 0.032385, val_xent: 0.441641, xent: 0.439545
+[2020-09-24 20:57:27 1262] [Epoch: 57] corr: 0.828336, loss: 0.031605, val_corr: 0.823748, val_loss: 0.032275, val_xent: 0.441354, xent: 0.439199
+[2020-09-24 20:57:29 1262] [Epoch: 58] corr: 0.829234, loss: 0.031449, val_corr: 0.823967, val_loss: 0.032207, val_xent: 0.441362, xent: 0.438792
+[2020-09-24 20:57:32 1262] [Epoch: 59] corr: 0.828957, loss: 0.031499, val_corr: 0.823432, val_loss: 0.032325, val_xent: 0.441457, xent: 0.438938
+[2020-09-24 20:57:34 1262] [Epoch: 60] corr: 0.829251, loss: 0.031450, val_corr: 0.825136, val_loss: 0.031988, val_xent: 0.440688, xent: 0.438799
+[2020-09-24 20:57:36 1262] [Epoch: 61] corr: 0.830023, loss: 0.031320, val_corr: 0.825810, val_loss: 0.031889, val_xent: 0.440514, xent: 0.438438
+[2020-09-24 20:57:39 1262] [Epoch: 62] corr: 0.830642, loss: 0.031222, val_corr: 0.824851, val_loss: 0.032036, val_xent: 0.440827, xent: 0.438206
+[2020-09-24 20:57:41 1262] [Epoch: 63] corr: 0.831172, loss: 0.031128, val_corr: 0.826287, val_loss: 0.031824, val_xent: 0.440326, xent: 0.437930
+[2020-09-24 20:57:44 1262] [Epoch: 64] corr: 0.831470, loss: 0.031075, val_corr: 0.825106, val_loss: 0.032039, val_xent: 0.440829, xent: 0.437779
+[2020-09-24 20:57:46 1262] [Epoch: 65] corr: 0.831549, loss: 0.031070, val_corr: 0.825526, val_loss: 0.031929, val_xent: 0.440445, xent: 0.437768
+[2020-09-24 20:57:48 1262] [Epoch: 66] corr: 0.831306, loss: 0.031104, val_corr: 0.825794, val_loss: 0.031882, val_xent: 0.440469, xent: 0.437836
+[2020-09-24 20:57:51 1262] [Epoch: 67] corr: 0.832131, loss: 0.030964, val_corr: 0.825751, val_loss: 0.031911, val_xent: 0.440528, xent: 0.437453
+[2020-09-24 20:57:53 1262] [Epoch: 68] corr: 0.832293, loss: 0.030940, val_corr: 0.826663, val_loss: 0.031743, val_xent: 0.440009, xent: 0.437393
+[2020-09-24 20:57:55 1262] [Epoch: 69] corr: 0.832421, loss: 0.030928, val_corr: 0.825926, val_loss: 0.031884, val_xent: 0.440365, xent: 0.437385
+[2020-09-24 20:57:57 1262] [Epoch: 70] corr: 0.832330, loss: 0.030935, val_corr: 0.825534, val_loss: 0.031964, val_xent: 0.440642, xent: 0.437362
+[2020-09-24 20:58:00 1262] [Epoch: 71] corr: 0.832819, loss: 0.030852, val_corr: 0.827442, val_loss: 0.031607, val_xent: 0.439605, xent: 0.437158
+[2020-09-24 20:58:02 1262] [Epoch: 72] corr: 0.833435, loss: 0.030738, val_corr: 0.826860, val_loss: 0.031708, val_xent: 0.439906, xent: 0.436807
+[2020-09-24 20:58:04 1262] [Epoch: 73] corr: 0.833485, loss: 0.030731, val_corr: 0.827171, val_loss: 0.031656, val_xent: 0.439745, xent: 0.436790
+[2020-09-24 20:58:07 1262] [Epoch: 74] corr: 0.833561, loss: 0.030717, val_corr: 0.826259, val_loss: 0.031804, val_xent: 0.440140, xent: 0.436751
+[2020-09-24 20:58:09 1262] [Epoch: 75] corr: 0.833454, loss: 0.030745, val_corr: 0.825996, val_loss: 0.031870, val_xent: 0.440375, xent: 0.436842
+[2020-09-24 20:58:11 1262] [Epoch: 76] corr: 0.833585, loss: 0.030724, val_corr: 0.827013, val_loss: 0.031690, val_xent: 0.439821, xent: 0.436764
+[2020-09-24 20:58:14 1262] [Epoch: 77] corr: 0.833666, loss: 0.030713, val_corr: 0.825550, val_loss: 0.031987, val_xent: 0.440740, xent: 0.436737
+[2020-09-24 20:58:16 1262] [Epoch: 78] corr: 0.833863, loss: 0.030681, val_corr: 0.825802, val_loss: 0.031882, val_xent: 0.440411, xent: 0.436644
+[2020-09-24 20:58:18 1262] [Epoch: 79] corr: 0.833636, loss: 0.030719, val_corr: 0.826726, val_loss: 0.031733, val_xent: 0.439930, xent: 0.436728
+[2020-09-24 20:58:21 1262] [Epoch: 80] corr: 0.834233, loss: 0.030610, val_corr: 0.826515, val_loss: 0.031792, val_xent: 0.440138, xent: 0.436431
+[2020-09-24 20:58:23 1262] [Epoch: 81] corr: 0.834272, loss: 0.030611, val_corr: 0.827377, val_loss: 0.031638, val_xent: 0.439783, xent: 0.436414
+[2020-09-24 20:58:25 1262] [Epoch: 82] corr: 0.834285, loss: 0.030609, val_corr: 0.825641, val_loss: 0.031908, val_xent: 0.440591, xent: 0.436419
+[2020-09-24 20:58:28 1262] [Epoch: 83] corr: 0.834480, loss: 0.030574, val_corr: 0.826018, val_loss: 0.031848, val_xent: 0.440370, xent: 0.436336
+[2020-09-24 20:58:30 1262] [Epoch: 84] corr: 0.834998, loss: 0.030479, val_corr: 0.826984, val_loss: 0.031706, val_xent: 0.439874, xent: 0.436037
+[2020-09-24 20:58:32 1262] [Epoch: 85] corr: 0.834884, loss: 0.030504, val_corr: 0.825988, val_loss: 0.031851, val_xent: 0.440379, xent: 0.436105
+[2020-09-24 20:58:34 1262] [Epoch: 86] corr: 0.835241, loss: 0.030435, val_corr: 0.826694, val_loss: 0.031763, val_xent: 0.440040, xent: 0.435920
+[2020-09-24 20:58:37 1262] [Epoch: 87] corr: 0.835093, loss: 0.030476, val_corr: 0.826211, val_loss: 0.031822, val_xent: 0.440296, xent: 0.436065
+[2020-09-24 20:58:39 1262] [Epoch: 88] corr: 0.835247, loss: 0.030440, val_corr: 0.825529, val_loss: 0.031940, val_xent: 0.440536, xent: 0.435938
+[2020-09-24 20:58:41 1262] [Epoch: 89] corr: 0.835264, loss: 0.030439, val_corr: 0.826775, val_loss: 0.031732, val_xent: 0.439972, xent: 0.435931
+[2020-09-24 20:58:44 1262] [Epoch: 90] corr: 0.834965, loss: 0.030482, val_corr: 0.825696, val_loss: 0.031906, val_xent: 0.440561, xent: 0.436020
+[2020-09-24 20:58:46 1262] [Epoch: 91] corr: 0.833559, loss: 0.030725, val_corr: 0.825529, val_loss: 0.031974, val_xent: 0.440683, xent: 0.436728
+[2020-09-24 20:58:48 1262] [Epoch: 92] corr: 0.834422, loss: 0.030583, val_corr: 0.824288, val_loss: 0.032284, val_xent: 0.441269, xent: 0.436304
+[2020-09-24 20:58:52 1262] [Epoch: 93] corr: 0.833511, loss: 0.030752, val_corr: 0.825307, val_loss: 0.032014, val_xent: 0.440913, xent: 0.436790
+[2020-09-24 20:58:55 1262] [Epoch: 94] corr: 0.834246, loss: 0.030624, val_corr: 0.825713, val_loss: 0.031913, val_xent: 0.440574, xent: 0.436416
+[2020-09-24 20:58:57 1262] [Epoch: 95] corr: 0.835474, loss: 0.030404, val_corr: 0.826175, val_loss: 0.031864, val_xent: 0.440363, xent: 0.435795
+[2020-09-24 20:59:00 1262] [Epoch: 96] corr: 0.834859, loss: 0.030513, val_corr: 0.825641, val_loss: 0.031922, val_xent: 0.440593, xent: 0.436102
+[2020-09-24 20:59:03 1262] [Epoch: 97] corr: 0.835593, loss: 0.030386, val_corr: 0.826311, val_loss: 0.031832, val_xent: 0.440394, xent: 0.435767
+[2020-09-24 20:59:05 1262] [Epoch: 98] corr: 0.835947, loss: 0.030325, val_corr: 0.827051, val_loss: 0.031683, val_xent: 0.439896, xent: 0.435590
+[2020-09-24 20:59:08 1262] [Epoch: 99] corr: 0.836340, loss: 0.030255, val_corr: 0.826470, val_loss: 0.031773, val_xent: 0.440151, xent: 0.435385
+[2020-09-24 20:59:12 1262] 
+Evaluation on test data: {'mse': 0.03197841, 'r2_score': 0.19201046539927072, 'correlation': 0.82642566995628}
+[2020-09-24 22:55:17 61] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-09-24 23:00:07 61] Shape x_train: (2700, 60483)
+[2020-09-24 23:00:07 61] Shape x_val:   (300, 60483)
+[2020-09-24 23:00:07 61] Shape x_test:  (1000, 60483)
+[2020-09-24 23:00:07 61] Range x_train: [0, 1]
+[2020-09-24 23:00:07 61] Range x_val:   [0, 1]
+[2020-09-24 23:00:07 61] Range x_test:  [0, 1]
+[2020-09-24 23:00:07 61] Class labels
+[2020-09-24 23:00:07 61]   0: cancer_type:Brain Lower Grade Glioma
+[2020-09-24 23:00:07 61]   1: cancer_type:Breast Invasive Carcinoma
+[2020-09-24 23:00:07 61]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-09-24 23:00:07 61]   3: cancer_type:Lung Adenocarcinoma
+[2020-09-24 23:00:07 61]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-09-24 23:00:07 61]   5: cancer_type:Others
+[2020-09-24 23:00:07 61]   6: cancer_type:Prostate Adenocarcinoma
+[2020-09-24 23:00:07 61]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-09-24 23:00:07 61]   8: cancer_type:Thyroid Carcinoma
+[2020-09-24 23:00:07 61]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-09-24 23:00:09 61] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-09-24 23:00:18 61] [Epoch: 0] corr: 0.691180, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-09-24 23:00:19 61] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-09-24 23:00:21 61] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785266, val_loss: 0.038490, val_xent: 0.458197, xent: 0.457750
+[2020-09-24 23:00:22 61] [Epoch: 3] corr: 0.790345, loss: 0.037937, val_corr: 0.793128, val_loss: 0.037249, val_xent: 0.454684, xent: 0.456623
+[2020-09-24 23:00:23 61] [Epoch: 4] corr: 0.800208, loss: 0.036257, val_corr: 0.803736, val_loss: 0.035506, val_xent: 0.450107, xent: 0.451993
+[2020-09-24 23:00:25 61] [Epoch: 5] corr: 0.805227, loss: 0.035404, val_corr: 0.805172, val_loss: 0.035261, val_xent: 0.449287, xent: 0.449478
+[2020-09-24 23:00:26 61] [Epoch: 6] corr: 0.806141, loss: 0.035245, val_corr: 0.805913, val_loss: 0.035158, val_xent: 0.449053, xent: 0.448952
+[2020-09-24 23:00:27 61] [Epoch: 7] corr: 0.806509, loss: 0.035188, val_corr: 0.805910, val_loss: 0.035152, val_xent: 0.448889, xent: 0.448723
+[2020-09-24 23:00:29 61] [Epoch: 8] corr: 0.807061, loss: 0.035104, val_corr: 0.806565, val_loss: 0.035062, val_xent: 0.448531, xent: 0.448450
+[2020-09-24 23:00:30 61] [Epoch: 9] corr: 0.807754, loss: 0.034990, val_corr: 0.806650, val_loss: 0.035049, val_xent: 0.448683, xent: 0.448113
+[2020-09-24 23:00:31 61] [Epoch: 10] corr: 0.808602, loss: 0.034851, val_corr: 0.807544, val_loss: 0.034914, val_xent: 0.448363, xent: 0.447713
+[2020-09-24 23:00:33 61] [Epoch: 11] corr: 0.809500, loss: 0.034712, val_corr: 0.808546, val_loss: 0.034739, val_xent: 0.447756, xent: 0.447340
+[2020-09-24 23:00:34 61] [Epoch: 12] corr: 0.810700, loss: 0.034518, val_corr: 0.809614, val_loss: 0.034548, val_xent: 0.447159, xent: 0.446826
+[2020-09-24 23:00:35 61] [Epoch: 13] corr: 0.811611, loss: 0.034361, val_corr: 0.810809, val_loss: 0.034359, val_xent: 0.446718, xent: 0.446372
+[2020-09-24 23:00:37 61] [Epoch: 14] corr: 0.811998, loss: 0.034327, val_corr: 0.810160, val_loss: 0.034480, val_xent: 0.446900, xent: 0.446340
+[2020-09-24 23:00:38 61] [Epoch: 15] corr: 0.812167, loss: 0.034311, val_corr: 0.811011, val_loss: 0.034369, val_xent: 0.446631, xent: 0.446354
+[2020-09-24 23:00:39 61] [Epoch: 16] corr: 0.813874, loss: 0.033996, val_corr: 0.812673, val_loss: 0.034055, val_xent: 0.445812, xent: 0.445376
+[2020-09-24 23:00:41 61] [Epoch: 17] corr: 0.814656, loss: 0.033867, val_corr: 0.812119, val_loss: 0.034169, val_xent: 0.446245, xent: 0.445026
+[2020-09-24 23:00:42 61] [Epoch: 18] corr: 0.815008, loss: 0.033816, val_corr: 0.814086, val_loss: 0.033816, val_xent: 0.445202, xent: 0.444905
+[2020-09-24 23:00:43 61] [Epoch: 19] corr: 0.815060, loss: 0.033811, val_corr: 0.812735, val_loss: 0.034035, val_xent: 0.445704, xent: 0.444887
+[2020-09-24 23:00:45 61] [Epoch: 20] corr: 0.815422, loss: 0.033751, val_corr: 0.813349, val_loss: 0.034052, val_xent: 0.446483, xent: 0.444755
+[2020-09-24 23:00:46 61] [Epoch: 21] corr: 0.816326, loss: 0.033598, val_corr: 0.813999, val_loss: 0.033846, val_xent: 0.445212, xent: 0.444317
+[2020-09-24 23:00:47 61] [Epoch: 22] corr: 0.816652, loss: 0.033541, val_corr: 0.814959, val_loss: 0.033711, val_xent: 0.445155, xent: 0.444148
+[2020-09-24 23:00:49 61] [Epoch: 23] corr: 0.817049, loss: 0.033476, val_corr: 0.813923, val_loss: 0.033918, val_xent: 0.445915, xent: 0.443950
+[2020-09-24 23:00:50 61] [Epoch: 24] corr: 0.815762, loss: 0.033727, val_corr: 0.813746, val_loss: 0.033928, val_xent: 0.445470, xent: 0.444684
+[2020-09-24 23:00:51 61] [Epoch: 25] corr: 0.817084, loss: 0.033481, val_corr: 0.814426, val_loss: 0.033792, val_xent: 0.444993, xent: 0.443959
+[2020-09-24 23:00:53 61] [Epoch: 26] corr: 0.817078, loss: 0.033489, val_corr: 0.814789, val_loss: 0.033838, val_xent: 0.445952, xent: 0.444011
+[2020-09-24 23:00:54 61] [Epoch: 27] corr: 0.817794, loss: 0.033369, val_corr: 0.814825, val_loss: 0.033743, val_xent: 0.445217, xent: 0.443662
+[2020-09-24 23:00:55 61] [Epoch: 28] corr: 0.818336, loss: 0.033266, val_corr: 0.815818, val_loss: 0.033535, val_xent: 0.444505, xent: 0.443360
+[2020-09-24 23:00:57 61] [Epoch: 29] corr: 0.818988, loss: 0.033154, val_corr: 0.815664, val_loss: 0.033554, val_xent: 0.444429, xent: 0.443062
+[2020-09-24 23:00:58 61] [Epoch: 30] corr: 0.819372, loss: 0.033085, val_corr: 0.816447, val_loss: 0.033455, val_xent: 0.444329, xent: 0.442853
+[2020-09-24 23:00:59 61] [Epoch: 31] corr: 0.819397, loss: 0.033093, val_corr: 0.815800, val_loss: 0.033535, val_xent: 0.444461, xent: 0.442915
+[2020-09-24 23:01:00 61] [Epoch: 32] corr: 0.819808, loss: 0.033015, val_corr: 0.816754, val_loss: 0.033372, val_xent: 0.443989, xent: 0.442683
+[2020-09-24 23:01:02 61] [Epoch: 33] corr: 0.820474, loss: 0.032910, val_corr: 0.816963, val_loss: 0.033348, val_xent: 0.443988, xent: 0.442396
+[2020-09-24 23:01:03 61] [Epoch: 34] corr: 0.820687, loss: 0.032873, val_corr: 0.816852, val_loss: 0.033378, val_xent: 0.444238, xent: 0.442334
+[2020-09-24 23:01:04 61] [Epoch: 35] corr: 0.820887, loss: 0.032852, val_corr: 0.818035, val_loss: 0.033165, val_xent: 0.443475, xent: 0.442339
+[2020-09-24 23:01:06 61] [Epoch: 36] corr: 0.821854, loss: 0.032682, val_corr: 0.819022, val_loss: 0.033026, val_xent: 0.443162, xent: 0.441864
+[2020-09-24 23:01:07 61] [Epoch: 37] corr: 0.822522, loss: 0.032581, val_corr: 0.819570, val_loss: 0.032922, val_xent: 0.443043, xent: 0.441616
+[2020-09-24 23:01:09 61] [Epoch: 38] corr: 0.822773, loss: 0.032528, val_corr: 0.820160, val_loss: 0.032821, val_xent: 0.442708, xent: 0.441494
+[2020-09-24 23:01:10 61] [Epoch: 39] corr: 0.823645, loss: 0.032378, val_corr: 0.820468, val_loss: 0.032773, val_xent: 0.442464, xent: 0.441082
+[2020-09-24 23:01:11 61] [Epoch: 40] corr: 0.823098, loss: 0.032530, val_corr: 0.820503, val_loss: 0.032769, val_xent: 0.442583, xent: 0.441584
+[2020-09-24 23:01:13 61] [Epoch: 41] corr: 0.823742, loss: 0.032378, val_corr: 0.820461, val_loss: 0.032787, val_xent: 0.442572, xent: 0.441125
+[2020-09-24 23:01:14 61] [Epoch: 42] corr: 0.824198, loss: 0.032310, val_corr: 0.820679, val_loss: 0.032733, val_xent: 0.442512, xent: 0.440977
+[2020-09-24 23:01:15 61] [Epoch: 43] corr: 0.824735, loss: 0.032195, val_corr: 0.821296, val_loss: 0.032622, val_xent: 0.442096, xent: 0.440598
+[2020-09-24 23:01:16 61] [Epoch: 44] corr: 0.824802, loss: 0.032187, val_corr: 0.821054, val_loss: 0.032674, val_xent: 0.442226, xent: 0.440595
+[2020-09-24 23:01:18 61] [Epoch: 45] corr: 0.825650, loss: 0.032046, val_corr: 0.821562, val_loss: 0.032579, val_xent: 0.441996, xent: 0.440210
+[2020-09-24 23:01:19 61] [Epoch: 46] corr: 0.825780, loss: 0.032034, val_corr: 0.822280, val_loss: 0.032461, val_xent: 0.441815, xent: 0.440191
+[2020-09-24 23:01:20 61] [Epoch: 47] corr: 0.826061, loss: 0.031979, val_corr: 0.821926, val_loss: 0.032529, val_xent: 0.441955, xent: 0.440088
+[2020-09-24 23:01:22 61] [Epoch: 48] corr: 0.825934, loss: 0.032011, val_corr: 0.822123, val_loss: 0.032486, val_xent: 0.441868, xent: 0.440222
+[2020-09-24 23:01:23 61] [Epoch: 49] corr: 0.826397, loss: 0.031935, val_corr: 0.822166, val_loss: 0.032483, val_xent: 0.441914, xent: 0.440033
+[2020-09-24 23:01:24 61] [Epoch: 50] corr: 0.827273, loss: 0.031785, val_corr: 0.822515, val_loss: 0.032468, val_xent: 0.442100, xent: 0.439663
+[2020-09-24 23:01:26 61] [Epoch: 51] corr: 0.828040, loss: 0.031657, val_corr: 0.823794, val_loss: 0.032265, val_xent: 0.441305, xent: 0.439342
+[2020-09-24 23:01:27 61] [Epoch: 52] corr: 0.828757, loss: 0.031529, val_corr: 0.824654, val_loss: 0.032097, val_xent: 0.440922, xent: 0.438998
+[2020-09-24 23:01:28 61] [Epoch: 53] corr: 0.829327, loss: 0.031426, val_corr: 0.824280, val_loss: 0.032134, val_xent: 0.441034, xent: 0.438695
+[2020-09-24 23:01:30 61] [Epoch: 54] corr: 0.829583, loss: 0.031392, val_corr: 0.824642, val_loss: 0.032080, val_xent: 0.440897, xent: 0.438630
+[2020-09-24 23:01:31 61] [Epoch: 55] corr: 0.829854, loss: 0.031345, val_corr: 0.824427, val_loss: 0.032112, val_xent: 0.441029, xent: 0.438507
+[2020-09-24 23:01:32 61] [Epoch: 56] corr: 0.829573, loss: 0.031401, val_corr: 0.824850, val_loss: 0.032042, val_xent: 0.440787, xent: 0.438673
+[2020-09-24 23:01:34 61] [Epoch: 57] corr: 0.829999, loss: 0.031319, val_corr: 0.824678, val_loss: 0.032089, val_xent: 0.440821, xent: 0.438404
+[2020-09-24 23:01:35 61] [Epoch: 58] corr: 0.830070, loss: 0.031307, val_corr: 0.825835, val_loss: 0.031902, val_xent: 0.440667, xent: 0.438354
+[2020-09-24 23:01:36 61] [Epoch: 59] corr: 0.829984, loss: 0.031350, val_corr: 0.824894, val_loss: 0.032110, val_xent: 0.440930, xent: 0.438524
+[2020-09-24 23:01:38 61] [Epoch: 60] corr: 0.830285, loss: 0.031298, val_corr: 0.824995, val_loss: 0.032033, val_xent: 0.440729, xent: 0.438469
+[2020-09-24 23:01:39 61] [Epoch: 61] corr: 0.830847, loss: 0.031186, val_corr: 0.825122, val_loss: 0.032076, val_xent: 0.440750, xent: 0.438049
+[2020-09-24 23:01:40 61] [Epoch: 62] corr: 0.829978, loss: 0.031321, val_corr: 0.825626, val_loss: 0.031925, val_xent: 0.440392, xent: 0.438413
+[2020-09-24 23:01:41 61] [Epoch: 63] corr: 0.830784, loss: 0.031192, val_corr: 0.826391, val_loss: 0.031801, val_xent: 0.440230, xent: 0.438101
+[2020-09-24 23:01:43 61] [Epoch: 64] corr: 0.831244, loss: 0.031115, val_corr: 0.826127, val_loss: 0.031824, val_xent: 0.440187, xent: 0.437842
+[2020-09-24 23:01:44 61] [Epoch: 65] corr: 0.831720, loss: 0.031037, val_corr: 0.826499, val_loss: 0.031812, val_xent: 0.440076, xent: 0.437674
+[2020-09-24 23:01:45 61] [Epoch: 66] corr: 0.831913, loss: 0.031002, val_corr: 0.826462, val_loss: 0.031773, val_xent: 0.440074, xent: 0.437548
+[2020-09-24 23:01:47 61] [Epoch: 67] corr: 0.832354, loss: 0.030921, val_corr: 0.826541, val_loss: 0.031770, val_xent: 0.440045, xent: 0.437298
+[2020-09-24 23:01:48 61] [Epoch: 68] corr: 0.832396, loss: 0.030918, val_corr: 0.826844, val_loss: 0.031715, val_xent: 0.439925, xent: 0.437289
+[2020-09-24 23:01:49 61] [Epoch: 69] corr: 0.832514, loss: 0.030899, val_corr: 0.824006, val_loss: 0.032274, val_xent: 0.441241, xent: 0.437240
+[2020-09-24 23:01:51 61] [Epoch: 70] corr: 0.831605, loss: 0.031071, val_corr: 0.826694, val_loss: 0.031734, val_xent: 0.439969, xent: 0.437748
+[2020-09-24 23:01:52 61] [Epoch: 71] corr: 0.832721, loss: 0.030866, val_corr: 0.826750, val_loss: 0.031726, val_xent: 0.439989, xent: 0.437163
+[2020-09-24 23:01:53 61] [Epoch: 72] corr: 0.832339, loss: 0.030939, val_corr: 0.824105, val_loss: 0.032211, val_xent: 0.441263, xent: 0.437312
+[2020-09-24 23:01:55 61] [Epoch: 73] corr: 0.830895, loss: 0.031176, val_corr: 0.825962, val_loss: 0.031865, val_xent: 0.440258, xent: 0.437988
+[2020-09-24 23:01:56 61] [Epoch: 74] corr: 0.831850, loss: 0.031023, val_corr: 0.825860, val_loss: 0.031871, val_xent: 0.440368, xent: 0.437545
+[2020-09-24 23:01:57 61] [Epoch: 75] corr: 0.831126, loss: 0.031144, val_corr: 0.826413, val_loss: 0.031786, val_xent: 0.440132, xent: 0.437862
+[2020-09-24 23:01:59 61] [Epoch: 76] corr: 0.832027, loss: 0.030992, val_corr: 0.827228, val_loss: 0.031673, val_xent: 0.439730, xent: 0.437487
+[2020-09-24 23:02:00 61] [Epoch: 77] corr: 0.833163, loss: 0.030794, val_corr: 0.826750, val_loss: 0.031774, val_xent: 0.440036, xent: 0.436924
+[2020-09-24 23:02:01 61] [Epoch: 78] corr: 0.833588, loss: 0.030721, val_corr: 0.827615, val_loss: 0.031580, val_xent: 0.439562, xent: 0.436716
+[2020-09-24 23:02:03 61] [Epoch: 79] corr: 0.833910, loss: 0.030661, val_corr: 0.826862, val_loss: 0.031720, val_xent: 0.439892, xent: 0.436542
+[2020-09-24 23:02:04 61] [Epoch: 80] corr: 0.833916, loss: 0.030668, val_corr: 0.827155, val_loss: 0.031668, val_xent: 0.439841, xent: 0.436566
+[2020-09-24 23:02:06 61] [Epoch: 81] corr: 0.834323, loss: 0.030593, val_corr: 0.827339, val_loss: 0.031638, val_xent: 0.439668, xent: 0.436362
+[2020-09-24 23:02:07 61] [Epoch: 82] corr: 0.834664, loss: 0.030535, val_corr: 0.826997, val_loss: 0.031690, val_xent: 0.439842, xent: 0.436188
+[2020-09-24 23:02:09 61] [Epoch: 83] corr: 0.834690, loss: 0.030533, val_corr: 0.826085, val_loss: 0.031871, val_xent: 0.440252, xent: 0.436208
+[2020-09-24 23:02:10 61] [Epoch: 84] corr: 0.834573, loss: 0.030552, val_corr: 0.827726, val_loss: 0.031565, val_xent: 0.439543, xent: 0.436232
+[2020-09-24 23:02:12 61] [Epoch: 85] corr: 0.834907, loss: 0.030497, val_corr: 0.827390, val_loss: 0.031659, val_xent: 0.439790, xent: 0.436096
+[2020-09-24 23:02:13 61] [Epoch: 86] corr: 0.834976, loss: 0.030486, val_corr: 0.826652, val_loss: 0.031814, val_xent: 0.440066, xent: 0.436066
+[2020-09-24 23:02:14 61] [Epoch: 87] corr: 0.835154, loss: 0.030453, val_corr: 0.827380, val_loss: 0.031632, val_xent: 0.439674, xent: 0.435972
+[2020-09-24 23:02:16 61] [Epoch: 88] corr: 0.835116, loss: 0.030464, val_corr: 0.827271, val_loss: 0.031635, val_xent: 0.439799, xent: 0.436011
+[2020-09-24 23:02:17 61] [Epoch: 89] corr: 0.835259, loss: 0.030451, val_corr: 0.826986, val_loss: 0.031716, val_xent: 0.440016, xent: 0.435991
+[2020-09-24 23:02:18 61] [Epoch: 90] corr: 0.835459, loss: 0.030404, val_corr: 0.826996, val_loss: 0.031708, val_xent: 0.439870, xent: 0.435842
+[2020-09-24 23:02:20 61] [Epoch: 91] corr: 0.835626, loss: 0.030373, val_corr: 0.826982, val_loss: 0.031728, val_xent: 0.439879, xent: 0.435741
+[2020-09-24 23:02:21 61] [Epoch: 92] corr: 0.835453, loss: 0.030408, val_corr: 0.827456, val_loss: 0.031654, val_xent: 0.439765, xent: 0.435871
+[2020-09-24 23:02:22 61] [Epoch: 93] corr: 0.835775, loss: 0.030350, val_corr: 0.826936, val_loss: 0.031700, val_xent: 0.439829, xent: 0.435683
+[2020-09-24 23:02:24 61] [Epoch: 94] corr: 0.835996, loss: 0.030306, val_corr: 0.826986, val_loss: 0.031690, val_xent: 0.439837, xent: 0.435540
+[2020-09-24 23:02:25 61] [Epoch: 95] corr: 0.835194, loss: 0.030443, val_corr: 0.827258, val_loss: 0.031664, val_xent: 0.439836, xent: 0.435901
+[2020-09-24 23:02:26 61] [Epoch: 96] corr: 0.834723, loss: 0.030539, val_corr: 0.825820, val_loss: 0.031898, val_xent: 0.440381, xent: 0.436204
+[2020-09-24 23:02:28 61] [Epoch: 97] corr: 0.834968, loss: 0.030487, val_corr: 0.826080, val_loss: 0.031833, val_xent: 0.440211, xent: 0.436042
+[2020-09-24 23:02:29 61] [Epoch: 98] corr: 0.835359, loss: 0.030418, val_corr: 0.827019, val_loss: 0.031678, val_xent: 0.439843, xent: 0.435838
+[2020-09-24 23:02:30 61] [Epoch: 99] corr: 0.835399, loss: 0.030417, val_corr: 0.826024, val_loss: 0.031876, val_xent: 0.440299, xent: 0.435838
+[2020-09-24 23:02:34 61] 
+Evaluation on test data: {'mse': 0.03247102, 'r2_score': 0.17658402020562095, 'correlation': 0.8236891898538355}
+[2020-09-25 03:50:52 59] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-09-25 03:55:47 59] Shape x_train: (2700, 60483)
+[2020-09-25 03:55:47 59] Shape x_val:   (300, 60483)
+[2020-09-25 03:55:47 59] Shape x_test:  (1000, 60483)
+[2020-09-25 03:55:47 59] Range x_train: [0, 1]
+[2020-09-25 03:55:47 59] Range x_val:   [0, 1]
+[2020-09-25 03:55:47 59] Range x_test:  [0, 1]
+[2020-09-25 03:55:47 59] Class labels
+[2020-09-25 03:55:47 59]   0: cancer_type:Brain Lower Grade Glioma
+[2020-09-25 03:55:47 59]   1: cancer_type:Breast Invasive Carcinoma
+[2020-09-25 03:55:47 59]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-09-25 03:55:47 59]   3: cancer_type:Lung Adenocarcinoma
+[2020-09-25 03:55:47 59]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-09-25 03:55:47 59]   5: cancer_type:Others
+[2020-09-25 03:55:47 59]   6: cancer_type:Prostate Adenocarcinoma
+[2020-09-25 03:55:47 59]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-09-25 03:55:47 59]   8: cancer_type:Thyroid Carcinoma
+[2020-09-25 03:55:47 59]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-09-25 03:55:49 59] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-09-25 03:55:58 59] [Epoch: 0] corr: 0.691180, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-09-25 03:56:01 59] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-09-25 03:56:03 59] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785266, val_loss: 0.038490, val_xent: 0.458197, xent: 0.457750
+[2020-09-25 03:56:05 59] [Epoch: 3] corr: 0.790345, loss: 0.037937, val_corr: 0.793128, val_loss: 0.037249, val_xent: 0.454684, xent: 0.456623
+[2020-09-25 03:56:06 59] [Epoch: 4] corr: 0.800208, loss: 0.036257, val_corr: 0.803741, val_loss: 0.035505, val_xent: 0.450107, xent: 0.451993
+[2020-09-25 03:56:08 59] [Epoch: 5] corr: 0.805237, loss: 0.035402, val_corr: 0.805177, val_loss: 0.035260, val_xent: 0.449289, xent: 0.449473
+[2020-09-25 03:56:09 59] [Epoch: 6] corr: 0.806145, loss: 0.035245, val_corr: 0.805886, val_loss: 0.035157, val_xent: 0.449018, xent: 0.448948
+[2020-09-25 03:56:10 59] [Epoch: 7] corr: 0.806544, loss: 0.035182, val_corr: 0.806123, val_loss: 0.035114, val_xent: 0.448791, xent: 0.448711
+[2020-09-25 03:56:12 59] [Epoch: 8] corr: 0.807093, loss: 0.035099, val_corr: 0.806648, val_loss: 0.035039, val_xent: 0.448479, xent: 0.448440
+[2020-09-25 03:56:14 59] [Epoch: 9] corr: 0.807781, loss: 0.034986, val_corr: 0.806511, val_loss: 0.035071, val_xent: 0.448733, xent: 0.448106
+[2020-09-25 03:56:15 59] [Epoch: 10] corr: 0.808595, loss: 0.034853, val_corr: 0.807522, val_loss: 0.034926, val_xent: 0.448435, xent: 0.447719
+[2020-09-25 03:56:17 59] [Epoch: 11] corr: 0.809195, loss: 0.034762, val_corr: 0.805415, val_loss: 0.035291, val_xent: 0.449109, xent: 0.447477
+[2020-09-25 03:56:18 59] [Epoch: 12] corr: 0.810225, loss: 0.034592, val_corr: 0.809490, val_loss: 0.034581, val_xent: 0.447270, xent: 0.447014
+[2020-09-25 03:56:20 59] [Epoch: 13] corr: 0.811572, loss: 0.034369, val_corr: 0.810326, val_loss: 0.034433, val_xent: 0.446863, xent: 0.446388
+[2020-09-25 03:56:21 59] [Epoch: 14] corr: 0.812274, loss: 0.034257, val_corr: 0.811243, val_loss: 0.034285, val_xent: 0.446481, xent: 0.446094
+[2020-09-25 03:56:22 59] [Epoch: 15] corr: 0.813166, loss: 0.034117, val_corr: 0.811603, val_loss: 0.034234, val_xent: 0.446167, xent: 0.445773
+[2020-09-25 03:56:24 59] [Epoch: 16] corr: 0.813733, loss: 0.034025, val_corr: 0.812231, val_loss: 0.034154, val_xent: 0.445970, xent: 0.445475
+[2020-09-25 03:56:25 59] [Epoch: 17] corr: 0.814817, loss: 0.033841, val_corr: 0.813318, val_loss: 0.033944, val_xent: 0.445501, xent: 0.444967
+[2020-09-25 03:56:26 59] [Epoch: 18] corr: 0.815023, loss: 0.033815, val_corr: 0.811336, val_loss: 0.034283, val_xent: 0.446319, xent: 0.444919
+[2020-09-25 03:56:28 59] [Epoch: 19] corr: 0.814553, loss: 0.033943, val_corr: 0.813747, val_loss: 0.034008, val_xent: 0.446405, xent: 0.445380
+[2020-09-25 03:56:30 59] [Epoch: 20] corr: 0.816145, loss: 0.033643, val_corr: 0.814343, val_loss: 0.033775, val_xent: 0.445100, xent: 0.444460
+[2020-09-25 03:56:31 59] [Epoch: 21] corr: 0.816835, loss: 0.033508, val_corr: 0.814632, val_loss: 0.033723, val_xent: 0.444921, xent: 0.444041
+[2020-09-25 03:56:32 59] [Epoch: 22] corr: 0.817239, loss: 0.033439, val_corr: 0.815436, val_loss: 0.033622, val_xent: 0.444903, xent: 0.443846
+[2020-09-25 03:56:34 59] [Epoch: 23] corr: 0.817464, loss: 0.033412, val_corr: 0.814812, val_loss: 0.033692, val_xent: 0.444750, xent: 0.443797
+[2020-09-25 03:56:35 59] [Epoch: 24] corr: 0.817454, loss: 0.033413, val_corr: 0.814423, val_loss: 0.033760, val_xent: 0.445081, xent: 0.443774
+[2020-09-25 03:56:36 59] [Epoch: 25] corr: 0.817546, loss: 0.033403, val_corr: 0.815217, val_loss: 0.033653, val_xent: 0.444812, xent: 0.443734
+[2020-09-25 03:56:38 59] [Epoch: 26] corr: 0.817593, loss: 0.033399, val_corr: 0.814753, val_loss: 0.033704, val_xent: 0.444814, xent: 0.443753
+[2020-09-25 03:56:39 59] [Epoch: 27] corr: 0.818424, loss: 0.033264, val_corr: 0.815064, val_loss: 0.033680, val_xent: 0.444741, xent: 0.443386
+[2020-09-25 03:56:41 59] [Epoch: 28] corr: 0.818196, loss: 0.033300, val_corr: 0.815255, val_loss: 0.033641, val_xent: 0.444633, xent: 0.443496
+[2020-09-25 03:56:42 59] [Epoch: 29] corr: 0.818332, loss: 0.033275, val_corr: 0.816052, val_loss: 0.033492, val_xent: 0.444272, xent: 0.443380
+[2020-09-25 03:56:43 59] [Epoch: 30] corr: 0.819187, loss: 0.033122, val_corr: 0.816500, val_loss: 0.033423, val_xent: 0.444091, xent: 0.442953
+[2020-09-25 03:56:45 59] [Epoch: 31] corr: 0.819692, loss: 0.033039, val_corr: 0.816418, val_loss: 0.033489, val_xent: 0.444612, xent: 0.442732
+[2020-09-25 03:56:46 59] [Epoch: 32] corr: 0.819211, loss: 0.033143, val_corr: 0.816261, val_loss: 0.033491, val_xent: 0.444548, xent: 0.443106
+[2020-09-25 03:56:48 59] [Epoch: 33] corr: 0.819286, loss: 0.033132, val_corr: 0.816916, val_loss: 0.033352, val_xent: 0.443905, xent: 0.443052
+[2020-09-25 03:56:49 59] [Epoch: 34] corr: 0.819958, loss: 0.033017, val_corr: 0.817051, val_loss: 0.033334, val_xent: 0.443961, xent: 0.442796
+[2020-09-25 03:56:50 59] [Epoch: 35] corr: 0.820988, loss: 0.032828, val_corr: 0.818545, val_loss: 0.033081, val_xent: 0.443395, xent: 0.442245
+[2020-09-25 03:56:51 59] [Epoch: 36] corr: 0.821909, loss: 0.032676, val_corr: 0.819179, val_loss: 0.032974, val_xent: 0.443065, xent: 0.441860
+[2020-09-25 03:56:53 59] [Epoch: 37] corr: 0.822941, loss: 0.032494, val_corr: 0.820206, val_loss: 0.032842, val_xent: 0.442886, xent: 0.441377
+[2020-09-25 03:56:54 59] [Epoch: 38] corr: 0.823453, loss: 0.032407, val_corr: 0.820808, val_loss: 0.032703, val_xent: 0.442330, xent: 0.441164
+[2020-09-25 03:56:55 59] [Epoch: 39] corr: 0.823657, loss: 0.032399, val_corr: 0.821042, val_loss: 0.032666, val_xent: 0.442166, xent: 0.441162
+[2020-09-25 03:56:57 59] [Epoch: 40] corr: 0.823815, loss: 0.032379, val_corr: 0.820723, val_loss: 0.032757, val_xent: 0.442736, xent: 0.441102
+[2020-09-25 03:56:58 59] [Epoch: 41] corr: 0.824247, loss: 0.032280, val_corr: 0.821047, val_loss: 0.032664, val_xent: 0.442287, xent: 0.440846
+[2020-09-25 03:56:59 59] [Epoch: 42] corr: 0.824734, loss: 0.032197, val_corr: 0.821197, val_loss: 0.032644, val_xent: 0.442163, xent: 0.440604
+[2020-09-25 03:57:01 59] [Epoch: 43] corr: 0.825037, loss: 0.032150, val_corr: 0.821422, val_loss: 0.032602, val_xent: 0.442083, xent: 0.440484
+[2020-09-25 03:57:02 59] [Epoch: 44] corr: 0.825464, loss: 0.032074, val_corr: 0.821390, val_loss: 0.032622, val_xent: 0.442059, xent: 0.440284
+[2020-09-25 03:57:03 59] [Epoch: 45] corr: 0.825684, loss: 0.032058, val_corr: 0.821576, val_loss: 0.032616, val_xent: 0.442093, xent: 0.440263
+[2020-09-25 03:57:05 59] [Epoch: 46] corr: 0.826237, loss: 0.031947, val_corr: 0.822150, val_loss: 0.032490, val_xent: 0.441782, xent: 0.439948
+[2020-09-25 03:57:06 59] [Epoch: 47] corr: 0.826268, loss: 0.031954, val_corr: 0.822154, val_loss: 0.032482, val_xent: 0.441754, xent: 0.440000
+[2020-09-25 03:57:07 59] [Epoch: 48] corr: 0.826625, loss: 0.031886, val_corr: 0.822249, val_loss: 0.032490, val_xent: 0.441878, xent: 0.439833
+[2020-09-25 03:57:09 59] [Epoch: 49] corr: 0.826604, loss: 0.031900, val_corr: 0.822284, val_loss: 0.032490, val_xent: 0.441884, xent: 0.439902
+[2020-09-25 03:57:10 59] [Epoch: 50] corr: 0.826750, loss: 0.031868, val_corr: 0.822017, val_loss: 0.032532, val_xent: 0.442030, xent: 0.439845
+[2020-09-25 03:57:11 59] [Epoch: 51] corr: 0.827011, loss: 0.031821, val_corr: 0.822782, val_loss: 0.032474, val_xent: 0.441877, xent: 0.439706
+[2020-09-25 03:57:13 59] [Epoch: 52] corr: 0.826482, loss: 0.031940, val_corr: 0.823569, val_loss: 0.032259, val_xent: 0.441274, xent: 0.440169
+[2020-09-25 03:57:14 59] [Epoch: 53] corr: 0.827837, loss: 0.031697, val_corr: 0.823676, val_loss: 0.032256, val_xent: 0.441448, xent: 0.439439
+[2020-09-25 03:57:15 59] [Epoch: 54] corr: 0.827011, loss: 0.031864, val_corr: 0.824292, val_loss: 0.032132, val_xent: 0.441202, xent: 0.439976
+[2020-09-25 03:57:17 59] [Epoch: 55] corr: 0.828116, loss: 0.031651, val_corr: 0.824760, val_loss: 0.032059, val_xent: 0.440768, xent: 0.439328
+[2020-09-25 03:57:18 59] [Epoch: 56] corr: 0.829397, loss: 0.031424, val_corr: 0.825474, val_loss: 0.031934, val_xent: 0.440437, xent: 0.438698
+[2020-09-25 03:57:19 59] [Epoch: 57] corr: 0.829536, loss: 0.031405, val_corr: 0.825332, val_loss: 0.031966, val_xent: 0.440549, xent: 0.438655
+[2020-09-25 03:57:21 59] [Epoch: 58] corr: 0.829839, loss: 0.031353, val_corr: 0.825021, val_loss: 0.032034, val_xent: 0.440951, xent: 0.438494
+[2020-09-25 03:57:22 59] [Epoch: 59] corr: 0.829687, loss: 0.031377, val_corr: 0.825116, val_loss: 0.032018, val_xent: 0.440766, xent: 0.438581
+[2020-09-25 03:57:23 59] [Epoch: 60] corr: 0.830730, loss: 0.031194, val_corr: 0.825306, val_loss: 0.031976, val_xent: 0.440666, xent: 0.438038
+[2020-09-25 03:57:24 59] [Epoch: 61] corr: 0.830678, loss: 0.031215, val_corr: 0.825771, val_loss: 0.031906, val_xent: 0.440332, xent: 0.438120
+[2020-09-25 03:57:26 59] [Epoch: 62] corr: 0.831329, loss: 0.031099, val_corr: 0.825779, val_loss: 0.031901, val_xent: 0.440256, xent: 0.437778
+[2020-09-25 03:57:27 59] [Epoch: 63] corr: 0.831728, loss: 0.031029, val_corr: 0.826607, val_loss: 0.031760, val_xent: 0.440039, xent: 0.437588
+[2020-09-25 03:57:28 59] [Epoch: 64] corr: 0.832000, loss: 0.030981, val_corr: 0.825769, val_loss: 0.031926, val_xent: 0.440372, xent: 0.437461
+[2020-09-25 03:57:30 59] [Epoch: 65] corr: 0.831759, loss: 0.031026, val_corr: 0.825068, val_loss: 0.032057, val_xent: 0.440636, xent: 0.437596
+[2020-09-25 03:57:31 59] [Epoch: 66] corr: 0.831068, loss: 0.031151, val_corr: 0.825819, val_loss: 0.031891, val_xent: 0.440363, xent: 0.437927
+[2020-09-25 03:57:32 59] [Epoch: 67] corr: 0.831605, loss: 0.031053, val_corr: 0.825904, val_loss: 0.031882, val_xent: 0.440244, xent: 0.437640
+[2020-09-25 03:57:34 59] [Epoch: 68] corr: 0.832383, loss: 0.030921, val_corr: 0.826743, val_loss: 0.031748, val_xent: 0.439973, xent: 0.437297
+[2020-09-25 03:57:35 59] [Epoch: 69] corr: 0.832489, loss: 0.030906, val_corr: 0.826186, val_loss: 0.031815, val_xent: 0.440062, xent: 0.437263
+[2020-09-25 03:57:36 59] [Epoch: 70] corr: 0.832272, loss: 0.030951, val_corr: 0.827232, val_loss: 0.031662, val_xent: 0.439699, xent: 0.437384
+[2020-09-25 03:57:38 59] [Epoch: 71] corr: 0.832787, loss: 0.030860, val_corr: 0.826493, val_loss: 0.031790, val_xent: 0.439992, xent: 0.437144
+[2020-09-25 03:57:39 59] [Epoch: 72] corr: 0.832349, loss: 0.030927, val_corr: 0.825672, val_loss: 0.031910, val_xent: 0.440416, xent: 0.437280
+[2020-09-25 03:57:40 59] [Epoch: 73] corr: 0.832196, loss: 0.030962, val_corr: 0.826452, val_loss: 0.031813, val_xent: 0.440100, xent: 0.437408
+[2020-09-25 03:57:41 59] [Epoch: 74] corr: 0.833001, loss: 0.030830, val_corr: 0.825827, val_loss: 0.031922, val_xent: 0.440342, xent: 0.437021
+[2020-09-25 03:57:43 59] [Epoch: 75] corr: 0.833176, loss: 0.030794, val_corr: 0.826947, val_loss: 0.031688, val_xent: 0.439753, xent: 0.436929
+[2020-09-25 03:57:44 59] [Epoch: 76] corr: 0.833254, loss: 0.030777, val_corr: 0.826557, val_loss: 0.031761, val_xent: 0.439943, xent: 0.436866
+[2020-09-25 03:57:45 59] [Epoch: 77] corr: 0.833533, loss: 0.030739, val_corr: 0.827098, val_loss: 0.031678, val_xent: 0.439733, xent: 0.436790
+[2020-09-25 03:57:47 59] [Epoch: 78] corr: 0.834213, loss: 0.030609, val_corr: 0.826989, val_loss: 0.031694, val_xent: 0.439849, xent: 0.436402
+[2020-09-25 03:57:48 59] [Epoch: 79] corr: 0.834347, loss: 0.030588, val_corr: 0.827294, val_loss: 0.031643, val_xent: 0.439629, xent: 0.436350
+[2020-09-25 03:57:49 59] [Epoch: 80] corr: 0.834417, loss: 0.030575, val_corr: 0.827274, val_loss: 0.031660, val_xent: 0.439699, xent: 0.436293
+[2020-09-25 03:57:51 59] [Epoch: 81] corr: 0.834267, loss: 0.030608, val_corr: 0.826668, val_loss: 0.031742, val_xent: 0.439904, xent: 0.436401
+[2020-09-25 03:57:52 59] [Epoch: 82] corr: 0.833973, loss: 0.030654, val_corr: 0.826931, val_loss: 0.031706, val_xent: 0.439908, xent: 0.436529
+[2020-09-25 03:57:53 59] [Epoch: 83] corr: 0.833886, loss: 0.030681, val_corr: 0.826734, val_loss: 0.031729, val_xent: 0.439901, xent: 0.436637
+[2020-09-25 03:57:54 59] [Epoch: 84] corr: 0.834542, loss: 0.030554, val_corr: 0.827286, val_loss: 0.031648, val_xent: 0.439607, xent: 0.436228
+[2020-09-25 03:57:56 59] [Epoch: 85] corr: 0.835100, loss: 0.030460, val_corr: 0.826737, val_loss: 0.031731, val_xent: 0.439922, xent: 0.435960
+[2020-09-25 03:57:57 59] [Epoch: 86] corr: 0.835046, loss: 0.030469, val_corr: 0.826508, val_loss: 0.031857, val_xent: 0.440122, xent: 0.436006
+[2020-09-25 03:57:58 59] [Epoch: 87] corr: 0.834902, loss: 0.030499, val_corr: 0.827490, val_loss: 0.031602, val_xent: 0.439550, xent: 0.436078
+[2020-09-25 03:58:00 59] [Epoch: 88] corr: 0.835079, loss: 0.030465, val_corr: 0.826683, val_loss: 0.031749, val_xent: 0.439995, xent: 0.435994
+[2020-09-25 03:58:01 59] [Epoch: 89] corr: 0.835071, loss: 0.030470, val_corr: 0.826976, val_loss: 0.031691, val_xent: 0.439776, xent: 0.436005
+[2020-09-25 03:58:02 59] [Epoch: 90] corr: 0.834977, loss: 0.030484, val_corr: 0.827321, val_loss: 0.031626, val_xent: 0.439665, xent: 0.436024
+[2020-09-25 03:58:04 59] [Epoch: 91] corr: 0.835340, loss: 0.030420, val_corr: 0.826556, val_loss: 0.031807, val_xent: 0.440088, xent: 0.435853
+[2020-09-25 03:58:05 59] [Epoch: 92] corr: 0.835235, loss: 0.030447, val_corr: 0.825721, val_loss: 0.031978, val_xent: 0.440432, xent: 0.435956
+[2020-09-25 03:58:06 59] [Epoch: 93] corr: 0.834519, loss: 0.030582, val_corr: 0.825226, val_loss: 0.031978, val_xent: 0.440601, xent: 0.436295
+[2020-09-25 03:58:08 59] [Epoch: 94] corr: 0.835140, loss: 0.030454, val_corr: 0.826810, val_loss: 0.031724, val_xent: 0.439950, xent: 0.435942
+[2020-09-25 03:58:09 59] [Epoch: 95] corr: 0.835068, loss: 0.030469, val_corr: 0.826865, val_loss: 0.031737, val_xent: 0.439849, xent: 0.435993
+[2020-09-25 03:58:10 59] [Epoch: 96] corr: 0.835101, loss: 0.030473, val_corr: 0.827070, val_loss: 0.031687, val_xent: 0.439682, xent: 0.435993
+[2020-09-25 03:58:12 59] [Epoch: 97] corr: 0.835727, loss: 0.030359, val_corr: 0.827061, val_loss: 0.031669, val_xent: 0.439737, xent: 0.435664
+[2020-09-25 03:58:13 59] [Epoch: 98] corr: 0.836044, loss: 0.030305, val_corr: 0.827790, val_loss: 0.031553, val_xent: 0.439430, xent: 0.435514
+[2020-09-25 03:58:14 59] [Epoch: 99] corr: 0.836408, loss: 0.030245, val_corr: 0.826770, val_loss: 0.031741, val_xent: 0.440010, xent: 0.435381
+[2020-09-25 03:58:18 59] 
+Evaluation on test data: {'mse': 0.032169, 'r2_score': 0.18648731367901691, 'correlation': 0.8253963616040527}
+[2020-09-25 04:14:20 819] Params: {'activation': 'relu', 'batch_size': 100, 'dense': [1000, 600], 'drop': 0, 'epochs': 100, 'initialization': 'glorot_uniform', 'learning_rate': None, 'loss': 'mse', 'noise_factor': 0, 'optimizer': 'adam', 'rng_seed': 2017, 'model': 'ae', 'scaling': 'minmax', 'validation_split': 0.1, 'latent_dim': 2, 'feature_subsample': 0, 'batch_normalization': False, 'epsilon_std': 1.0, 'solr_root': '', 'timeout': -1, 'model_name': 'p1b1', 'base_lr': None, 'save': 'save', 'config_file': '/dockerx/coral2-deep-learning-suite/candle/Benchmarks/Pilot1/P1B1/p1b1_default_model.txt', 'verbose': False, 'logfile': None, 'train_bool': True, 'shuffle': True, 'alpha_dropout': False, 'gpus': [], 'experiment_id': 'EXP.000', 'run_id': 'RUN.000', 'use_landmark_genes': False, 'residual': False, 'reduce_lr': False, 'warmup_lr': False, 'cp': False, 'tb': False, 'tsne': False, 'datatype': <class 'numpy.float32'>}
+[2020-09-25 04:18:53 819] Shape x_train: (2700, 60483)
+[2020-09-25 04:18:53 819] Shape x_val:   (300, 60483)
+[2020-09-25 04:18:53 819] Shape x_test:  (1000, 60483)
+[2020-09-25 04:18:53 819] Range x_train: [0, 1]
+[2020-09-25 04:18:53 819] Range x_val:   [0, 1]
+[2020-09-25 04:18:53 819] Range x_test:  [0, 1]
+[2020-09-25 04:18:53 819] Class labels
+[2020-09-25 04:18:53 819]   0: cancer_type:Brain Lower Grade Glioma
+[2020-09-25 04:18:53 819]   1: cancer_type:Breast Invasive Carcinoma
+[2020-09-25 04:18:53 819]   2: cancer_type:Head and Neck Squamous Cell Carcinoma
+[2020-09-25 04:18:53 819]   3: cancer_type:Lung Adenocarcinoma
+[2020-09-25 04:18:53 819]   4: cancer_type:Lung Squamous Cell Carcinoma
+[2020-09-25 04:18:53 819]   5: cancer_type:Others
+[2020-09-25 04:18:53 819]   6: cancer_type:Prostate Adenocarcinoma
+[2020-09-25 04:18:53 819]   7: cancer_type:Skin Cutaneous Melanoma
+[2020-09-25 04:18:53 819]   8: cancer_type:Thyroid Carcinoma
+[2020-09-25 04:18:53 819]   9: cancer_type:Uterine Corpus Endometrial Carcinoma
+[2020-09-25 04:18:55 819] 
+Between random pairs of validation samples: {'mse': 0.07824472, 'r2_score': -0.9186576375287925, 'correlation': 0.609723112567147}
+[2020-09-25 04:19:04 819] [Epoch: 0] corr: 0.691180, loss: 0.060477, val_corr: 0.779890, val_loss: 0.039530, val_xent: 0.464725, xent: 0.521049
+[2020-09-25 04:19:05 819] [Epoch: 1] corr: 0.784127, loss: 0.038823, val_corr: 0.784174, val_loss: 0.038608, val_xent: 0.458528, xent: 0.460024
+[2020-09-25 04:19:07 819] [Epoch: 2] corr: 0.786201, loss: 0.038452, val_corr: 0.785266, val_loss: 0.038490, val_xent: 0.458197, xent: 0.457750
+[2020-09-25 04:19:08 819] [Epoch: 3] corr: 0.790345, loss: 0.037937, val_corr: 0.793128, val_loss: 0.037249, val_xent: 0.454684, xent: 0.456623
+[2020-09-25 04:19:09 819] [Epoch: 4] corr: 0.800208, loss: 0.036257, val_corr: 0.803741, val_loss: 0.035505, val_xent: 0.450107, xent: 0.451993
+[2020-09-25 04:19:11 819] [Epoch: 5] corr: 0.805237, loss: 0.035402, val_corr: 0.805176, val_loss: 0.035260, val_xent: 0.449289, xent: 0.449472
+[2020-09-25 04:19:12 819] [Epoch: 6] corr: 0.806145, loss: 0.035245, val_corr: 0.805885, val_loss: 0.035158, val_xent: 0.449020, xent: 0.448948
+[2020-09-25 04:19:14 819] [Epoch: 7] corr: 0.806553, loss: 0.035181, val_corr: 0.806138, val_loss: 0.035111, val_xent: 0.448780, xent: 0.448706
+[2020-09-25 04:19:15 819] [Epoch: 8] corr: 0.807099, loss: 0.035098, val_corr: 0.806639, val_loss: 0.035041, val_xent: 0.448480, xent: 0.448437
+[2020-09-25 04:19:17 819] [Epoch: 9] corr: 0.807792, loss: 0.034984, val_corr: 0.806640, val_loss: 0.035047, val_xent: 0.448645, xent: 0.448100
+[2020-09-25 04:19:18 819] [Epoch: 10] corr: 0.808581, loss: 0.034854, val_corr: 0.807546, val_loss: 0.034924, val_xent: 0.448441, xent: 0.447722
+[2020-09-25 04:19:20 819] [Epoch: 11] corr: 0.809346, loss: 0.034737, val_corr: 0.807165, val_loss: 0.034983, val_xent: 0.448352, xent: 0.447409
+[2020-09-25 04:19:21 819] [Epoch: 12] corr: 0.810263, loss: 0.034587, val_corr: 0.809679, val_loss: 0.034566, val_xent: 0.447436, xent: 0.447003
+[2020-09-25 04:19:22 819] [Epoch: 13] corr: 0.811409, loss: 0.034399, val_corr: 0.809902, val_loss: 0.034512, val_xent: 0.447053, xent: 0.446483
+[2020-09-25 04:19:24 819] [Epoch: 14] corr: 0.811839, loss: 0.034336, val_corr: 0.810358, val_loss: 0.034444, val_xent: 0.446777, xent: 0.446301
+[2020-09-25 04:19:26 819] [Epoch: 15] corr: 0.813041, loss: 0.034140, val_corr: 0.812094, val_loss: 0.034167, val_xent: 0.446300, xent: 0.445820
+[2020-09-25 04:19:27 819] [Epoch: 16] corr: 0.814020, loss: 0.033970, val_corr: 0.812774, val_loss: 0.034038, val_xent: 0.445775, xent: 0.445327
+[2020-09-25 04:19:29 819] [Epoch: 17] corr: 0.814331, loss: 0.033926, val_corr: 0.812061, val_loss: 0.034166, val_xent: 0.446249, xent: 0.445174
+[2020-09-25 04:19:30 819] [Epoch: 18] corr: 0.814434, loss: 0.033915, val_corr: 0.813129, val_loss: 0.033990, val_xent: 0.445599, xent: 0.445202
+[2020-09-25 04:19:31 819] [Epoch: 19] corr: 0.815365, loss: 0.033755, val_corr: 0.813755, val_loss: 0.033867, val_xent: 0.445309, xent: 0.444733
+[2020-09-25 04:19:33 819] [Epoch: 20] corr: 0.816050, loss: 0.033641, val_corr: 0.814047, val_loss: 0.033818, val_xent: 0.445165, xent: 0.444425
+[2020-09-25 04:19:34 819] [Epoch: 21] corr: 0.816600, loss: 0.033549, val_corr: 0.814611, val_loss: 0.033737, val_xent: 0.445030, xent: 0.444161
+[2020-09-25 04:19:36 819] [Epoch: 22] corr: 0.817068, loss: 0.033474, val_corr: 0.815140, val_loss: 0.033648, val_xent: 0.444770, xent: 0.443967
+[2020-09-25 04:19:38 819] [Epoch: 23] corr: 0.816593, loss: 0.033574, val_corr: 0.814004, val_loss: 0.033848, val_xent: 0.445205, xent: 0.444296
+[2020-09-25 04:19:39 819] [Epoch: 24] corr: 0.816996, loss: 0.033490, val_corr: 0.812833, val_loss: 0.034048, val_xent: 0.445677, xent: 0.443960
+[2020-09-25 04:19:41 819] [Epoch: 25] corr: 0.817236, loss: 0.033444, val_corr: 0.814959, val_loss: 0.033713, val_xent: 0.444956, xent: 0.443815
+[2020-09-25 04:19:42 819] [Epoch: 26] corr: 0.818339, loss: 0.033263, val_corr: 0.814886, val_loss: 0.033703, val_xent: 0.444737, xent: 0.443357
+[2020-09-25 04:19:44 819] [Epoch: 27] corr: 0.818528, loss: 0.033235, val_corr: 0.814488, val_loss: 0.033824, val_xent: 0.445307, xent: 0.443314
+[2020-09-25 04:19:45 819] [Epoch: 28] corr: 0.818511, loss: 0.033260, val_corr: 0.815852, val_loss: 0.033535, val_xent: 0.444447, xent: 0.443434
+[2020-09-25 04:19:46 819] [Epoch: 29] corr: 0.818571, loss: 0.033227, val_corr: 0.814910, val_loss: 0.033717, val_xent: 0.444819, xent: 0.443263
+[2020-09-25 04:19:48 819] [Epoch: 30] corr: 0.819212, loss: 0.033123, val_corr: 0.816271, val_loss: 0.033497, val_xent: 0.444569, xent: 0.442974
+[2020-09-25 04:19:49 819] [Epoch: 31] corr: 0.819661, loss: 0.033058, val_corr: 0.816072, val_loss: 0.033500, val_xent: 0.444370, xent: 0.442855
+[2020-09-25 04:19:50 819] [Epoch: 32] corr: 0.820099, loss: 0.032981, val_corr: 0.816779, val_loss: 0.033385, val_xent: 0.443997, xent: 0.442618
+[2020-09-25 04:19:52 819] [Epoch: 33] corr: 0.820791, loss: 0.032860, val_corr: 0.816888, val_loss: 0.033359, val_xent: 0.443920, xent: 0.442271
+[2020-09-25 04:19:53 819] [Epoch: 34] corr: 0.821056, loss: 0.032814, val_corr: 0.816784, val_loss: 0.033392, val_xent: 0.444064, xent: 0.442196
+[2020-09-25 04:19:55 819] [Epoch: 35] corr: 0.821222, loss: 0.032803, val_corr: 0.818380, val_loss: 0.033104, val_xent: 0.443374, xent: 0.442223
+[2020-09-25 04:19:56 819] [Epoch: 36] corr: 0.822061, loss: 0.032643, val_corr: 0.818886, val_loss: 0.033036, val_xent: 0.443172, xent: 0.441770
+[2020-09-25 04:19:57 819] [Epoch: 37] corr: 0.822111, loss: 0.032659, val_corr: 0.819732, val_loss: 0.032923, val_xent: 0.443097, xent: 0.441903
+[2020-09-25 04:19:59 819] [Epoch: 38] corr: 0.822893, loss: 0.032516, val_corr: 0.819992, val_loss: 0.032856, val_xent: 0.442774, xent: 0.441488
+[2020-09-25 04:20:00 819] [Epoch: 39] corr: 0.823709, loss: 0.032371, val_corr: 0.820681, val_loss: 0.032731, val_xent: 0.442407, xent: 0.441081
+[2020-09-25 04:20:01 819] [Epoch: 40] corr: 0.823182, loss: 0.032513, val_corr: 0.820029, val_loss: 0.032880, val_xent: 0.443029, xent: 0.441529
+[2020-09-25 04:20:03 819] [Epoch: 41] corr: 0.824123, loss: 0.032300, val_corr: 0.820794, val_loss: 0.032717, val_xent: 0.442342, xent: 0.440899
+[2020-09-25 04:20:04 819] [Epoch: 42] corr: 0.824561, loss: 0.032225, val_corr: 0.820625, val_loss: 0.032756, val_xent: 0.442625, xent: 0.440702
+[2020-09-25 04:20:06 819] [Epoch: 43] corr: 0.825031, loss: 0.032156, val_corr: 0.820192, val_loss: 0.032851, val_xent: 0.442798, xent: 0.440520
+[2020-09-25 04:20:07 819] [Epoch: 44] corr: 0.824668, loss: 0.032229, val_corr: 0.820313, val_loss: 0.032834, val_xent: 0.442568, xent: 0.440780
+[2020-09-25 04:20:09 819] [Epoch: 45] corr: 0.824943, loss: 0.032174, val_corr: 0.820900, val_loss: 0.032696, val_xent: 0.442419, xent: 0.440599
+[2020-09-25 04:20:10 819] [Epoch: 46] corr: 0.825073, loss: 0.032145, val_corr: 0.820777, val_loss: 0.032762, val_xent: 0.442675, xent: 0.440504
+[2020-09-25 04:20:11 819] [Epoch: 47] corr: 0.825545, loss: 0.032070, val_corr: 0.821695, val_loss: 0.032572, val_xent: 0.442057, xent: 0.440336
+[2020-09-25 04:20:13 819] [Epoch: 48] corr: 0.826085, loss: 0.031973, val_corr: 0.821966, val_loss: 0.032530, val_xent: 0.441859, xent: 0.440068
+[2020-09-25 04:20:14 819] [Epoch: 49] corr: 0.826346, loss: 0.031924, val_corr: 0.821204, val_loss: 0.032660, val_xent: 0.442320, xent: 0.439904
+[2020-09-25 04:20:16 819] [Epoch: 50] corr: 0.826669, loss: 0.031881, val_corr: 0.821030, val_loss: 0.032691, val_xent: 0.442406, xent: 0.439835
+[2020-09-25 04:20:17 819] [Epoch: 51] corr: 0.826823, loss: 0.031848, val_corr: 0.822051, val_loss: 0.032505, val_xent: 0.441839, xent: 0.439730
+[2020-09-25 04:20:18 819] [Epoch: 52] corr: 0.827215, loss: 0.031783, val_corr: 0.822108, val_loss: 0.032522, val_xent: 0.441929, xent: 0.439572
+[2020-09-25 04:20:20 819] [Epoch: 53] corr: 0.827286, loss: 0.031779, val_corr: 0.821514, val_loss: 0.032592, val_xent: 0.442112, xent: 0.439584
+[2020-09-25 04:20:21 819] [Epoch: 54] corr: 0.827875, loss: 0.031685, val_corr: 0.822524, val_loss: 0.032424, val_xent: 0.441722, xent: 0.439359
+[2020-09-25 04:20:22 819] [Epoch: 55] corr: 0.827597, loss: 0.031726, val_corr: 0.822486, val_loss: 0.032457, val_xent: 0.441893, xent: 0.439500
+[2020-09-25 04:20:24 819] [Epoch: 56] corr: 0.828728, loss: 0.031538, val_corr: 0.823309, val_loss: 0.032314, val_xent: 0.441585, xent: 0.439013
+[2020-09-25 04:20:26 819] [Epoch: 57] corr: 0.829106, loss: 0.031478, val_corr: 0.823772, val_loss: 0.032238, val_xent: 0.441389, xent: 0.438912
+[2020-09-25 04:20:27 819] [Epoch: 58] corr: 0.826766, loss: 0.031880, val_corr: 0.822396, val_loss: 0.032487, val_xent: 0.442094, xent: 0.439996
+[2020-09-25 04:20:29 819] [Epoch: 59] corr: 0.826977, loss: 0.031853, val_corr: 0.822745, val_loss: 0.032458, val_xent: 0.442062, xent: 0.439903
+[2020-09-25 04:20:30 819] [Epoch: 60] corr: 0.828912, loss: 0.031516, val_corr: 0.824785, val_loss: 0.032060, val_xent: 0.440830, xent: 0.439018
+[2020-09-25 04:20:32 819] [Epoch: 61] corr: 0.830356, loss: 0.031264, val_corr: 0.825355, val_loss: 0.031979, val_xent: 0.440650, xent: 0.438281
+[2020-09-25 04:20:33 819] [Epoch: 62] corr: 0.831138, loss: 0.031128, val_corr: 0.825402, val_loss: 0.032006, val_xent: 0.440608, xent: 0.437906
+[2020-09-25 04:20:34 819] [Epoch: 63] corr: 0.831110, loss: 0.031149, val_corr: 0.824933, val_loss: 0.032041, val_xent: 0.440886, xent: 0.437986
+[2020-09-25 04:20:36 819] [Epoch: 64] corr: 0.831090, loss: 0.031136, val_corr: 0.825362, val_loss: 0.031988, val_xent: 0.440639, xent: 0.437939
+[2020-09-25 04:20:37 819] [Epoch: 65] corr: 0.831351, loss: 0.031096, val_corr: 0.825194, val_loss: 0.032027, val_xent: 0.440752, xent: 0.437835
+[2020-09-25 04:20:39 819] [Epoch: 66] corr: 0.831621, loss: 0.031059, val_corr: 0.825969, val_loss: 0.031874, val_xent: 0.440358, xent: 0.437761
+[2020-09-25 04:20:40 819] [Epoch: 67] corr: 0.831646, loss: 0.031047, val_corr: 0.825933, val_loss: 0.031875, val_xent: 0.440259, xent: 0.437705
+[2020-09-25 04:20:41 819] [Epoch: 68] corr: 0.831952, loss: 0.030999, val_corr: 0.824559, val_loss: 0.032091, val_xent: 0.441069, xent: 0.437535
+[2020-09-25 04:20:43 819] [Epoch: 69] corr: 0.831436, loss: 0.031086, val_corr: 0.824319, val_loss: 0.032173, val_xent: 0.441038, xent: 0.437835
+[2020-09-25 04:20:44 819] [Epoch: 70] corr: 0.831587, loss: 0.031072, val_corr: 0.826374, val_loss: 0.031836, val_xent: 0.440179, xent: 0.437767
+[2020-09-25 04:20:45 819] [Epoch: 71] corr: 0.832755, loss: 0.030858, val_corr: 0.826245, val_loss: 0.031805, val_xent: 0.440180, xent: 0.437173
+[2020-09-25 04:20:47 819] [Epoch: 72] corr: 0.832886, loss: 0.030833, val_corr: 0.825502, val_loss: 0.031941, val_xent: 0.440518, xent: 0.437082
+[2020-09-25 04:20:48 819] [Epoch: 73] corr: 0.832253, loss: 0.030943, val_corr: 0.825375, val_loss: 0.031952, val_xent: 0.440635, xent: 0.437398
+[2020-09-25 04:20:49 819] [Epoch: 74] corr: 0.832883, loss: 0.030838, val_corr: 0.826056, val_loss: 0.031848, val_xent: 0.440301, xent: 0.437091
+[2020-09-25 04:20:51 819] [Epoch: 75] corr: 0.832539, loss: 0.030904, val_corr: 0.826046, val_loss: 0.031855, val_xent: 0.440304, xent: 0.437256
+[2020-09-25 04:20:52 819] [Epoch: 76] corr: 0.832976, loss: 0.030840, val_corr: 0.825902, val_loss: 0.031885, val_xent: 0.440254, xent: 0.437100
+[2020-09-25 04:20:53 819] [Epoch: 77] corr: 0.833069, loss: 0.030817, val_corr: 0.825053, val_loss: 0.032057, val_xent: 0.440771, xent: 0.437011
+[2020-09-25 04:20:55 819] [Epoch: 78] corr: 0.833076, loss: 0.030805, val_corr: 0.826948, val_loss: 0.031703, val_xent: 0.439911, xent: 0.436988
+[2020-09-25 04:20:56 819] [Epoch: 79] corr: 0.833814, loss: 0.030687, val_corr: 0.826698, val_loss: 0.031749, val_xent: 0.440020, xent: 0.436658
+[2020-09-25 04:20:57 819] [Epoch: 80] corr: 0.834152, loss: 0.030620, val_corr: 0.827103, val_loss: 0.031671, val_xent: 0.439860, xent: 0.436474
+[2020-09-25 04:20:58 819] [Epoch: 81] corr: 0.834504, loss: 0.030561, val_corr: 0.826796, val_loss: 0.031724, val_xent: 0.439937, xent: 0.436301
+[2020-09-25 04:21:00 819] [Epoch: 82] corr: 0.834538, loss: 0.030556, val_corr: 0.826898, val_loss: 0.031706, val_xent: 0.439913, xent: 0.436282
+[2020-09-25 04:21:01 819] [Epoch: 83] corr: 0.834664, loss: 0.030536, val_corr: 0.825680, val_loss: 0.031916, val_xent: 0.440490, xent: 0.436241
+[2020-09-25 04:21:02 819] [Epoch: 84] corr: 0.834761, loss: 0.030520, val_corr: 0.826383, val_loss: 0.031788, val_xent: 0.440130, xent: 0.436190
+[2020-09-25 04:21:04 819] [Epoch: 85] corr: 0.835069, loss: 0.030465, val_corr: 0.826515, val_loss: 0.031764, val_xent: 0.440040, xent: 0.436032
+[2020-09-25 04:21:05 819] [Epoch: 86] corr: 0.835068, loss: 0.030465, val_corr: 0.825824, val_loss: 0.031925, val_xent: 0.440374, xent: 0.436027
+[2020-09-25 04:21:06 819] [Epoch: 87] corr: 0.834733, loss: 0.030529, val_corr: 0.825484, val_loss: 0.031979, val_xent: 0.440580, xent: 0.436213
+[2020-09-25 04:21:08 819] [Epoch: 88] corr: 0.834677, loss: 0.030534, val_corr: 0.826146, val_loss: 0.031843, val_xent: 0.440243, xent: 0.436228
+[2020-09-25 04:21:09 819] [Epoch: 89] corr: 0.834953, loss: 0.030489, val_corr: 0.826593, val_loss: 0.031769, val_xent: 0.440006, xent: 0.436085
+[2020-09-25 04:21:10 819] [Epoch: 90] corr: 0.835222, loss: 0.030438, val_corr: 0.826940, val_loss: 0.031711, val_xent: 0.439873, xent: 0.435950
+[2020-09-25 04:21:12 819] [Epoch: 91] corr: 0.835295, loss: 0.030428, val_corr: 0.825717, val_loss: 0.031907, val_xent: 0.440389, xent: 0.435921
+[2020-09-25 04:21:13 819] [Epoch: 92] corr: 0.835212, loss: 0.030443, val_corr: 0.826171, val_loss: 0.031882, val_xent: 0.440245, xent: 0.435930
+[2020-09-25 04:21:15 819] [Epoch: 93] corr: 0.835129, loss: 0.030460, val_corr: 0.826744, val_loss: 0.031725, val_xent: 0.439922, xent: 0.436028
+[2020-09-25 04:21:16 819] [Epoch: 94] corr: 0.835464, loss: 0.030399, val_corr: 0.826716, val_loss: 0.031741, val_xent: 0.439929, xent: 0.435830
+[2020-09-25 04:21:17 819] [Epoch: 95] corr: 0.835745, loss: 0.030357, val_corr: 0.826005, val_loss: 0.031927, val_xent: 0.440400, xent: 0.435722
+[2020-09-25 04:21:19 819] [Epoch: 96] corr: 0.835942, loss: 0.030326, val_corr: 0.826795, val_loss: 0.031734, val_xent: 0.439914, xent: 0.435665
+[2020-09-25 04:21:20 819] [Epoch: 97] corr: 0.836198, loss: 0.030273, val_corr: 0.826065, val_loss: 0.031895, val_xent: 0.440262, xent: 0.435480
+[2020-09-25 04:21:21 819] [Epoch: 98] corr: 0.835936, loss: 0.030326, val_corr: 0.826873, val_loss: 0.031702, val_xent: 0.439858, xent: 0.435657
+[2020-09-25 04:21:23 819] [Epoch: 99] corr: 0.835839, loss: 0.030334, val_corr: 0.826335, val_loss: 0.031809, val_xent: 0.440133, xent: 0.435654
+[2020-09-25 04:21:26 819] 
+Evaluation on test data: {'mse': 0.032214344, 'r2_score': 0.1839880243484007, 'correlation': 0.8251267870252192}
